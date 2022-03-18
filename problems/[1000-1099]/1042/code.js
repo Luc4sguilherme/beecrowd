@@ -1,5 +1,5 @@
-var input = '-14 21 7'
-var numbers = input.split(' ');
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+var numbers = input.split(' ').map(Number);
 
 function sort(numbers) {
     return [...numbers].sort((a, b) => a - b)
