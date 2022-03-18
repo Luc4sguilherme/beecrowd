@@ -52,7 +52,7 @@
 - [x] [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) - [Interval 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1072/code.js)
 - [x] [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) - [Even Square](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1073/code.js)
 - [x] [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) - [Even or Odd](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1074/code.js)
-- [ ] [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - [Remaining 2]
+- [x] [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - [Remaining 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1075/code.js)
 - [ ] [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - [Multiplication Table]
 - [ ] [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - [Weighted Averages]
 - [ ] [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - [Highest and Position]

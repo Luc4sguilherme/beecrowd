@@ -1,4 +1,4 @@
-# Problems 1000 (52 %)
+# Problems 1000 (53 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js) *Beginner*
@@ -76,7 +76,7 @@
 - [x] [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) - [Interval 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1072/code.js) *Beginner*
 - [x] [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) - [Even Square](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1073/code.js) *Beginner*
 - [x] [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) - [Even or Odd](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1074/code.js) *Beginner*
-- [ ] [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - [Remaining 2] *Beginner*
+- [x] [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - [Remaining 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1075/code.js) *Beginner*
 - [ ] [1076](https://www.beecrowd.com.br/judge/pt/problems/view/1076) - [Design Labirints] *Graph*
 - [ ] [1077](https://www.beecrowd.com.br/judge/pt/problems/view/1077) - [Infix to Posfix] *Data Structures and Libraries*
 - [ ] [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - [Multiplication Table] *Beginner*
