@@ -1,4 +1,4 @@
-# Problems 
+# Problems (0 %)
 
 
 - [ ] [1053](https://www.beecrowd.com.br/judge/pt/problems/view/1053) - [Continuous Drawing]

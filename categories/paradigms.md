@@ -1,4 +1,4 @@
-# Problems 
+# Problems (0 %)
 
 
 - [ ] [1027](https://www.beecrowd.com.br/judge/pt/problems/view/1027) - [Critical Wave]

@@ -1,4 +1,4 @@
-# Problems 
+# Problems (0 %)
 
 
 - [ ] [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - [Encryption]

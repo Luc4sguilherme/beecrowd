@@ -1,4 +1,4 @@
-# Problems 
+# Problems (0 %)
 
 
 - [ ] [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) - [Fire Flowers]

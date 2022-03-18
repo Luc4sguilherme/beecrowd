@@ -1,4 +1,4 @@
-# Problems 
+# Problems (0 %)
 
 
 - [ ] [1028](https://www.beecrowd.com.br/judge/pt/problems/view/1028) - [Collectable Cards]

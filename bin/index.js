@@ -204,7 +204,8 @@ function generateDocsByCategories(problems) {
   for (let category in grouped) {
     const problem = grouped[category];
     const body = formatBodyOfCategories(problem);
-    const header = `# Problems \n\n`;
+    const progress = calculateProgress(body);
+    const header = `# Problems (${progress} %)\n\n`;
     const content = `${header}${body}`;
     const filename = category.replace(/\s/g, "-").toLowerCase();
     const path = resolve(

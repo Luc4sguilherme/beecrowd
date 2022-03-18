@@ -1,4 +1,4 @@
-# Problems 
+# Problems (0.14 %)
 
 
 - [ ] [1026](https://www.beecrowd.com.br/judge/pt/problems/view/1026) - [To Carry or not to Carry]

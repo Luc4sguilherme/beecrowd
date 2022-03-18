@@ -1,4 +1,4 @@
-# Problems 
+# Problems (0.56 %)
 
 
 - [x] [1022](https://www.beecrowd.com.br/judge/pt/problems/view/1022) - [TDA Rational](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1022/code.js)

@@ -1,4 +1,4 @@
-# Problems 
+# Problems (0 %)
 
 
 - [ ] [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) - [Basic Select]
