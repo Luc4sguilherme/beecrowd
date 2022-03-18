@@ -1,4 +1,4 @@
-# Problems 1500 (0.9900990099009901 %)
+# Problems 1500 (0.99 %)
 
 
 - [ ] [1500](https://www.beecrowd.com.br/judge/pt/problems/view/1500) - [Horrible Queries] *Data Structures and Libraries*

@@ -150,7 +150,11 @@ function calculateProgress(problems) {
 
   const progress = (totalOfSolvedProblems * 100) / totalOfProblems;
 
-  return progress;
+  if (Number.isInteger(progress)) {
+    return progress;
+  }
+
+  return progress.toFixed(2);
 }
 
 function formatBodyOfProblems(problems) {

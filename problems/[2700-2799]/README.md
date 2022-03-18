@@ -1,4 +1,4 @@
-# Problems 2700 (1.0204081632653061 %)
+# Problems 2700 (1.02 %)
 
 
 - [ ] [2700](https://www.beecrowd.com.br/judge/pt/problems/view/2700) - [Fundraising] *Data Structures and Libraries*

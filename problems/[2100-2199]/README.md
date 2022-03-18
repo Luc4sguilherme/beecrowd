@@ -1,4 +1,4 @@
-# Problems 2100 (1.0204081632653061 %)
+# Problems 2100 (1.02 %)
 
 
 - [ ] [2100](https://www.beecrowd.com.br/judge/pt/problems/view/2100) - [Xing Tzen Zu’s Movie Theater] *Mathematics*
