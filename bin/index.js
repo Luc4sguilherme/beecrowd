@@ -34,7 +34,7 @@ function checkIfTheProblemFileExits(number, extension = "js") {
 function createPath(number) {
   const path = getProblemPath(number);
 
-  fs.mkdirSync(path, { recurrentsive: true });
+  fs.mkdirSync(path, { recursive: true });
 
   return path;
 }
