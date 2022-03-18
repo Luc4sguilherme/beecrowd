@@ -1,4 +1,4 @@
-# Problems 1000 (53 %)
+# Problems 1000 (54 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js) *Beginner*
@@ -79,7 +79,7 @@
 - [x] [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - [Remaining 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1075/code.js) *Beginner*
 - [ ] [1076](https://www.beecrowd.com.br/judge/pt/problems/view/1076) - [Design Labirints] *Graph*
 - [ ] [1077](https://www.beecrowd.com.br/judge/pt/problems/view/1077) - [Infix to Posfix] *Data Structures and Libraries*
-- [ ] [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - [Multiplication Table] *Beginner*
+- [x] [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - [Multiplication Table](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1078/code.js) *Beginner*
 - [ ] [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - [Weighted Averages] *Beginner*
 - [ ] [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - [Highest and Position] *Beginner*
 - [ ] [1081](https://www.beecrowd.com.br/judge/pt/problems/view/1081) - [DFSr - Depth Hierarchy] *Graph*
