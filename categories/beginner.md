@@ -1,4 +1,4 @@
-# Problems (17.61 %)
+# Problems (17.91 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -58,7 +58,7 @@
 - [x] [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - [Highest and Position](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1080/code.js)
 - [x] [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - [Experiments](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1094/code.js)
 - [x] [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - [Sequence IJ 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1095/code.js)
-- [ ] [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - [Sequence IJ 2]
+- [x] [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - [Sequence IJ 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1096/code.js)
 - [ ] [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - [Sequence IJ 3]
 - [ ] [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - [Sequence IJ 4]
 - [ ] [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - [Sum of Consecutive Odd Numbers II]
