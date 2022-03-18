@@ -1,0 +1,39 @@
+## Problems by Categories
+- [Beginner](categories/beginner.md) Basic problems for anyone who has just started to program...
+- [Ad-Hoc](categories/ad-hoc.md) Simulation Problems, Dates, Games and general Ad-Hoc...
+- [Strings](categories/strings.md) Palindromes, Frequency, Ad-Hoc, LCS, String Manipulation...
+- [Data Structures and Libraries](categories/data-structures-and-libraries.md) Queue, Stack, Sort, Map, Set...
+- [Mathematics](categories/mathematics.md) Number Theory, Prime Numbers, Combinatorics, BigInteger...
+- [Paradigms](categories/paradigms.md) Dynamic Programming, Binary Search, Greedy, Backtracking ...
+- [Graph](categories/graph.md) Flood Fill, MST, SSSP, DAG, Maximum Flow, Tree...
+- [Computational Geometry](categories/computational-geometry.md) Points and Lines, Polygon...
+- [SQL](categories/sql.md) Query Languages: Select, Insert, Update, Create
+- [List All](categories/list-all.md) All the problems of the website in one place. 2283 PROBLEMS
+- [Authors](categories/authors.md) All available problems grouped by author. 328 AUTHORS
+- [Origins](categories/origins.md) All available problems grouped by contests or events. 205 ORIGINS
+
+## Problems
+ - [1000 - 1099](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099])
+ - [1100 - 1199](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199])
+ - [1200 - 1299](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1200-1299])
+ - [1300 - 1399](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1300-1399])
+ - [1400 - 1499](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1400-1499])
+ - [1500 - 1599](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1500-1599])
+ - [1600 - 1699](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1600-1699])
+ - [1700 - 1799](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1700-1799])
+ - [1800 - 1899](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899])
+ - [1900 - 1999](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999])
+ - [2000 - 2099](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099])
+ - [2100 - 2199](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199])
+ - [2200 - 2299](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2200-2299])
+ - [2300 - 2399](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2300-2399])
+ - [2400 - 2499](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2400-2499])
+ - [2500 - 2599](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2500-2599])
+ - [2600 - 2699](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2600-2699])
+ - [2700 - 2799](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2700-2799])
+ - [2800 - 2899](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2800-2899])
+ - [2900 - 2999](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2900-2999])
+ - [3000 - 3099](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[3000-3099])
+ - [3100 - 3199](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[3100-3199])
+ - [3200 - 3299](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[3200-3299])
+ - [3300 - 3399](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[3300-3399])

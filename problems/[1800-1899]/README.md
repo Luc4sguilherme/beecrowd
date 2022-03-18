@@ -1,0 +1,103 @@
+# Problems 1800 (0 %)
+
+
+- [ ] [1800](https://www.beecrowd.com.br/judge/pt/problems/view/1800) - [Where Are My Keys] *Ad-Hoc*
+- [ ] [1801](https://www.beecrowd.com.br/judge/pt/problems/view/1801) - [Playing with Numbers] *Mathematics*
+- [ ] [1802](https://www.beecrowd.com.br/judge/pt/problems/view/1802) - [Books Catalog] *Ad-Hoc*
+- [ ] [1803](https://www.beecrowd.com.br/judge/pt/problems/view/1803) - [Matring] *Strings*
+- [ ] [1804](https://www.beecrowd.com.br/judge/pt/problems/view/1804) - [Mathematicians Needed in Mars] *Data Structures and Libraries*
+- [ ] [1805](https://www.beecrowd.com.br/judge/pt/problems/view/1805) - [Natural Sum] *Mathematics*
+- [ ] [1806](https://www.beecrowd.com.br/judge/pt/problems/view/1806) - [Agent 004] *Graph*
+- [ ] [1807](https://www.beecrowd.com.br/judge/pt/problems/view/1807) - [Trinomial Triangle, the Revenge] *Mathematics*
+- [ ] [1808](https://www.beecrowd.com.br/judge/pt/problems/view/1808) - [The Return of The King] *Ad-Hoc*
+- [ ] [1809](https://www.beecrowd.com.br/judge/pt/problems/view/1809) - [Secret Agents] *Ad-Hoc*
+- [ ] [1810](https://www.beecrowd.com.br/judge/pt/problems/view/1810) - [Beverly Hills, Century City] *Paradigms*
+- [ ] [1811](https://www.beecrowd.com.br/judge/pt/problems/view/1811) - [The Oscar Goes To...] *Ad-Hoc*
+- [ ] [1812](https://www.beecrowd.com.br/judge/pt/problems/view/1812) - [A Cluster to Avoid Floods] *Mathematics*
+- [ ] [1813](https://www.beecrowd.com.br/judge/pt/problems/view/1813) - [Anachronic?] *Graph*
+- [ ] [1814](https://www.beecrowd.com.br/judge/pt/problems/view/1814) - [DNA Storage?] *Ad-Hoc*
+- [ ] [1815](https://www.beecrowd.com.br/judge/pt/problems/view/1815) - [Drunk People?] *Mathematics*
+- [ ] [1816](https://www.beecrowd.com.br/judge/pt/problems/view/1816) - [Prague Vikings?] *Ad-Hoc*
+- [ ] [1817](https://www.beecrowd.com.br/judge/pt/problems/view/1817) - [Tsing Ling Archaeologists] *Ad-Hoc*
+- [ ] [1818](https://www.beecrowd.com.br/judge/pt/problems/view/1818) - [Convention Center] *Computational Geometry*
+- [ ] [1819](https://www.beecrowd.com.br/judge/pt/problems/view/1819) - [Estimating Production] *Mathematics*
+- [ ] [1820](https://www.beecrowd.com.br/judge/pt/problems/view/1820) - [Sing Pil University Groups] *Ad-Hoc*
+- [ ] [1821](https://www.beecrowd.com.br/judge/pt/problems/view/1821) - [Chinese Miai] *Graph*
+- [ ] [1822](https://www.beecrowd.com.br/judge/pt/problems/view/1822) - [Constructions of China] *Paradigms*
+- [ ] [1823](https://www.beecrowd.com.br/judge/pt/problems/view/1823) - [The Last But One Emperor] *Graph*
+- [ ] [1824](https://www.beecrowd.com.br/judge/pt/problems/view/1824) - [Tse Tse Frogs] *Ad-Hoc*
+- [ ] [1825](https://www.beecrowd.com.br/judge/pt/problems/view/1825) - [Anting] *Computational Geometry*
+- [ ] [1826](https://www.beecrowd.com.br/judge/pt/problems/view/1826) - [Is The Language Infinite?] *Graph*
+- [ ] [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - [Square Array IV] *Beginner*
+- [ ] [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) - [Bazinga!] *Beginner*
+- [ ] [1829](https://www.beecrowd.com.br/judge/pt/problems/view/1829) - [Biggest Number Game] *Mathematics*
+- [ ] [1830](https://www.beecrowd.com.br/judge/pt/problems/view/1830) - [Boxes of Chocolates] *Mathematics*
+- [ ] [1831](https://www.beecrowd.com.br/judge/pt/problems/view/1831) - [Hard Day At Work] *Mathematics*
+- [ ] [1832](https://www.beecrowd.com.br/judge/pt/problems/view/1832) - [EBCDIC] *Ad-Hoc*
+- [ ] [1833](https://www.beecrowd.com.br/judge/pt/problems/view/1833) - [Christmas Decoration] *Paradigms*
+- [ ] [1834](https://www.beecrowd.com.br/judge/pt/problems/view/1834) - [Vogons!] *Computational Geometry*
+- [ ] [1835](https://www.beecrowd.com.br/judge/pt/problems/view/1835) - [Campaign's Promise] *Graph*
+- [ ] [1836](https://www.beecrowd.com.br/judge/pt/problems/view/1836) - [Pokémon!] *Ad-Hoc*
+- [ ] [1837](https://www.beecrowd.com.br/judge/pt/problems/view/1837) - [Preface] *Beginner*
+- [ ] [1838](https://www.beecrowd.com.br/judge/pt/problems/view/1838) - [The Philosopher's Stone] *Paradigms*
+- [ ] [1839](https://www.beecrowd.com.br/judge/pt/problems/view/1839) - [The Chamber of Secrets] *Mathematics*
+- [ ] [1840](https://www.beecrowd.com.br/judge/pt/problems/view/1840) - [The Prisoner of Azkaban] *Ad-Hoc*
+- [ ] [1841](https://www.beecrowd.com.br/judge/pt/problems/view/1841) - [The Goblet of Fire] *Mathematics*
+- [ ] [1842](https://www.beecrowd.com.br/judge/pt/problems/view/1842) - [The Order of the Phoenix] *Strings*
+- [ ] [1843](https://www.beecrowd.com.br/judge/pt/problems/view/1843) - [The Half-Blood Prince] *Paradigms*
+- [ ] [1844](https://www.beecrowd.com.br/judge/pt/problems/view/1844) - [The Deathly Hallows] *Computational Geometry*
+- [ ] [1845](https://www.beecrowd.com.br/judge/pt/problems/view/1845) - [Efilogue] *Ad-Hoc*
+- [ ] [1846](https://www.beecrowd.com.br/judge/pt/problems/view/1846) - [Number to Name] *Strings*
+- [ ] [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) - [Welcome to the Winter!] *Beginner*
+- [ ] [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - [Counting Crow] *Beginner*
+- [ ] [1849](https://www.beecrowd.com.br/judge/pt/problems/view/1849) - [Dracarys!] *Ad-Hoc*
+- [ ] [1850](https://www.beecrowd.com.br/judge/pt/problems/view/1850) - [No One's Labyrinth] *Graph*
+- [ ] [1851](https://www.beecrowd.com.br/judge/pt/problems/view/1851) - [How To Train Your Dragon] *Data Structures and Libraries*
+- [ ] [1852](https://www.beecrowd.com.br/judge/pt/problems/view/1852) - [Stark Direwolves] *Paradigms*
+- [ ] [1853](https://www.beecrowd.com.br/judge/pt/problems/view/1853) - [Daenerys' Game of Trust] *Strings*
+- [ ] [1854](https://www.beecrowd.com.br/judge/pt/problems/view/1854) - [Winter in Winterfell] *Data Structures and Libraries*
+- [ ] [1855](https://www.beecrowd.com.br/judge/pt/problems/view/1855) - [Maester's Map] *Graph*
+- [ ] [1856](https://www.beecrowd.com.br/judge/pt/problems/view/1856) - [Arya's Death List] *Data Structures and Libraries*
+- [ ] [1857](https://www.beecrowd.com.br/judge/pt/problems/view/1857) - [Prelude of a Red Wedding] *Computational Geometry*
+- [ ] [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - [Theon's Answer] *Beginner*
+- [ ] [1859](https://www.beecrowd.com.br/judge/pt/problems/view/1859) - [Frozen Archaeology] *Strings*
+- [ ] [1860](https://www.beecrowd.com.br/judge/pt/problems/view/1860) - [Cersei's Walk of Shame] *Paradigms*
+- [ ] [1861](https://www.beecrowd.com.br/judge/pt/problems/view/1861) - [Hall of Murderers] *Data Structures and Libraries*
+- [ ] [1862](https://www.beecrowd.com.br/judge/pt/problems/view/1862) - [Houses of Westeros] *Graph*
+- [ ] [1863](https://www.beecrowd.com.br/judge/pt/problems/view/1863) - [Ramsay's Counter-attack] *Data Structures and Libraries*
+- [ ] [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - [Our Days Are Never Coming Back] *Beginner*
+- [ ] [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir] *Beginner*
+- [ ] [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Bill] *Beginner*
+- [ ] [1867](https://www.beecrowd.com.br/judge/pt/problems/view/1867) - [The Greater One-digit Number] *Ad-Hoc*
+- [ ] [1868](https://www.beecrowd.com.br/judge/pt/problems/view/1868) - [Square Spiral] *Strings*
+- [ ] [1869](https://www.beecrowd.com.br/judge/pt/problems/view/1869) - [Base 32] *Mathematics*
+- [ ] [1870](https://www.beecrowd.com.br/judge/pt/problems/view/1870) - [Fans and Balloons] *Ad-Hoc*
+- [ ] [1871](https://www.beecrowd.com.br/judge/pt/problems/view/1871) - [Zero means Zero] *Strings*
+- [ ] [1872](https://www.beecrowd.com.br/judge/pt/problems/view/1872) - [Palindrome Double] *Mathematics*
+- [ ] [1873](https://www.beecrowd.com.br/judge/pt/problems/view/1873) - [Rock-paper-scissors-lizard-Spock] *Strings*
+- [ ] [1874](https://www.beecrowd.com.br/judge/pt/problems/view/1874) - [Pushing Blocks] *Data Structures and Libraries*
+- [ ] [1875](https://www.beecrowd.com.br/judge/pt/problems/view/1875) - [Tribol] *Computational Geometry*
+- [ ] [1876](https://www.beecrowd.com.br/judge/pt/problems/view/1876) - [Rabiola] *Ad-Hoc*
+- [ ] [1877](https://www.beecrowd.com.br/judge/pt/problems/view/1877) - [Sansa's Snow Castle] *Ad-Hoc*
+- [ ] [1878](https://www.beecrowd.com.br/judge/pt/problems/view/1878) - [Contests in Sequence] *Paradigms*
+- [ ] [1879](https://www.beecrowd.com.br/judge/pt/problems/view/1879) - [Bridge] *Ad-Hoc*
+- [ ] [1880](https://www.beecrowd.com.br/judge/pt/problems/view/1880) - [Renzo and the Palindromic Decoration] *Ad-Hoc*
+- [ ] [1881](https://www.beecrowd.com.br/judge/pt/problems/view/1881) - [Robotics Competition] *Ad-Hoc*
+- [ ] [1882](https://www.beecrowd.com.br/judge/pt/problems/view/1882) - [Random Walks in Thailand] *Graph*
+- [ ] [1883](https://www.beecrowd.com.br/judge/pt/problems/view/1883) - [Escape From Ayutthaya] *Graph*
+- [ ] [1884](https://www.beecrowd.com.br/judge/pt/problems/view/1884) - [Fighting the Rajasi] *Ad-Hoc*
+- [ ] [1885](https://www.beecrowd.com.br/judge/pt/problems/view/1885) - [Thai Lotery] *Ad-Hoc*
+- [ ] [1886](https://www.beecrowd.com.br/judge/pt/problems/view/1886) - [Protecting the Temples] *Ad-Hoc*
+- [ ] [1887](https://www.beecrowd.com.br/judge/pt/problems/view/1887) - [The Kunming-Singapore Railway] *Ad-Hoc*
+- [ ] [1888](https://www.beecrowd.com.br/judge/pt/problems/view/1888) - [The chedis of Kamphaeng Phet] *Ad-Hoc*
+- [ ] [1889](https://www.beecrowd.com.br/judge/pt/problems/view/1889) - [Training With the Larvae of Phuket] *Ad-Hoc*
+- [ ] [1890](https://www.beecrowd.com.br/judge/pt/problems/view/1890) - [Putting Plates on the Tuk-tuks] *Ad-Hoc*
+- [ ] [1891](https://www.beecrowd.com.br/judge/pt/problems/view/1891) - [Removing Coins in the Kem Kradan] *Ad-Hoc*
+- [ ] [1892](https://www.beecrowd.com.br/judge/pt/problems/view/1892) - [Freshman Beats Veteran?] *Paradigms*
+- [ ] [1893](https://www.beecrowd.com.br/judge/pt/problems/view/1893) - [Moon Phases] *Ad-Hoc*
+- [ ] [1894](https://www.beecrowd.com.br/judge/pt/problems/view/1894) - [Phylogeny] *Graph*
+- [ ] [1895](https://www.beecrowd.com.br/judge/pt/problems/view/1895) - [Game of Limit] *Ad-Hoc*
+- [ ] [1896](https://www.beecrowd.com.br/judge/pt/problems/view/1896) - [It's Time to Duel!] *Ad-Hoc*
+- [ ] [1897](https://www.beecrowd.com.br/judge/pt/problems/view/1897) - [Smart Game] *Data Structures and Libraries*
+- [ ] [1898](https://www.beecrowd.com.br/judge/pt/problems/view/1898) - [Kickback Sum] *Strings*
+- [ ] [1899](https://www.beecrowd.com.br/judge/pt/problems/view/1899) - [Hit the Target!] *Ad-Hoc*

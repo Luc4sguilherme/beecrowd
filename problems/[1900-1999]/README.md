@@ -1,0 +1,103 @@
+# Problems 1900 (0 %)
+
+
+- [ ] [1900](https://www.beecrowd.com.br/judge/pt/problems/view/1900) - [Null Sequences] *Paradigms*
+- [ ] [1901](https://www.beecrowd.com.br/judge/pt/problems/view/1901) - [Butterflies] *Ad-Hoc*
+- [ ] [1902](https://www.beecrowd.com.br/judge/pt/problems/view/1902) - [Association for Consistent Marriages] *Graph*
+- [ ] [1903](https://www.beecrowd.com.br/judge/pt/problems/view/1903) - [Food Chain] *Graph*
+- [ ] [1904](https://www.beecrowd.com.br/judge/pt/problems/view/1904) - [Odds and Evens 2.0] *Mathematics*
+- [ ] [1905](https://www.beecrowd.com.br/judge/pt/problems/view/1905) - [Cops and Robbers] *Graph*
+- [ ] [1906](https://www.beecrowd.com.br/judge/pt/problems/view/1906) - [Collatz Passwords] *Graph*
+- [ ] [1907](https://www.beecrowd.com.br/judge/pt/problems/view/1907) - [Colouring Game Scenarios] *Graph*
+- [ ] [1908](https://www.beecrowd.com.br/judge/pt/problems/view/1908) - [Multicampus UFFS] *Graph*
+- [ ] [1909](https://www.beecrowd.com.br/judge/pt/problems/view/1909) - [Help Kiko] *Mathematics*
+- [ ] [1910](https://www.beecrowd.com.br/judge/pt/problems/view/1910) - [Help Clotilde] *Graph*
+- [ ] [1911](https://www.beecrowd.com.br/judge/pt/problems/view/1911) - [Help Girafales] *Data Structures and Libraries*
+- [ ] [1912](https://www.beecrowd.com.br/judge/pt/problems/view/1912) - [Help Seu Madruga] *Paradigms*
+- [ ] [1913](https://www.beecrowd.com.br/judge/pt/problems/view/1913) - [Help Mr. Barriga] *Paradigms*
+- [ ] [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - [Whose Turn Is It?] *Beginner*
+- [ ] [1915](https://www.beecrowd.com.br/judge/pt/problems/view/1915) - [Help Chaves] *Graph*
+- [ ] [1916](https://www.beecrowd.com.br/judge/pt/problems/view/1916) - [Jaiminho’s Bank Hours] *Ad-Hoc*
+- [ ] [1917](https://www.beecrowd.com.br/judge/pt/problems/view/1917) - [Help Chapolin Colorado!] *Ad-Hoc*
+- [ ] [1918](https://www.beecrowd.com.br/judge/pt/problems/view/1918) - [Trip to Acapulco] *Ad-Hoc*
+- [ ] [1919](https://www.beecrowd.com.br/judge/pt/problems/view/1919) - [Help Nhonho] *Ad-Hoc*
+- [ ] [1920](https://www.beecrowd.com.br/judge/pt/problems/view/1920) - [Fountain of Desires] *Ad-Hoc*
+- [ ] [1921](https://www.beecrowd.com.br/judge/pt/problems/view/1921) - [Guilherme and His Kites] *Mathematics*
+- [ ] [1922](https://www.beecrowd.com.br/judge/pt/problems/view/1922) - [Diego and Hammer Game] *Paradigms*
+- [ ] [1923](https://www.beecrowd.com.br/judge/pt/problems/view/1923) - [Rerisson and The Barbecue] *Graph*
+- [ ] [1924](https://www.beecrowd.com.br/judge/pt/problems/view/1924) - [Vitória and Her Indecision] *Beginner*
+- [ ] [1925](https://www.beecrowd.com.br/judge/pt/problems/view/1925) - [Ordan and The Girls] *Graph*
+- [ ] [1926](https://www.beecrowd.com.br/judge/pt/problems/view/1926) - [Marianne and The Twin Cousins] *Mathematics*
+- [ ] [1927](https://www.beecrowd.com.br/judge/pt/problems/view/1927) - [Tapioca and The Chocolate Rain] *Paradigms*
+- [ ] [1928](https://www.beecrowd.com.br/judge/pt/problems/view/1928) - [Memory Game] *Graph*
+- [ ] [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - [Triangle] *Beginner*
+- [ ] [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) - [Electrical Outlet] *Beginner*
+- [ ] [1931](https://www.beecrowd.com.br/judge/pt/problems/view/1931) - [Even Obsession] *Graph*
+- [ ] [1932](https://www.beecrowd.com.br/judge/pt/problems/view/1932) - [Stock Market] *Paradigms*
+- [ ] [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) - [Tri-du] *Beginner*
+- [ ] [1934](https://www.beecrowd.com.br/judge/pt/problems/view/1934) - [Puzzle] *Ad-Hoc*
+- [ ] [1935](https://www.beecrowd.com.br/judge/pt/problems/view/1935) - [Spiral] *Ad-Hoc*
+- [ ] [1936](https://www.beecrowd.com.br/judge/pt/problems/view/1936) - [Factorial] *Ad-Hoc*
+- [ ] [1937](https://www.beecrowd.com.br/judge/pt/problems/view/1937) - [Curious Guardians] *Ad-Hoc*
+- [ ] [1938](https://www.beecrowd.com.br/judge/pt/problems/view/1938) - [Rectangle Park] *Computational Geometry*
+- [ ] [1939](https://www.beecrowd.com.br/judge/pt/problems/view/1939) - [Ominobox] *Ad-Hoc*
+- [ ] [1940](https://www.beecrowd.com.br/judge/pt/problems/view/1940) - [Strategy Game] *Ad-Hoc*
+- [ ] [1941](https://www.beecrowd.com.br/judge/pt/problems/view/1941) - [Palindrome] *Strings*
+- [ ] [1942](https://www.beecrowd.com.br/judge/pt/problems/view/1942) - [Lottery] *Ad-Hoc*
+- [ ] [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) - [Top N] *Ad-Hoc*
+- [ ] [1944](https://www.beecrowd.com.br/judge/pt/problems/view/1944) - [FACE 2015 FREE GIFT] *Data Structures and Libraries*
+- [ ] [1945](https://www.beecrowd.com.br/judge/pt/problems/view/1945) - [Simulator] *Ad-Hoc*
+- [ ] [1946](https://www.beecrowd.com.br/judge/pt/problems/view/1946) - [Pyramid of Fortune] *Mathematics*
+- [ ] [1947](https://www.beecrowd.com.br/judge/pt/problems/view/1947) - [Cab Driver Route] *Graph*
+- [ ] [1948](https://www.beecrowd.com.br/judge/pt/problems/view/1948) - [Compiler] *Graph*
+- [ ] [1949](https://www.beecrowd.com.br/judge/pt/problems/view/1949) - [Shift Register] *Mathematics*
+- [ ] [1950](https://www.beecrowd.com.br/judge/pt/problems/view/1950) - [Spöhndriger] *Graph*
+- [ ] [1951](https://www.beecrowd.com.br/judge/pt/problems/view/1951) - [Circuit Validator] *Graph*
+- [ ] [1952](https://www.beecrowd.com.br/judge/pt/problems/view/1952) - [Knight in 3D Chess] *Graph*
+- [ ] [1953](https://www.beecrowd.com.br/judge/pt/problems/view/1953) - [Robert and Rampant Room] *Ad-Hoc*
+- [ ] [1954](https://www.beecrowd.com.br/judge/pt/problems/view/1954) - [Possible Evolutionary Paths] *Graph*
+- [ ] [1955](https://www.beecrowd.com.br/judge/pt/problems/view/1955) - [See World] *Graph*
+- [ ] [1956](https://www.beecrowd.com.br/judge/pt/problems/view/1956) - [Acacias] *Graph*
+- [ ] [1957](https://www.beecrowd.com.br/judge/pt/problems/view/1957) - [Converting to Hexadecimal] *Beginner*
+- [ ] [1958](https://www.beecrowd.com.br/judge/pt/problems/view/1958) - [Scientific Notation] *Beginner*
+- [ ] [1959](https://www.beecrowd.com.br/judge/pt/problems/view/1959) - [Regular Simple Polygons] *Beginner*
+- [ ] [1960](https://www.beecrowd.com.br/judge/pt/problems/view/1960) - [Roman Numerals for Page Numbers] *Beginner*
+- [ ] [1961](https://www.beecrowd.com.br/judge/pt/problems/view/1961) - [Jumping Frog] *Beginner*
+- [ ] [1962](https://www.beecrowd.com.br/judge/pt/problems/view/1962) - [A Long, Long Time Ago] *Beginner*
+- [ ] [1963](https://www.beecrowd.com.br/judge/pt/problems/view/1963) - [The Motion Picture] *Beginner*
+- [ ] [1964](https://www.beecrowd.com.br/judge/pt/problems/view/1964) - [The Wrath of Khan] *Ad-Hoc*
+- [ ] [1965](https://www.beecrowd.com.br/judge/pt/problems/view/1965) - [The Search for Spock] *Ad-Hoc*
+- [ ] [1966](https://www.beecrowd.com.br/judge/pt/problems/view/1966) - [The Voyage Home] *Ad-Hoc*
+- [ ] [1967](https://www.beecrowd.com.br/judge/pt/problems/view/1967) - [The Final Frontier] *Mathematics*
+- [ ] [1968](https://www.beecrowd.com.br/judge/pt/problems/view/1968) - [The Undiscovered Country] *Mathematics*
+- [ ] [1969](https://www.beecrowd.com.br/judge/pt/problems/view/1969) - [Generations] *Mathematics*
+- [ ] [1970](https://www.beecrowd.com.br/judge/pt/problems/view/1970) - [First Contact] *Paradigms*
+- [ ] [1971](https://www.beecrowd.com.br/judge/pt/problems/view/1971) - [Insurrection] *Computational Geometry*
+- [ ] [1972](https://www.beecrowd.com.br/judge/pt/problems/view/1972) - [Nemesis] *Graph*
+- [ ] [1973](https://www.beecrowd.com.br/judge/pt/problems/view/1973) - [Star Trek] *Beginner*
+- [ ] [1974](https://www.beecrowd.com.br/judge/pt/problems/view/1974) - [Into Darkness] *Graph*
+- [ ] [1975](https://www.beecrowd.com.br/judge/pt/problems/view/1975) - [Pearls] *Data Structures and Libraries*
+- [ ] [1976](https://www.beecrowd.com.br/judge/pt/problems/view/1976) - [Matrices] *Paradigms*
+- [ ] [1977](https://www.beecrowd.com.br/judge/pt/problems/view/1977) - [I Can't be Late] *Graph*
+- [ ] [1978](https://www.beecrowd.com.br/judge/pt/problems/view/1978) - [Cameras] *Paradigms*
+- [ ] [1979](https://www.beecrowd.com.br/judge/pt/problems/view/1979) - [Separate Rooms] *Graph*
+- [ ] [1980](https://www.beecrowd.com.br/judge/pt/problems/view/1980) - [Shuffling] *Ad-Hoc*
+- [ ] [1981](https://www.beecrowd.com.br/judge/pt/problems/view/1981) - [Shuffling Again] *Mathematics*
+- [ ] [1982](https://www.beecrowd.com.br/judge/pt/problems/view/1982) - [New Computers] *Computational Geometry*
+- [ ] [1983](https://www.beecrowd.com.br/judge/pt/problems/view/1983) - [The Chosen] *Beginner*
+- [ ] [1984](https://www.beecrowd.com.br/judge/pt/problems/view/1984) - [The Pronalância Puzzle] *Beginner*
+- [ ] [1985](https://www.beecrowd.com.br/judge/pt/problems/view/1985) - [MacPRONALTS] *Beginner*
+- [ ] [1986](https://www.beecrowd.com.br/judge/pt/problems/view/1986) - [The Martian] *Ad-Hoc*
+- [ ] [1987](https://www.beecrowd.com.br/judge/pt/problems/view/1987) - [Divisibility by 3] *Ad-Hoc*
+- [ ] [1988](https://www.beecrowd.com.br/judge/pt/problems/view/1988) - [Tourists Circuits] *Graph*
+- [ ] [1989](https://www.beecrowd.com.br/judge/pt/problems/view/1989) - [Doing Nothing] *Mathematics*
+- [ ] [1990](https://www.beecrowd.com.br/judge/pt/problems/view/1990) - [Equilibrium] *Mathematics*
+- [ ] [1991](https://www.beecrowd.com.br/judge/pt/problems/view/1991) - [Factory of Bridges] *Computational Geometry*
+- [ ] [1992](https://www.beecrowd.com.br/judge/pt/problems/view/1992) - [Gaining Time] *Mathematics*
+- [ ] [1993](https://www.beecrowd.com.br/judge/pt/problems/view/1993) - [He is Lazy] *Graph*
+- [ ] [1994](https://www.beecrowd.com.br/judge/pt/problems/view/1994) - [Imperialism] *Graph*
+- [ ] [1995](https://www.beecrowd.com.br/judge/pt/problems/view/1995) - [Game, Set and Match] *Mathematics*
+- [ ] [1996](https://www.beecrowd.com.br/judge/pt/problems/view/1996) - [A Canvas Building] *Paradigms*
+- [ ] [1997](https://www.beecrowd.com.br/judge/pt/problems/view/1997) - [Black and White] *Ad-Hoc*
+- [ ] [1998](https://www.beecrowd.com.br/judge/pt/problems/view/1998) - [Awari 2.0] *Ad-Hoc*
+- [ ] [1999](https://www.beecrowd.com.br/judge/pt/problems/view/1999) - [Ball of Reconciliation] *Mathematics*

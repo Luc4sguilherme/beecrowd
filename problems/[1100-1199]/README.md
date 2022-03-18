@@ -1,0 +1,103 @@
+# Problems 1100 (0 %)
+
+
+- [ ] [1100](https://www.beecrowd.com.br/judge/pt/problems/view/1100) - [Knight Moves] *Graph*
+- [ ] [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - [Sequence of Numbers and Sum] *Beginner*
+- [ ] [1102](https://www.beecrowd.com.br/judge/pt/problems/view/1102) - [Deadly Atack] *Computational Geometry*
+- [ ] [1103](https://www.beecrowd.com.br/judge/pt/problems/view/1103) - [Alarm Clock] *Ad-Hoc*
+- [ ] [1104](https://www.beecrowd.com.br/judge/pt/problems/view/1104) - [Exchanging Cards] *Ad-Hoc*
+- [ ] [1105](https://www.beecrowd.com.br/judge/pt/problems/view/1105) - [Sub-prime] *Ad-Hoc*
+- [ ] [1106](https://www.beecrowd.com.br/judge/pt/problems/view/1106) - [Dragster] *Paradigms*
+- [ ] [1107](https://www.beecrowd.com.br/judge/pt/problems/view/1107) - [Laser Sculpture] *Ad-Hoc*
+- [ ] [1108](https://www.beecrowd.com.br/judge/pt/problems/view/1108) - [Towers for Mobile Telephony] *Computational Geometry*
+- [ ] [1109](https://www.beecrowd.com.br/judge/pt/problems/view/1109) - [Cheating on the Contest] *Ad-Hoc*
+- [ ] [1110](https://www.beecrowd.com.br/judge/pt/problems/view/1110) - [Throwing Cards Away] *Data Structures and Libraries*
+- [ ] [1111](https://www.beecrowd.com.br/judge/pt/problems/view/1111) - [Desrugenstein] *Graph*
+- [ ] [1112](https://www.beecrowd.com.br/judge/pt/problems/view/1112) - [Schweisen] *Data Structures and Libraries*
+- [ ] [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - [Ascending and Descending] *Beginner*
+- [ ] [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - [Fixed Password] *Beginner*
+- [ ] [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - [Quadrant] *Beginner*
+- [ ] [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - [Dividing X by Y] *Beginner*
+- [ ] [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Score Validation] *Beginner*
+- [ ] [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - [Several Scores with Validation] *Beginner*
+- [ ] [1119](https://www.beecrowd.com.br/judge/pt/problems/view/1119) - [The Dole Queue] *Data Structures and Libraries*
+- [ ] [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - [Contract Revision] *Strings*
+- [ ] [1121](https://www.beecrowd.com.br/judge/pt/problems/view/1121) - [Sticker Collector Robot] *Ad-Hoc*
+- [ ] [1122](https://www.beecrowd.com.br/judge/pt/problems/view/1122) - [Account Book] *Ad-Hoc*
+- [ ] [1123](https://www.beecrowd.com.br/judge/pt/problems/view/1123) - [Route Change] *Graph*
+- [ ] [1124](https://www.beecrowd.com.br/judge/pt/problems/view/1124) - [Elevator] *Computational Geometry*
+- [ ] [1125](https://www.beecrowd.com.br/judge/pt/problems/view/1125) - [Formula 1] *Ad-Hoc*
+- [ ] [1126](https://www.beecrowd.com.br/judge/pt/problems/view/1126) - [Star War] *Computational Geometry*
+- [ ] [1127](https://www.beecrowd.com.br/judge/pt/problems/view/1127) - [Musical Plagiarism] *Ad-Hoc*
+- [ ] [1128](https://www.beecrowd.com.br/judge/pt/problems/view/1128) - [Come and Go] *Graph*
+- [ ] [1129](https://www.beecrowd.com.br/judge/pt/problems/view/1129) - [Optical Reader] *Ad-Hoc*
+- [ ] [1130](https://www.beecrowd.com.br/judge/pt/problems/view/1130) - [Tic-tac-toe] *Ad-Hoc*
+- [ ] [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - [Grenais] *Beginner*
+- [ ] [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) - [Multiples of 13] *Beginner*
+- [ ] [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) - [Rest of a Division] *Beginner*
+- [ ] [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) - [Type of Fuel] *Beginner*
+- [ ] [1135](https://www.beecrowd.com.br/judge/pt/problems/view/1135) - [Ants Colony] *Graph*
+- [ ] [1136](https://www.beecrowd.com.br/judge/pt/problems/view/1136) - [Bingo!] *Ad-Hoc*
+- [ ] [1137](https://www.beecrowd.com.br/judge/pt/problems/view/1137) - [Cocircular Points] *Computational Geometry*
+- [ ] [1138](https://www.beecrowd.com.br/judge/pt/problems/view/1138) - [Digits Count] *Mathematics*
+- [ ] [1139](https://www.beecrowd.com.br/judge/pt/problems/view/1139) - [Electric Needs] *Ad-Hoc*
+- [ ] [1140](https://www.beecrowd.com.br/judge/pt/problems/view/1140) - [Flowers Flourish from France] *Ad-Hoc*
+- [ ] [1141](https://www.beecrowd.com.br/judge/pt/problems/view/1141) - [Growing Strings] *Strings*
+- [ ] [1142](https://www.beecrowd.com.br/judge/pt/problems/view/1142) - [PUM] *Beginner*
+- [ ] [1143](https://www.beecrowd.com.br/judge/pt/problems/view/1143) - [Squared and Cubic] *Beginner*
+- [ ] [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) - [Logical Sequence] *Beginner*
+- [ ] [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) - [Logical Sequence 2] *Beginner*
+- [ ] [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) - [Growing Sequences] *Beginner*
+- [ ] [1147](https://www.beecrowd.com.br/judge/pt/problems/view/1147) - [Knight Scape] *Ad-Hoc*
+- [ ] [1148](https://www.beecrowd.com.br/judge/pt/problems/view/1148) - [Countries at War] *Graph*
+- [ ] [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - [Summing Consecutive Integers] *Beginner*
+- [ ] [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) - [Exceeding Z] *Beginner*
+- [ ] [1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) - [Easy Fibonacci] *Beginner*
+- [ ] [1152](https://www.beecrowd.com.br/judge/pt/problems/view/1152) - [Dark Roads] *Graph*
+- [ ] [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) - [Simple Factorial] *Beginner*
+- [ ] [1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) - [Ages] *Beginner*
+- [ ] [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) - [S Sequence] *Beginner*
+- [ ] [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) - [S Sequence II] *Beginner*
+- [ ] [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - [Divisors I] *Beginner*
+- [ ] [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) - [Sum of Consecutive Odd Numbers III] *Beginner*
+- [ ] [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - [Sum of Consecutive Even Numbers] *Beginner*
+- [ ] [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - [Population Increase] *Beginner*
+- [ ] [1161](https://www.beecrowd.com.br/judge/pt/problems/view/1161) - [Factorial Sum] *Mathematics*
+- [ ] [1162](https://www.beecrowd.com.br/judge/pt/problems/view/1162) - [Train Swapping] *Data Structures and Libraries*
+- [ ] [1163](https://www.beecrowd.com.br/judge/pt/problems/view/1163) - [Angry Ducks] *Mathematics*
+- [ ] [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) - [Perfect Number] *Beginner*
+- [ ] [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) - [Prime Number] *Beginner*
+- [ ] [1166](https://www.beecrowd.com.br/judge/pt/problems/view/1166) - [Hanoi Tower Troubles Again!] *Paradigms*
+- [ ] [1167](https://www.beecrowd.com.br/judge/pt/problems/view/1167) - [Summer Camp] *Data Structures and Libraries*
+- [ ] [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) - [LED] *Strings*
+- [ ] [1169](https://www.beecrowd.com.br/judge/pt/problems/view/1169) - [Grains in a Chess Board] *Mathematics*
+- [ ] [1170](https://www.beecrowd.com.br/judge/pt/problems/view/1170) - [Blobs] *Mathematics*
+- [ ] [1171](https://www.beecrowd.com.br/judge/pt/problems/view/1171) - [Number Frequence] *Ad-Hoc*
+- [ ] [1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) - [Array Replacement I] *Beginner*
+- [ ] [1173](https://www.beecrowd.com.br/judge/pt/problems/view/1173) - [Array fill I] *Beginner*
+- [ ] [1174](https://www.beecrowd.com.br/judge/pt/problems/view/1174) - [Array Selection I] *Beginner*
+- [ ] [1175](https://www.beecrowd.com.br/judge/pt/problems/view/1175) - [Array change I] *Beginner*
+- [ ] [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - [Fibonacci Array] *Beginner*
+- [ ] [1177](https://www.beecrowd.com.br/judge/pt/problems/view/1177) - [Array Fill II] *Beginner*
+- [ ] [1178](https://www.beecrowd.com.br/judge/pt/problems/view/1178) - [Array Fill III] *Beginner*
+- [ ] [1179](https://www.beecrowd.com.br/judge/pt/problems/view/1179) - [Array Fill IV] *Beginner*
+- [ ] [1180](https://www.beecrowd.com.br/judge/pt/problems/view/1180) - [Lowest Number and Position] *Beginner*
+- [ ] [1181](https://www.beecrowd.com.br/judge/pt/problems/view/1181) - [Line in Array] *Beginner*
+- [ ] [1182](https://www.beecrowd.com.br/judge/pt/problems/view/1182) - [Column in Array] *Beginner*
+- [ ] [1183](https://www.beecrowd.com.br/judge/pt/problems/view/1183) - [Above the Main Diagonal] *Beginner*
+- [ ] [1184](https://www.beecrowd.com.br/judge/pt/problems/view/1184) - [Below the Main Diagonal] *Beginner*
+- [ ] [1185](https://www.beecrowd.com.br/judge/pt/problems/view/1185) - [Above the Secundary Diagonal] *Beginner*
+- [ ] [1186](https://www.beecrowd.com.br/judge/pt/problems/view/1186) - [Below the Secundary Diagonal] *Beginner*
+- [ ] [1187](https://www.beecrowd.com.br/judge/pt/problems/view/1187) - [Top Area] *Beginner*
+- [ ] [1188](https://www.beecrowd.com.br/judge/pt/problems/view/1188) - [Inferior Area] *Beginner*
+- [ ] [1189](https://www.beecrowd.com.br/judge/pt/problems/view/1189) - [Left Area] *Beginner*
+- [ ] [1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) - [Right Area] *Beginner*
+- [ ] [1191](https://www.beecrowd.com.br/judge/pt/problems/view/1191) - [Tree Recovery] *Graph*
+- [ ] [1192](https://www.beecrowd.com.br/judge/pt/problems/view/1192) - [Paula's Mathematic Game] *Ad-Hoc*
+- [ ] [1193](https://www.beecrowd.com.br/judge/pt/problems/view/1193) - [Base Conversion] *Mathematics*
+- [ ] [1194](https://www.beecrowd.com.br/judge/pt/problems/view/1194) - [Pre, In and Post] *Graph*
+- [ ] [1195](https://www.beecrowd.com.br/judge/pt/problems/view/1195) - [Binary Search Tree] *Graph*
+- [ ] [1196](https://www.beecrowd.com.br/judge/pt/problems/view/1196) - [WERTYU] *Ad-Hoc*
+- [ ] [1197](https://www.beecrowd.com.br/judge/pt/problems/view/1197) - [Back to High School Physics] *Mathematics*
+- [ ] [1198](https://www.beecrowd.com.br/judge/pt/problems/view/1198) - [Hashmat the Brave Warrior] *Mathematics*
+- [ ] [1199](https://www.beecrowd.com.br/judge/pt/problems/view/1199) - [Simple Base Conversion] *Mathematics*

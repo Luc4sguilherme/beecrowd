@@ -1,0 +1,103 @@
+# Problems 1500 (0.9900990099009901 %)
+
+
+- [ ] [1500](https://www.beecrowd.com.br/judge/pt/problems/view/1500) - [Horrible Queries] *Data Structures and Libraries*
+- [ ] [1501](https://www.beecrowd.com.br/judge/pt/problems/view/1501) - [How Many Zeros and How Many Digits?] *Mathematics*
+- [ ] [1502](https://www.beecrowd.com.br/judge/pt/problems/view/1502) - [Corridor Crossing] *Graph*
+- [ ] [1503](https://www.beecrowd.com.br/judge/pt/problems/view/1503) - [Largest Common Palindrome Must You Find] *Strings*
+- [ ] [1504](https://www.beecrowd.com.br/judge/pt/problems/view/1504) - [Curo Railroad] *Computational Geometry*
+- [ ] [1505](https://www.beecrowd.com.br/judge/pt/problems/view/1505) - [Curo Factories] *Mathematics*
+- [ ] [1506](https://www.beecrowd.com.br/judge/pt/problems/view/1506) - [Rabito and Bones] *Graph*
+- [ ] [1507](https://www.beecrowd.com.br/judge/pt/problems/view/1507) - [Subsequences] *Data Structures and Libraries*
+- [ ] [1508](https://www.beecrowd.com.br/judge/pt/problems/view/1508) - [Laser Beam] *Ad-Hoc*
+- [ ] [1509](https://www.beecrowd.com.br/judge/pt/problems/view/1509) - [Counting Ambiguities] *Paradigms*
+- [ ] [1510](https://www.beecrowd.com.br/judge/pt/problems/view/1510) - [The Sightseeing Tour] *Paradigms*
+- [ ] [1511](https://www.beecrowd.com.br/judge/pt/problems/view/1511) - [GCD Grid] *Data Structures and Libraries*
+- [ ] [1512](https://www.beecrowd.com.br/judge/pt/problems/view/1512) - [Tiles] *Mathematics*
+- [ ] [1513](https://www.beecrowd.com.br/judge/pt/problems/view/1513) - [Horse] *Paradigms*
+- [ ] [1514](https://www.beecrowd.com.br/judge/pt/problems/view/1514) - [Contest] *Ad-Hoc*
+- [ ] [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) - [Hello Galaxy] *Ad-Hoc*
+- [ ] [1516](https://www.beecrowd.com.br/judge/pt/problems/view/1516) - [Image] *Strings*
+- [ ] [1517](https://www.beecrowd.com.br/judge/pt/problems/view/1517) - [Apples] *Paradigms*
+- [ ] [1518](https://www.beecrowd.com.br/judge/pt/problems/view/1518) - [Turtles] *Ad-Hoc*
+- [ ] [1519](https://www.beecrowd.com.br/judge/pt/problems/view/1519) - [Abbreviations] *Strings*
+- [ ] [1520](https://www.beecrowd.com.br/judge/pt/problems/view/1520) - [Screws and Nuts] *Data Structures and Libraries*
+- [ ] [1521](https://www.beecrowd.com.br/judge/pt/problems/view/1521) - [The Guilty] *Ad-Hoc*
+- [ ] [1522](https://www.beecrowd.com.br/judge/pt/problems/view/1522) - [Stack Game] *Paradigms*
+- [ ] [1523](https://www.beecrowd.com.br/judge/pt/problems/view/1523) - [Linear Parking Lot] *Data Structures and Libraries*
+- [ ] [1524](https://www.beecrowd.com.br/judge/pt/problems/view/1524) - [Cafeteria Queue] *Paradigms*
+- [ ] [1525](https://www.beecrowd.com.br/judge/pt/problems/view/1525) - [Gruntz] *Graph*
+- [ ] [1526](https://www.beecrowd.com.br/judge/pt/problems/view/1526) - [Transporting Snacks] *Mathematics*
+- [ ] [1527](https://www.beecrowd.com.br/judge/pt/problems/view/1527) - [Guilds] *Data Structures and Libraries*
+- [ ] [1528](https://www.beecrowd.com.br/judge/pt/problems/view/1528) - [Entangled Ropes] *Ad-Hoc*
+- [ ] [1529](https://www.beecrowd.com.br/judge/pt/problems/view/1529) - [Max, the Mad] *Graph*
+- [ ] [1530](https://www.beecrowd.com.br/judge/pt/problems/view/1530) - [How Many Substrings?] *Strings*
+- [ ] [1531](https://www.beecrowd.com.br/judge/pt/problems/view/1531) - [Fibonacci Again!] *Mathematics*
+- [ ] [1532](https://www.beecrowd.com.br/judge/pt/problems/view/1532) - [Throwing Balls] *Ad-Hoc*
+- [ ] [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) - [Detective Watson] *Ad-Hoc*
+- [ ] [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - [Array 123] *Beginner*
+- [ ] [1535](https://www.beecrowd.com.br/judge/pt/problems/view/1535) - [Couple-Bachelor-Spinster Numbers] *Data Structures and Libraries*
+- [ ] [1536](https://www.beecrowd.com.br/judge/pt/problems/view/1536) - [Libertadores] *Ad-Hoc*
+- [ ] [1537](https://www.beecrowd.com.br/judge/pt/problems/view/1537) - [Bank Line] *Mathematics*
+- [ ] [1538](https://www.beecrowd.com.br/judge/pt/problems/view/1538) - [Alien Sequence] *Data Structures and Libraries*
+- [ ] [1539](https://www.beecrowd.com.br/judge/pt/problems/view/1539) - [Telecom Company] *Graph*
+- [ ] [1540](https://www.beecrowd.com.br/judge/pt/problems/view/1540) - [Energy Planning] *Ad-Hoc*
+- [ ] [1541](https://www.beecrowd.com.br/judge/pt/problems/view/1541) - [Building Houses] *Beginner*
+- [ ] [1542](https://www.beecrowd.com.br/judge/pt/problems/view/1542) - [Reading Books] *Ad-Hoc*
+- [ ] [1543](https://www.beecrowd.com.br/judge/pt/problems/view/1543) - [Board With Prizes] *Paradigms*
+- [ ] [1544](https://www.beecrowd.com.br/judge/pt/problems/view/1544) - [The Last Non-zero Digit] *Mathematics*
+- [ ] [1545](https://www.beecrowd.com.br/judge/pt/problems/view/1545) - [Cards II] *Paradigms*
+- [x] [1546](https://www.beecrowd.com.br/judge/pt/problems/view/1546) - [Feedback](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1500-1599]/1546/code.js) *Ad-Hoc*
+- [ ] [1547](https://www.beecrowd.com.br/judge/pt/problems/view/1547) - [Guess What] *Ad-Hoc*
+- [ ] [1548](https://www.beecrowd.com.br/judge/pt/problems/view/1548) - [Canteen Queue] *Data Structures and Libraries*
+- [ ] [1549](https://www.beecrowd.com.br/judge/pt/problems/view/1549) - [Splitting the Coke] *Computational Geometry*
+- [ ] [1550](https://www.beecrowd.com.br/judge/pt/problems/view/1550) - [Inversion] *Graph*
+- [ ] [1551](https://www.beecrowd.com.br/judge/pt/problems/view/1551) - [Complete Sentence] *Strings*
+- [ ] [1552](https://www.beecrowd.com.br/judge/pt/problems/view/1552) - [Rescue in Free Fall] *Graph*
+- [ ] [1553](https://www.beecrowd.com.br/judge/pt/problems/view/1553) - [Frequent Asked Questions] *Ad-Hoc*
+- [ ] [1554](https://www.beecrowd.com.br/judge/pt/problems/view/1554) - [N.1 Continuous] *Mathematics*
+- [ ] [1555](https://www.beecrowd.com.br/judge/pt/problems/view/1555) - [Functions] *Mathematics*
+- [ ] [1556](https://www.beecrowd.com.br/judge/pt/problems/view/1556) - [Removing Letters] *Strings*
+- [ ] [1557](https://www.beecrowd.com.br/judge/pt/problems/view/1557) - [Square Matrix III] *Beginner*
+- [ ] [1558](https://www.beecrowd.com.br/judge/pt/problems/view/1558) - [Sum of Two Squares] *Ad-Hoc*
+- [ ] [1559](https://www.beecrowd.com.br/judge/pt/problems/view/1559) - [2048] *Ad-Hoc*
+- [ ] [1560](https://www.beecrowd.com.br/judge/pt/problems/view/1560) - [Triangle Energy] *Computational Geometry*
+- [ ] [1561](https://www.beecrowd.com.br/judge/pt/problems/view/1561) - [Binary Watch] *Ad-Hoc*
+- [ ] [1562](https://www.beecrowd.com.br/judge/pt/problems/view/1562) - [Choosing the Pairs] *Graph*
+- [ ] [1563](https://www.beecrowd.com.br/judge/pt/problems/view/1563) - [The Big Problem] *Mathematics*
+- [ ] [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - [Brazil World Cup] *Beginner*
+- [ ] [1565](https://www.beecrowd.com.br/judge/pt/problems/view/1565) - [Connect the Points] *Paradigms*
+- [ ] [1566](https://www.beecrowd.com.br/judge/pt/problems/view/1566) - [Height] *Data Structures and Libraries*
+- [ ] [1567](https://www.beecrowd.com.br/judge/pt/problems/view/1567) - [(2/3/4)-D Sqr/Rects/Cubes/Boxes?] *Mathematics*
+- [ ] [1568](https://www.beecrowd.com.br/judge/pt/problems/view/1568) - [{sum+=i++} to Reach N] *Mathematics*
+- [ ] [1569](https://www.beecrowd.com.br/judge/pt/problems/view/1569) - [Snakes and Ladders] *Ad-Hoc*
+- [ ] [1570](https://www.beecrowd.com.br/judge/pt/problems/view/1570) - [A Day in Math-Land] *Mathematics*
+- [ ] [1571](https://www.beecrowd.com.br/judge/pt/problems/view/1571) - [A Square & Equilateral Triangles] *Computational Geometry*
+- [ ] [1572](https://www.beecrowd.com.br/judge/pt/problems/view/1572) - [The Unreal Tournament] *Mathematics*
+- [ ] [1573](https://www.beecrowd.com.br/judge/pt/problems/view/1573) - [Chocolate Factory] *Ad-Hoc*
+- [ ] [1574](https://www.beecrowd.com.br/judge/pt/problems/view/1574) - [Robot Instructions] *Ad-Hoc*
+- [ ] [1575](https://www.beecrowd.com.br/judge/pt/problems/view/1575) - [Chasing After Don Giovanni] *Ad-Hoc*
+- [ ] [1576](https://www.beecrowd.com.br/judge/pt/problems/view/1576) - [The Skyline Problem] *Ad-Hoc*
+- [ ] [1577](https://www.beecrowd.com.br/judge/pt/problems/view/1577) - [Constructible Regular Polygons] *Mathematics*
+- [ ] [1578](https://www.beecrowd.com.br/judge/pt/problems/view/1578) - [Matrix of Squares] *Ad-Hoc*
+- [ ] [1579](https://www.beecrowd.com.br/judge/pt/problems/view/1579) - [Transport of Solar Panels] *Paradigms*
+- [ ] [1580](https://www.beecrowd.com.br/judge/pt/problems/view/1580) - [Quid Est Veritas? Est Vir Qui Adest!] *Mathematics*
+- [ ] [1581](https://www.beecrowd.com.br/judge/pt/problems/view/1581) - [International Chat] *Strings*
+- [ ] [1582](https://www.beecrowd.com.br/judge/pt/problems/view/1582) - [The Pythagorean Theorem] *Mathematics*
+- [ ] [1583](https://www.beecrowd.com.br/judge/pt/problems/view/1583) - [Contamination] *Graph*
+- [ ] [1584](https://www.beecrowd.com.br/judge/pt/problems/view/1584) - [Espertofone] *Graph*
+- [ ] [1585](https://www.beecrowd.com.br/judge/pt/problems/view/1585) - [Making Kites] *Mathematics*
+- [ ] [1586](https://www.beecrowd.com.br/judge/pt/problems/view/1586) - [Tug of War] *Strings*
+- [ ] [1587](https://www.beecrowd.com.br/judge/pt/problems/view/1587) - [BIT Park] *Data Structures and Libraries*
+- [ ] [1588](https://www.beecrowd.com.br/judge/pt/problems/view/1588) - [Help the Federation] *Ad-Hoc*
+- [ ] [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) - [Bob Conduit] *Beginner*
+- [ ] [1590](https://www.beecrowd.com.br/judge/pt/problems/view/1590) - [Cuarenta and Two] *Paradigms*
+- [ ] [1591](https://www.beecrowd.com.br/judge/pt/problems/view/1591) - [Grandma's Day] *Ad-Hoc*
+- [ ] [1592](https://www.beecrowd.com.br/judge/pt/problems/view/1592) - [Elias and Golias] *Graph*
+- [ ] [1593](https://www.beecrowd.com.br/judge/pt/problems/view/1593) - [Binary Function] *Ad-Hoc*
+- [ ] [1594](https://www.beecrowd.com.br/judge/pt/problems/view/1594) - [Greedy] *Data Structures and Libraries*
+- [ ] [1595](https://www.beecrowd.com.br/judge/pt/problems/view/1595) - [Humm.. Run or Walk.. That's the Question] *Paradigms*
+- [ ] [1596](https://www.beecrowd.com.br/judge/pt/problems/view/1596) - [Yusuf II's Tournament] *Paradigms*
+- [ ] [1597](https://www.beecrowd.com.br/judge/pt/problems/view/1597) - [Unmasking the Sultan's Employee] *Paradigms*
+- [ ] [1598](https://www.beecrowd.com.br/judge/pt/problems/view/1598) - [The Real Value of Mats] *Paradigms*
+- [ ] [1599](https://www.beecrowd.com.br/judge/pt/problems/view/1599) - [Peaks of Atlas] *Paradigms*
