@@ -1,4 +1,4 @@
-# Problems (18.21 %)
+# Problems (18.51 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -60,7 +60,7 @@
 - [x] [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - [Sequence IJ 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1095/code.js)
 - [x] [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - [Sequence IJ 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1096/code.js)
 - [x] [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - [Sequence IJ 3](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1097/code.js)
-- [ ] [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - [Sequence IJ 4]
+- [x] [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - [Sequence IJ 4](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1098/code.js)
 - [ ] [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - [Sum of Consecutive Odd Numbers II]
 - [ ] [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - [Sequence of Numbers and Sum]
 - [ ] [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - [Ascending and Descending]
