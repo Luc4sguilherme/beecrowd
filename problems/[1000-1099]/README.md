@@ -1,4 +1,4 @@
-# Problems 1000 (55 %)
+# Problems 1000 (56 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js) *Beginner*
@@ -81,7 +81,7 @@
 - [ ] [1077](https://www.beecrowd.com.br/judge/pt/problems/view/1077) - [Infix to Posfix] *Data Structures and Libraries*
 - [x] [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - [Multiplication Table](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1078/code.js) *Beginner*
 - [x] [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - [Weighted Averages](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1079/code.js) *Beginner*
-- [ ] [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - [Highest and Position] *Beginner*
+- [x] [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - [Highest and Position](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1080/code.js) *Beginner*
 - [ ] [1081](https://www.beecrowd.com.br/judge/pt/problems/view/1081) - [DFSr - Depth Hierarchy] *Graph*
 - [ ] [1082](https://www.beecrowd.com.br/judge/pt/problems/view/1082) - [Connected Components] *Graph*
 - [ ] [1083](https://www.beecrowd.com.br/judge/pt/problems/view/1083) - [LEXSIM - Sintatic and Lexical Avaliator] *Data Structures and Libraries*
