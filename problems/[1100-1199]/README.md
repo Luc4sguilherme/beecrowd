@@ -1,4 +1,4 @@
-# Problems 1100 (1 %)
+# Problems 1100 (2 %)
 
 
 - [ ] [1100](https://www.beecrowd.com.br/judge/pt/problems/view/1100) - [Knight Moves] *Graph*
@@ -14,7 +14,7 @@
 - [ ] [1110](https://www.beecrowd.com.br/judge/pt/problems/view/1110) - [Throwing Cards Away] *Data Structures and Libraries*
 - [ ] [1111](https://www.beecrowd.com.br/judge/pt/problems/view/1111) - [Desrugenstein] *Graph*
 - [ ] [1112](https://www.beecrowd.com.br/judge/pt/problems/view/1112) - [Schweisen] *Data Structures and Libraries*
-- [ ] [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - [Ascending and Descending] *Beginner*
+- [x] [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - [Ascending and Descending](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1113/code.js) *Beginner*
 - [ ] [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - [Fixed Password] *Beginner*
 - [ ] [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - [Quadrant] *Beginner*
 - [ ] [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - [Dividing X by Y] *Beginner*
