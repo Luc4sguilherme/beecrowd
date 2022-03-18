@@ -1,4 +1,4 @@
-# Problems (16.42 %)
+# Problems (16.72 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -54,7 +54,7 @@
 - [x] [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) - [Even or Odd](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1074/code.js)
 - [x] [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - [Remaining 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1075/code.js)
 - [x] [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - [Multiplication Table](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1078/code.js)
-- [ ] [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - [Weighted Averages]
+- [x] [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - [Weighted Averages](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1079/code.js)
 - [ ] [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - [Highest and Position]
 - [ ] [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - [Experiments]
 - [ ] [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - [Sequence IJ 1]
