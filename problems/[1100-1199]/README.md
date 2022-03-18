@@ -1,8 +1,8 @@
-# Problems 1100 (0 %)
+# Problems 1100 (1 %)
 
 
 - [ ] [1100](https://www.beecrowd.com.br/judge/pt/problems/view/1100) - [Knight Moves] *Graph*
-- [ ] [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - [Sequence of Numbers and Sum] *Beginner*
+- [x] [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - [Sequence of Numbers and Sum](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1101/code.js) *Beginner*
 - [ ] [1102](https://www.beecrowd.com.br/judge/pt/problems/view/1102) - [Deadly Atack] *Computational Geometry*
 - [ ] [1103](https://www.beecrowd.com.br/judge/pt/problems/view/1103) - [Alarm Clock] *Ad-Hoc*
 - [ ] [1104](https://www.beecrowd.com.br/judge/pt/problems/view/1104) - [Exchanging Cards] *Ad-Hoc*
