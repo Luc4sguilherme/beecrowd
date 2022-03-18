@@ -83,7 +83,11 @@ function parseCategories(category) {
   const categories = [];
 
   const $ = load(category);
-  const categoriesList = $("div#category-list ul li");
+  const categoriesList = $("div#category-list ul li").filter(function () {
+    return !$(this)
+      .attr("class")
+      .search(/category-\d+/)
+  });
 
   categoriesList.map(function () {
     const $row = $(this);

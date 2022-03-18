@@ -8,9 +8,6 @@
 - [Graph](categories/graph.md) Flood Fill, MST, SSSP, DAG, Maximum Flow, Tree...
 - [Computational Geometry](categories/computational-geometry.md) Points and Lines, Polygon...
 - [SQL](categories/sql.md) Query Languages: Select, Insert, Update, Create
-- [List All](categories/list-all.md) All the problems of the website in one place. 2283 PROBLEMS
-- [Authors](categories/authors.md) All available problems grouped by author. 328 AUTHORS
-- [Origins](categories/origins.md) All available problems grouped by contests or events. 205 ORIGINS
 
 ## Problems
  - [1000 - 1099](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099])
