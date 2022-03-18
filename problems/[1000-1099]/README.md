@@ -1,4 +1,4 @@
-# Problems 1000 (57 %)
+# Problems 1000 (58 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js) *Beginner*
@@ -96,7 +96,7 @@
 - [ ] [1092](https://www.beecrowd.com.br/judge/pt/problems/view/1092) - [Longest Increasing Sub-sequence] *Ad-Hoc*
 - [ ] [1093](https://www.beecrowd.com.br/judge/pt/problems/view/1093) - [Vampires] *Mathematics*
 - [x] [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - [Experiments](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1094/code.js) *Beginner*
-- [ ] [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - [Sequence IJ 1] *Beginner*
+- [x] [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - [Sequence IJ 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1095/code.js) *Beginner*
 - [ ] [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - [Sequence IJ 2] *Beginner*
 - [ ] [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - [Sequence IJ 3] *Beginner*
 - [ ] [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - [Sequence IJ 4] *Beginner*
