@@ -1,4 +1,4 @@
-# Problems (19.40 %)
+# Problems (19.70 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -64,7 +64,7 @@
 - [x] [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - [Sum of Consecutive Odd Numbers II](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1099/code.js)
 - [x] [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - [Sequence of Numbers and Sum](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1101/code.js)
 - [x] [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - [Ascending and Descending](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1113/code.js)
-- [ ] [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - [Fixed Password]
+- [x] [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - [Fixed Password](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1114/code.js)
 - [ ] [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - [Quadrant]
 - [ ] [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - [Dividing X by Y]
 - [ ] [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Score Validation]
