@@ -1,4 +1,4 @@
-# Problems 1100 (5 %)
+# Problems 1100 (6 %)
 
 
 - [ ] [1100](https://www.beecrowd.com.br/judge/pt/problems/view/1100) - [Knight Moves] *Graph*
@@ -18,7 +18,7 @@
 - [x] [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - [Fixed Password](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1114/code.js) *Beginner*
 - [x] [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - [Quadrant](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1115/code.js) *Beginner*
 - [x] [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - [Dividing X by Y](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1116/code.js) *Beginner*
-- [ ] [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Score Validation] *Beginner*
+- [x] [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Score Validation](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1117/code.js) *Beginner*
 - [ ] [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - [Several Scores with Validation] *Beginner*
 - [ ] [1119](https://www.beecrowd.com.br/judge/pt/problems/view/1119) - [The Dole Queue] *Data Structures and Libraries*
 - [ ] [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) - [Contract Revision] *Strings*
