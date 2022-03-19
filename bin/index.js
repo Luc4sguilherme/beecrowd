@@ -7,68 +7,67 @@ import _ from "lodash";
 
 import config from "./config/index.js";
 
-const defaultFolder = resolve(
-  dirname(fileURLToPath(import.meta.url)),
-  "../",
-  "problems"
-);
-
-function getPathName(number) {
+function getProblemFolderName(number) {
   const start = Number.parseInt(number / 100) * 100;
   const end = start + 99;
 
   return `[${start}-${end}]`;
 }
 
-function getProblemPath(number) {
-  const pathName = getPathName(number);
-  const path = resolve(defaultFolder, pathName);
+function getProblemFolderPath(number) {
+  const folderName = getProblemFolderName(number);
+  const path = resolve(
+    dirname(fileURLToPath(import.meta.url)),
+    "../",
+    "problems",
+    folderName
+  );
 
   return path;
 }
 
-function checkIfTheProblemFileExits(number, extension = "js") {
-  return fs.existsSync(`${getProblemPath(number)}/${number}/code.${extension}`);
+function checkIfTheProblemFileExits(number, filename) {
+  return fs.existsSync(`${getProblemFolderPath(number)}/${number}/${filename}`);
 }
 
-function createPath(number) {
-  const path = getProblemPath(number);
+function createProblemFolder(number) {
+  const path = getProblemFolderPath(number);
 
   fs.mkdirSync(path, { recursive: true });
 
   return path;
 }
 
-function createFile(content, number, name = "README.md") {
-  const path = getProblemPath(number);
+function createProblemDocFile(contents, number, filename = "README.md") {
+  const path = getProblemFolderPath(number);
 
   if (!fs.existsSync(path)) {
-    createPath(number);
+    createProblemFolder(number);
   }
 
-  fs.writeFileSync(`${path}/${name}`, content);
+  fs.writeFileSync(`${path}/${filename}`, contents);
 }
 
-function parseProblem(problem) {
-  const problems = [];
+function parseProblems(problems) {
+  const parsedProblems = [];
 
-  const $ = load(problem);
-  const problemsTr = $("tbody tr");
+  const $ = load(problems);
+  const problemsList = $("tbody tr");
 
-  problemsTr.map(function () {
+  problemsList.map(function () {
     const $row = $(this);
     const number = $row.find("td.id a").text();
     const name = $row.find("td.large a:eq(0)").text();
     const category = $row.find("td.large a:eq(1)").text();
 
-    problems.push({
+    parsedProblems.push({
       number,
       name,
       category,
     });
   });
 
-  return problems;
+  return parsedProblems;
 }
 
 async function getProblems(page) {
@@ -76,17 +75,17 @@ async function getProblems(page) {
     `https://www.beecrowd.com.br/judge/en/problems/all?page=${page}&limit=100`
   );
 
-  return parseProblem(problems.data);
+  return parseProblems(problems.data);
 }
 
-function parseCategories(category) {
-  const categories = [];
+function parseCategories(categories) {
+  const parsedCategories = [];
 
-  const $ = load(category);
+  const $ = load(categories);
   const categoriesList = $("div#category-list ul li").filter(function () {
     return !$(this)
       .attr("class")
-      .search(/category-\d+/)
+      .search(/category-\d+/);
   });
 
   categoriesList.map(function () {
@@ -94,13 +93,13 @@ function parseCategories(category) {
     const title = $row.find("div a").text();
     const description = $row.find("div p").text().replace(/\n/g, "").trim();
 
-    categories.push({
+    parsedCategories.push({
       title,
       description,
     });
   });
 
-  return categories;
+  return parsedCategories;
 }
 
 async function getCategories() {
@@ -163,11 +162,11 @@ function calculateProgress(problems) {
 
 function formatBodyOfProblems(problems) {
   return problems.reduce((accumulator, current) => {
-    const fileExits = checkIfTheProblemFileExits(current.number);
+    const fileExits = checkIfTheProblemFileExits(current.number, "code.js");
     const status = fileExits ? "x" : " ";
-    const pathName = getPathName(current.number);
+    const folderName = getProblemFolderName(current.number);
     const filePath = fileExits
-      ? `(${config.githubURL}/beecrowd/blob/master/problems/${pathName}/${current.number}/code.js)`
+      ? `(${config.githubURL}/beecrowd/blob/master/problems/${folderName}/${current.number}/code.js)`
       : "";
     const line = `- [${status}] [${current.number}](https://www.beecrowd.com.br/judge/pt/problems/view/${current.number}) - [${current.name}]${filePath} *${current.category}*`;
 
@@ -181,19 +180,19 @@ function generateProblemsDocs(problems) {
     const progress = calculateProgress(body);
     const start = Number.parseInt(problem[0].number / 100) * 100;
     const header = `# Problems ${start} (${progress} %)\n\n`;
-    const content = `${header}${body}`;
+    const contents = `${header}${body}`;
 
-    createFile(content, problem[0].number);
+    createProblemDocFile(contents, problem[0].number);
   }
 }
 
 function formatBodyOfCategories(problems) {
   return problems.reduce((accumulator, current) => {
-    const fileExits = checkIfTheProblemFileExits(current.number);
+    const fileExits = checkIfTheProblemFileExits(current.number, "code.js");
     const status = fileExits ? "x" : " ";
-    const pathName = getPathName(current.number);
+    const folderName = getProblemFolderName(current.number);
     const filePath = fileExits
-      ? `(${config.githubURL}/beecrowd/blob/master/problems/${pathName}/${current.number}/code.js)`
+      ? `(${config.githubURL}/beecrowd/blob/master/problems/${folderName}/${current.number}/code.js)`
       : "";
     const line = `- [${status}] [${current.number}](https://www.beecrowd.com.br/judge/pt/problems/view/${current.number}) - [${current.name}]${filePath}`;
 
@@ -210,7 +209,7 @@ function generateDocsByCategories(problems) {
     const body = formatBodyOfCategories(problem);
     const progress = calculateProgress(body);
     const header = `# Problems (${progress} %)\n\n`;
-    const content = `${header}${body}`;
+    const contents = `${header}${body}`;
     const filename = category.replace(/\s/g, "-").toLowerCase();
     const path = resolve(
       dirname(fileURLToPath(import.meta.url)),
@@ -218,7 +217,7 @@ function generateDocsByCategories(problems) {
       "categories"
     );
 
-    fs.writeFileSync(`${path}/${filename}.md`, content);
+    fs.writeFileSync(`${path}/${filename}.md`, contents);
   }
 }
 
@@ -244,9 +243,9 @@ function generateMainDocs(categories) {
   }
 
   const path = resolve(dirname(fileURLToPath(import.meta.url)), "../");
-  const content = `${categoriesHeader}${categoriesSection}\n\n${problemsHeader}${problemsSection}`;
+  const contents = `${categoriesHeader}${categoriesSection}\n\n${problemsHeader}${problemsSection}`;
 
-  fs.writeFileSync(`${path}/README.md`, content);
+  fs.writeFileSync(`${path}/README.md`, contents);
 }
 
 async function main() {
