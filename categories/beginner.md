@@ -1,4 +1,4 @@
-# Problems (20 %)
+# Problems (20.30 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -66,7 +66,7 @@
 - [x] [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - [Ascending and Descending](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1113/code.js)
 - [x] [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - [Fixed Password](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1114/code.js)
 - [x] [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - [Quadrant](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1115/code.js)
-- [ ] [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - [Dividing X by Y]
+- [x] [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - [Dividing X by Y](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1116/code.js)
 - [ ] [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Score Validation]
 - [ ] [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - [Several Scores with Validation]
 - [ ] [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - [Grenais]
