@@ -1,103 +1,103 @@
 # Problems 2300 (0 %)
 
 
-- [ ] [2300](https://www.beecrowd.com.br/judge/pt/problems/view/2300) - [Transmissão de Energia] *Graph*
-- [ ] [2301](https://www.beecrowd.com.br/judge/pt/problems/view/2301) - [Vivo ou Morto] *Ad-Hoc*
-- [ ] [2302](https://www.beecrowd.com.br/judge/pt/problems/view/2302) - [Conversa não tão Secreta] *Ad-Hoc*
-- [ ] [2303](https://www.beecrowd.com.br/judge/pt/problems/view/2303) - [Margaridas] *Ad-Hoc*
-- [ ] [2304](https://www.beecrowd.com.br/judge/pt/problems/view/2304) - [Banco Imobiliário] *Ad-Hoc*
-- [ ] [2305](https://www.beecrowd.com.br/judge/pt/problems/view/2305) - [Colheita de Caju] *Ad-Hoc*
-- [ ] [2306](https://www.beecrowd.com.br/judge/pt/problems/view/2306) - [Escada Perfeita] *Ad-Hoc*
-- [ ] [2307](https://www.beecrowd.com.br/judge/pt/problems/view/2307) - [Jogo de Cartas] *Ad-Hoc*
-- [ ] [2308](https://www.beecrowd.com.br/judge/pt/problems/view/2308) - [Museu] *Ad-Hoc*
-- [ ] [2309](https://www.beecrowd.com.br/judge/pt/problems/view/2309) - [Truco] *Ad-Hoc*
-- [ ] [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - [Volleyball] *Beginner*
-- [ ] [2311](https://www.beecrowd.com.br/judge/pt/problems/view/2311) - [Diving] *Beginner*
-- [ ] [2312](https://www.beecrowd.com.br/judge/pt/problems/view/2312) - [Medal Table] *Ad-Hoc*
-- [ ] [2313](https://www.beecrowd.com.br/judge/pt/problems/view/2313) - [Which Triangle] *Beginner*
-- [ ] [2314](https://www.beecrowd.com.br/judge/pt/problems/view/2314) - [Indenter] *Strings*
-- [ ] [2315](https://www.beecrowd.com.br/judge/pt/problems/view/2315) - [Easy Difference Between Dates] *Ad-Hoc*
-- [ ] [2316](https://www.beecrowd.com.br/judge/pt/problems/view/2316) - [Autorama] *Ad-Hoc*
-- [ ] [2317](https://www.beecrowd.com.br/judge/pt/problems/view/2317) - [Lobo Mau] *Ad-Hoc*
-- [ ] [2318](https://www.beecrowd.com.br/judge/pt/problems/view/2318) - [Quadrado Mágico] *Ad-Hoc*
-- [ ] [2319](https://www.beecrowd.com.br/judge/pt/problems/view/2319) - [Penalidade Mínima] *Ad-Hoc*
-- [ ] [2320](https://www.beecrowd.com.br/judge/pt/problems/view/2320) - [Subsequência] *Ad-Hoc*
-- [ ] [2321](https://www.beecrowd.com.br/judge/pt/problems/view/2321) - [Detectando Colisões] *Ad-Hoc*
-- [ ] [2322](https://www.beecrowd.com.br/judge/pt/problems/view/2322) - [Peça Perdida] *Ad-Hoc*
-- [ ] [2323](https://www.beecrowd.com.br/judge/pt/problems/view/2323) - [Móbile] *Ad-Hoc*
-- [ ] [2324](https://www.beecrowd.com.br/judge/pt/problems/view/2324) - [Pastas] *Ad-Hoc*
-- [ ] [2325](https://www.beecrowd.com.br/judge/pt/problems/view/2325) - [Repositórios] *Ad-Hoc*
-- [ ] [2326](https://www.beecrowd.com.br/judge/pt/problems/view/2326) - [Sacoleiro] *Ad-Hoc*
-- [ ] [2327](https://www.beecrowd.com.br/judge/pt/problems/view/2327) - [Quadrados] *Ad-Hoc*
-- [ ] [2328](https://www.beecrowd.com.br/judge/pt/problems/view/2328) - [Chocolate] *Ad-Hoc*
-- [ ] [2329](https://www.beecrowd.com.br/judge/pt/problems/view/2329) - [Pão a Metro] *Ad-Hoc*
-- [ ] [2330](https://www.beecrowd.com.br/judge/pt/problems/view/2330) - [Telemarketing] *Ad-Hoc*
-- [ ] [2331](https://www.beecrowd.com.br/judge/pt/problems/view/2331) - [Uiquipédia] *Ad-Hoc*
-- [ ] [2332](https://www.beecrowd.com.br/judge/pt/problems/view/2332) - [Jogo do Labirinto] *Ad-Hoc*
-- [ ] [2333](https://www.beecrowd.com.br/judge/pt/problems/view/2333) - [Pizza] *Ad-Hoc*
-- [ ] [2334](https://www.beecrowd.com.br/judge/pt/problems/view/2334) - [Little Ducks] *Beginner*
-- [ ] [2335](https://www.beecrowd.com.br/judge/pt/problems/view/2335) - [Arquibaldo's Challenge] *Mathematics*
-- [ ] [2336](https://www.beecrowd.com.br/judge/pt/problems/view/2336) - [ABC] *Strings*
-- [ ] [2337](https://www.beecrowd.com.br/judge/pt/problems/view/2337) - [Pro Ability] *Mathematics*
-- [ ] [2338](https://www.beecrowd.com.br/judge/pt/problems/view/2338) - [Morse] *Data Structures and Libraries*
-- [ ] [2339](https://www.beecrowd.com.br/judge/pt/problems/view/2339) - [Aviões de Papel] *Ad-Hoc*
-- [ ] [2340](https://www.beecrowd.com.br/judge/pt/problems/view/2340) - [Feira de Bactérias] *Ad-Hoc*
-- [ ] [2341](https://www.beecrowd.com.br/judge/pt/problems/view/2341) - [Número de Envelopes] *Ad-Hoc*
-- [ ] [2342](https://www.beecrowd.com.br/judge/pt/problems/view/2342) - [Overflow] *Ad-Hoc*
-- [ ] [2343](https://www.beecrowd.com.br/judge/pt/problems/view/2343) - [Caçadores de Mitos] *Ad-Hoc*
-- [ ] [2344](https://www.beecrowd.com.br/judge/pt/problems/view/2344) - [Notas da Prova] *Beginner*
-- [ ] [2345](https://www.beecrowd.com.br/judge/pt/problems/view/2345) - [Assigning Teams] *Ad-Hoc*
-- [ ] [2346](https://www.beecrowd.com.br/judge/pt/problems/view/2346) - [Back to the Future] *Ad-Hoc*
-- [ ] [2347](https://www.beecrowd.com.br/judge/pt/problems/view/2347) - [Counting Self-Rotating Subsets] *Ad-Hoc*
-- [ ] [2348](https://www.beecrowd.com.br/judge/pt/problems/view/2348) - [Dating On-Line] *Ad-Hoc*
-- [ ] [2349](https://www.beecrowd.com.br/judge/pt/problems/view/2349) - [Farm Robot] *Ad-Hoc*
-- [ ] [2350](https://www.beecrowd.com.br/judge/pt/problems/view/2350) - [Game of Matchings] *Ad-Hoc*
-- [ ] [2351](https://www.beecrowd.com.br/judge/pt/problems/view/2351) - [Hotel Rewards] *Ad-Hoc*
-- [ ] [2352](https://www.beecrowd.com.br/judge/pt/problems/view/2352) - [Internet Trouble] *Ad-Hoc*
-- [ ] [2353](https://www.beecrowd.com.br/judge/pt/problems/view/2353) - [Just in Time] *Ad-Hoc*
-- [ ] [2354](https://www.beecrowd.com.br/judge/pt/problems/view/2354) - [Kill the Werewolf] *Ad-Hoc*
-- [ ] [2355](https://www.beecrowd.com.br/judge/pt/problems/view/2355) - [Brazil and Germany] *Ad-Hoc*
-- [ ] [2356](https://www.beecrowd.com.br/judge/pt/problems/view/2356) - [Bacteria I] *Strings*
-- [ ] [2357](https://www.beecrowd.com.br/judge/pt/problems/view/2357) - [Violence in Syldavia] *Graph*
-- [ ] [2358](https://www.beecrowd.com.br/judge/pt/problems/view/2358) - [Bacteria II] *Strings*
-- [ ] [2359](https://www.beecrowd.com.br/judge/pt/problems/view/2359) - [Allocating Ambulances] *Graph*
-- [ ] [2360](https://www.beecrowd.com.br/judge/pt/problems/view/2360) - [Centrals of Supervision] *Paradigms*
-- [ ] [2361](https://www.beecrowd.com.br/judge/pt/problems/view/2361) - [Input and Output] *Paradigms*
-- [ ] [2362](https://www.beecrowd.com.br/judge/pt/problems/view/2362) - [Alien Invasion] *Computational Geometry*
-- [ ] [2363](https://www.beecrowd.com.br/judge/pt/problems/view/2363) - [Playing with Transformations] *Paradigms*
-- [ ] [2364](https://www.beecrowd.com.br/judge/pt/problems/view/2364) - [Henrique] *Paradigms*
-- [ ] [2365](https://www.beecrowd.com.br/judge/pt/problems/view/2365) - [Brazilian Soccer' Big Bet] *Ad-Hoc*
-- [ ] [2366](https://www.beecrowd.com.br/judge/pt/problems/view/2366) - [Maratona] *Ad-Hoc*
-- [ ] [2367](https://www.beecrowd.com.br/judge/pt/problems/view/2367) - [Competição de Chocolate] *Ad-Hoc*
-- [ ] [2368](https://www.beecrowd.com.br/judge/pt/problems/view/2368) - [Simulador] *Ad-Hoc*
-- [ ] [2369](https://www.beecrowd.com.br/judge/pt/problems/view/2369) - [Conta de Água] *Ad-Hoc*
-- [ ] [2370](https://www.beecrowd.com.br/judge/pt/problems/view/2370) - [Times] *Data Structures and Libraries*
-- [ ] [2371](https://www.beecrowd.com.br/judge/pt/problems/view/2371) - [Naval Battle] *Ad-Hoc*
-- [ ] [2372](https://www.beecrowd.com.br/judge/pt/problems/view/2372) - [Meeting] *Graph*
-- [ ] [2373](https://www.beecrowd.com.br/judge/pt/problems/view/2373) - [Garçom] *Ad-Hoc*
-- [ ] [2374](https://www.beecrowd.com.br/judge/pt/problems/view/2374) - [Pneu] *Ad-Hoc*
-- [ ] [2375](https://www.beecrowd.com.br/judge/pt/problems/view/2375) - [Sedex] *Ad-Hoc*
-- [ ] [2376](https://www.beecrowd.com.br/judge/pt/problems/view/2376) - [Copa do Mundo] *Ad-Hoc*
-- [ ] [2377](https://www.beecrowd.com.br/judge/pt/problems/view/2377) - [Pedágio] *Ad-Hoc*
-- [ ] [2378](https://www.beecrowd.com.br/judge/pt/problems/view/2378) - [Elevator] *Ad-Hoc*
-- [ ] [2379](https://www.beecrowd.com.br/judge/pt/problems/view/2379) - [Dança Indígena] *Ad-Hoc*
-- [ ] [2380](https://www.beecrowd.com.br/judge/pt/problems/view/2380) - [Fusões] *Data Structures and Libraries*
-- [ ] [2381](https://www.beecrowd.com.br/judge/pt/problems/view/2381) - [Lista de Chamada] *Ad-Hoc*
-- [ ] [2382](https://www.beecrowd.com.br/judge/pt/problems/view/2382) - [Sedex Marciano] *Ad-Hoc*
-- [ ] [2383](https://www.beecrowd.com.br/judge/pt/problems/view/2383) - [Altas Aventuras] *Ad-Hoc*
-- [ ] [2384](https://www.beecrowd.com.br/judge/pt/problems/view/2384) - [Tradutor Alienígena] *Ad-Hoc*
-- [ ] [2385](https://www.beecrowd.com.br/judge/pt/problems/view/2385) - [Multiplicação de Matrizes] *Ad-Hoc*
-- [ ] [2386](https://www.beecrowd.com.br/judge/pt/problems/view/2386) - [Telescópio] *Ad-Hoc*
-- [ ] [2387](https://www.beecrowd.com.br/judge/pt/problems/view/2387) - [Dentista] *Ad-Hoc*
-- [ ] [2388](https://www.beecrowd.com.br/judge/pt/problems/view/2388) - [Tacógrafo] *Ad-Hoc*
-- [ ] [2389](https://www.beecrowd.com.br/judge/pt/problems/view/2389) - [Floresta] *Ad-Hoc*
-- [ ] [2390](https://www.beecrowd.com.br/judge/pt/problems/view/2390) - [Escada Rolante] *Ad-Hoc*
-- [ ] [2391](https://www.beecrowd.com.br/judge/pt/problems/view/2391) - [Progressões Aritméticas] *Ad-Hoc*
-- [ ] [2392](https://www.beecrowd.com.br/judge/pt/problems/view/2392) - [Pulo do Sapo] *Ad-Hoc*
-- [ ] [2393](https://www.beecrowd.com.br/judge/pt/problems/view/2393) - [O Mar não está para Peixe] *Ad-Hoc*
-- [ ] [2394](https://www.beecrowd.com.br/judge/pt/problems/view/2394) - [Corrida 1] *Ad-Hoc*
-- [ ] [2395](https://www.beecrowd.com.br/judge/pt/problems/view/2395) - [Transporte de Contêineres] *Ad-Hoc*
-- [ ] [2396](https://www.beecrowd.com.br/judge/pt/problems/view/2396) - [Corrida] *Ad-Hoc*
-- [ ] [2397](https://www.beecrowd.com.br/judge/pt/problems/view/2397) - [Triângulos] *Ad-Hoc*
-- [ ] [2398](https://www.beecrowd.com.br/judge/pt/problems/view/2398) - [Caça ao Tesouro] *Ad-Hoc*
-- [ ] [2399](https://www.beecrowd.com.br/judge/pt/problems/view/2399) - [Campo Minado] *Ad-Hoc*
+- [ ] [2300](https://www.beecrowd.com.br/judge/en/problems/view/2300) - [Transmissão de Energia] *Graph*
+- [ ] [2301](https://www.beecrowd.com.br/judge/en/problems/view/2301) - [Vivo ou Morto] *Ad-Hoc*
+- [ ] [2302](https://www.beecrowd.com.br/judge/en/problems/view/2302) - [Conversa não tão Secreta] *Ad-Hoc*
+- [ ] [2303](https://www.beecrowd.com.br/judge/en/problems/view/2303) - [Margaridas] *Ad-Hoc*
+- [ ] [2304](https://www.beecrowd.com.br/judge/en/problems/view/2304) - [Banco Imobiliário] *Ad-Hoc*
+- [ ] [2305](https://www.beecrowd.com.br/judge/en/problems/view/2305) - [Colheita de Caju] *Ad-Hoc*
+- [ ] [2306](https://www.beecrowd.com.br/judge/en/problems/view/2306) - [Escada Perfeita] *Ad-Hoc*
+- [ ] [2307](https://www.beecrowd.com.br/judge/en/problems/view/2307) - [Jogo de Cartas] *Ad-Hoc*
+- [ ] [2308](https://www.beecrowd.com.br/judge/en/problems/view/2308) - [Museu] *Ad-Hoc*
+- [ ] [2309](https://www.beecrowd.com.br/judge/en/problems/view/2309) - [Truco] *Ad-Hoc*
+- [ ] [2310](https://www.beecrowd.com.br/judge/en/problems/view/2310) - [Volleyball] *Beginner*
+- [ ] [2311](https://www.beecrowd.com.br/judge/en/problems/view/2311) - [Diving] *Beginner*
+- [ ] [2312](https://www.beecrowd.com.br/judge/en/problems/view/2312) - [Medal Table] *Ad-Hoc*
+- [ ] [2313](https://www.beecrowd.com.br/judge/en/problems/view/2313) - [Which Triangle] *Beginner*
+- [ ] [2314](https://www.beecrowd.com.br/judge/en/problems/view/2314) - [Indenter] *Strings*
+- [ ] [2315](https://www.beecrowd.com.br/judge/en/problems/view/2315) - [Easy Difference Between Dates] *Ad-Hoc*
+- [ ] [2316](https://www.beecrowd.com.br/judge/en/problems/view/2316) - [Autorama] *Ad-Hoc*
+- [ ] [2317](https://www.beecrowd.com.br/judge/en/problems/view/2317) - [Lobo Mau] *Ad-Hoc*
+- [ ] [2318](https://www.beecrowd.com.br/judge/en/problems/view/2318) - [Quadrado Mágico] *Ad-Hoc*
+- [ ] [2319](https://www.beecrowd.com.br/judge/en/problems/view/2319) - [Penalidade Mínima] *Ad-Hoc*
+- [ ] [2320](https://www.beecrowd.com.br/judge/en/problems/view/2320) - [Subsequência] *Ad-Hoc*
+- [ ] [2321](https://www.beecrowd.com.br/judge/en/problems/view/2321) - [Detectando Colisões] *Ad-Hoc*
+- [ ] [2322](https://www.beecrowd.com.br/judge/en/problems/view/2322) - [Peça Perdida] *Ad-Hoc*
+- [ ] [2323](https://www.beecrowd.com.br/judge/en/problems/view/2323) - [Móbile] *Ad-Hoc*
+- [ ] [2324](https://www.beecrowd.com.br/judge/en/problems/view/2324) - [Pastas] *Ad-Hoc*
+- [ ] [2325](https://www.beecrowd.com.br/judge/en/problems/view/2325) - [Repositórios] *Ad-Hoc*
+- [ ] [2326](https://www.beecrowd.com.br/judge/en/problems/view/2326) - [Sacoleiro] *Ad-Hoc*
+- [ ] [2327](https://www.beecrowd.com.br/judge/en/problems/view/2327) - [Quadrados] *Ad-Hoc*
+- [ ] [2328](https://www.beecrowd.com.br/judge/en/problems/view/2328) - [Chocolate] *Ad-Hoc*
+- [ ] [2329](https://www.beecrowd.com.br/judge/en/problems/view/2329) - [Pão a Metro] *Ad-Hoc*
+- [ ] [2330](https://www.beecrowd.com.br/judge/en/problems/view/2330) - [Telemarketing] *Ad-Hoc*
+- [ ] [2331](https://www.beecrowd.com.br/judge/en/problems/view/2331) - [Uiquipédia] *Ad-Hoc*
+- [ ] [2332](https://www.beecrowd.com.br/judge/en/problems/view/2332) - [Jogo do Labirinto] *Ad-Hoc*
+- [ ] [2333](https://www.beecrowd.com.br/judge/en/problems/view/2333) - [Pizza] *Ad-Hoc*
+- [ ] [2334](https://www.beecrowd.com.br/judge/en/problems/view/2334) - [Little Ducks] *Beginner*
+- [ ] [2335](https://www.beecrowd.com.br/judge/en/problems/view/2335) - [Arquibaldo's Challenge] *Mathematics*
+- [ ] [2336](https://www.beecrowd.com.br/judge/en/problems/view/2336) - [ABC] *Strings*
+- [ ] [2337](https://www.beecrowd.com.br/judge/en/problems/view/2337) - [Pro Ability] *Mathematics*
+- [ ] [2338](https://www.beecrowd.com.br/judge/en/problems/view/2338) - [Morse] *Data Structures and Libraries*
+- [ ] [2339](https://www.beecrowd.com.br/judge/en/problems/view/2339) - [Aviões de Papel] *Ad-Hoc*
+- [ ] [2340](https://www.beecrowd.com.br/judge/en/problems/view/2340) - [Feira de Bactérias] *Ad-Hoc*
+- [ ] [2341](https://www.beecrowd.com.br/judge/en/problems/view/2341) - [Número de Envelopes] *Ad-Hoc*
+- [ ] [2342](https://www.beecrowd.com.br/judge/en/problems/view/2342) - [Overflow] *Ad-Hoc*
+- [ ] [2343](https://www.beecrowd.com.br/judge/en/problems/view/2343) - [Caçadores de Mitos] *Ad-Hoc*
+- [ ] [2344](https://www.beecrowd.com.br/judge/en/problems/view/2344) - [Notas da Prova] *Beginner*
+- [ ] [2345](https://www.beecrowd.com.br/judge/en/problems/view/2345) - [Assigning Teams] *Ad-Hoc*
+- [ ] [2346](https://www.beecrowd.com.br/judge/en/problems/view/2346) - [Back to the Future] *Ad-Hoc*
+- [ ] [2347](https://www.beecrowd.com.br/judge/en/problems/view/2347) - [Counting Self-Rotating Subsets] *Ad-Hoc*
+- [ ] [2348](https://www.beecrowd.com.br/judge/en/problems/view/2348) - [Dating On-Line] *Ad-Hoc*
+- [ ] [2349](https://www.beecrowd.com.br/judge/en/problems/view/2349) - [Farm Robot] *Ad-Hoc*
+- [ ] [2350](https://www.beecrowd.com.br/judge/en/problems/view/2350) - [Game of Matchings] *Ad-Hoc*
+- [ ] [2351](https://www.beecrowd.com.br/judge/en/problems/view/2351) - [Hotel Rewards] *Ad-Hoc*
+- [ ] [2352](https://www.beecrowd.com.br/judge/en/problems/view/2352) - [Internet Trouble] *Ad-Hoc*
+- [ ] [2353](https://www.beecrowd.com.br/judge/en/problems/view/2353) - [Just in Time] *Ad-Hoc*
+- [ ] [2354](https://www.beecrowd.com.br/judge/en/problems/view/2354) - [Kill the Werewolf] *Ad-Hoc*
+- [ ] [2355](https://www.beecrowd.com.br/judge/en/problems/view/2355) - [Brazil and Germany] *Ad-Hoc*
+- [ ] [2356](https://www.beecrowd.com.br/judge/en/problems/view/2356) - [Bacteria I] *Strings*
+- [ ] [2357](https://www.beecrowd.com.br/judge/en/problems/view/2357) - [Violence in Syldavia] *Graph*
+- [ ] [2358](https://www.beecrowd.com.br/judge/en/problems/view/2358) - [Bacteria II] *Strings*
+- [ ] [2359](https://www.beecrowd.com.br/judge/en/problems/view/2359) - [Allocating Ambulances] *Graph*
+- [ ] [2360](https://www.beecrowd.com.br/judge/en/problems/view/2360) - [Centrals of Supervision] *Paradigms*
+- [ ] [2361](https://www.beecrowd.com.br/judge/en/problems/view/2361) - [Input and Output] *Paradigms*
+- [ ] [2362](https://www.beecrowd.com.br/judge/en/problems/view/2362) - [Alien Invasion] *Computational Geometry*
+- [ ] [2363](https://www.beecrowd.com.br/judge/en/problems/view/2363) - [Playing with Transformations] *Paradigms*
+- [ ] [2364](https://www.beecrowd.com.br/judge/en/problems/view/2364) - [Henrique] *Paradigms*
+- [ ] [2365](https://www.beecrowd.com.br/judge/en/problems/view/2365) - [Brazilian Soccer' Big Bet] *Ad-Hoc*
+- [ ] [2366](https://www.beecrowd.com.br/judge/en/problems/view/2366) - [Maratona] *Ad-Hoc*
+- [ ] [2367](https://www.beecrowd.com.br/judge/en/problems/view/2367) - [Competição de Chocolate] *Ad-Hoc*
+- [ ] [2368](https://www.beecrowd.com.br/judge/en/problems/view/2368) - [Simulador] *Ad-Hoc*
+- [ ] [2369](https://www.beecrowd.com.br/judge/en/problems/view/2369) - [Conta de Água] *Ad-Hoc*
+- [ ] [2370](https://www.beecrowd.com.br/judge/en/problems/view/2370) - [Times] *Data Structures and Libraries*
+- [ ] [2371](https://www.beecrowd.com.br/judge/en/problems/view/2371) - [Naval Battle] *Ad-Hoc*
+- [ ] [2372](https://www.beecrowd.com.br/judge/en/problems/view/2372) - [Meeting] *Graph*
+- [ ] [2373](https://www.beecrowd.com.br/judge/en/problems/view/2373) - [Garçom] *Ad-Hoc*
+- [ ] [2374](https://www.beecrowd.com.br/judge/en/problems/view/2374) - [Pneu] *Ad-Hoc*
+- [ ] [2375](https://www.beecrowd.com.br/judge/en/problems/view/2375) - [Sedex] *Ad-Hoc*
+- [ ] [2376](https://www.beecrowd.com.br/judge/en/problems/view/2376) - [Copa do Mundo] *Ad-Hoc*
+- [ ] [2377](https://www.beecrowd.com.br/judge/en/problems/view/2377) - [Pedágio] *Ad-Hoc*
+- [ ] [2378](https://www.beecrowd.com.br/judge/en/problems/view/2378) - [Elevator] *Ad-Hoc*
+- [ ] [2379](https://www.beecrowd.com.br/judge/en/problems/view/2379) - [Dança Indígena] *Ad-Hoc*
+- [ ] [2380](https://www.beecrowd.com.br/judge/en/problems/view/2380) - [Fusões] *Data Structures and Libraries*
+- [ ] [2381](https://www.beecrowd.com.br/judge/en/problems/view/2381) - [Lista de Chamada] *Ad-Hoc*
+- [ ] [2382](https://www.beecrowd.com.br/judge/en/problems/view/2382) - [Sedex Marciano] *Ad-Hoc*
+- [ ] [2383](https://www.beecrowd.com.br/judge/en/problems/view/2383) - [Altas Aventuras] *Ad-Hoc*
+- [ ] [2384](https://www.beecrowd.com.br/judge/en/problems/view/2384) - [Tradutor Alienígena] *Ad-Hoc*
+- [ ] [2385](https://www.beecrowd.com.br/judge/en/problems/view/2385) - [Multiplicação de Matrizes] *Ad-Hoc*
+- [ ] [2386](https://www.beecrowd.com.br/judge/en/problems/view/2386) - [Telescópio] *Ad-Hoc*
+- [ ] [2387](https://www.beecrowd.com.br/judge/en/problems/view/2387) - [Dentista] *Ad-Hoc*
+- [ ] [2388](https://www.beecrowd.com.br/judge/en/problems/view/2388) - [Tacógrafo] *Ad-Hoc*
+- [ ] [2389](https://www.beecrowd.com.br/judge/en/problems/view/2389) - [Floresta] *Ad-Hoc*
+- [ ] [2390](https://www.beecrowd.com.br/judge/en/problems/view/2390) - [Escada Rolante] *Ad-Hoc*
+- [ ] [2391](https://www.beecrowd.com.br/judge/en/problems/view/2391) - [Progressões Aritméticas] *Ad-Hoc*
+- [ ] [2392](https://www.beecrowd.com.br/judge/en/problems/view/2392) - [Pulo do Sapo] *Ad-Hoc*
+- [ ] [2393](https://www.beecrowd.com.br/judge/en/problems/view/2393) - [O Mar não está para Peixe] *Ad-Hoc*
+- [ ] [2394](https://www.beecrowd.com.br/judge/en/problems/view/2394) - [Corrida 1] *Ad-Hoc*
+- [ ] [2395](https://www.beecrowd.com.br/judge/en/problems/view/2395) - [Transporte de Contêineres] *Ad-Hoc*
+- [ ] [2396](https://www.beecrowd.com.br/judge/en/problems/view/2396) - [Corrida] *Ad-Hoc*
+- [ ] [2397](https://www.beecrowd.com.br/judge/en/problems/view/2397) - [Triângulos] *Ad-Hoc*
+- [ ] [2398](https://www.beecrowd.com.br/judge/en/problems/view/2398) - [Caça ao Tesouro] *Ad-Hoc*
+- [ ] [2399](https://www.beecrowd.com.br/judge/en/problems/view/2399) - [Campo Minado] *Ad-Hoc*

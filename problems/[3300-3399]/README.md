@@ -1,38 +1,38 @@
 # Problems 3300 (0 %)
 
 
-- [ ] [3300](https://www.beecrowd.com.br/judge/pt/problems/view/3300) - [Recharged Unlucky Numbers] *Strings*
-- [ ] [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Middle Nephew] *Beginner*
-- [ ] [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - [Correct Answer] *Beginner*
-- [ ] [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - [Big Word] *Beginner*
-- [ ] [3304](https://www.beecrowd.com.br/judge/pt/problems/view/3304) - [Any Luck!] *Mathematics*
-- [ ] [3305](https://www.beecrowd.com.br/judge/pt/problems/view/3305) - [Dominant Bishops] *Ad-Hoc*
-- [ ] [3307](https://www.beecrowd.com.br/judge/pt/problems/view/3307) - [Decorate the Walk!] *Ad-Hoc*
-- [ ] [3308](https://www.beecrowd.com.br/judge/pt/problems/view/3308) - [Elevator] *Mathematics*
-- [ ] [3309](https://www.beecrowd.com.br/judge/pt/problems/view/3309) - [Happy are these Numbers] *Ad-Hoc*
-- [ ] [3310](https://www.beecrowd.com.br/judge/pt/problems/view/3310) - [Gravity Boy] *Strings*
-- [ ] [3311](https://www.beecrowd.com.br/judge/pt/problems/view/3311) - [Hudinho and his Work] *Strings*
-- [ ] [3312](https://www.beecrowd.com.br/judge/pt/problems/view/3312) - [Math Beginner] *Mathematics*
-- [ ] [3313](https://www.beecrowd.com.br/judge/pt/problems/view/3313) - [Wordplay] *Strings*
-- [ ] [3314](https://www.beecrowd.com.br/judge/pt/problems/view/3314) - [Konfused, the Hive! ] *Graph*
-- [ ] [3315](https://www.beecrowd.com.br/judge/pt/problems/view/3315) - [Computer Language] *Ad-Hoc*
-- [ ] [3339](https://www.beecrowd.com.br/judge/pt/problems/view/3339) - [Karina] *Mathematics*
-- [ ] [3340](https://www.beecrowd.com.br/judge/pt/problems/view/3340) - [Masters Degree Student] *Graph*
-- [ ] [3341](https://www.beecrowd.com.br/judge/pt/problems/view/3341) - [Dice Grandmaster] *Mathematics*
-- [ ] [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - [Keanu] *Beginner*
-- [ ] [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - [Attack On Gasparini] *Beginner*
-- [ ] [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute] *Beginner*
-- [ ] [3345](https://www.beecrowd.com.br/judge/pt/problems/view/3345) - [Ferdinaccis Hobby] *Mathematics*
-- [ ] [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - [GDP Fluctuation] *Beginner*
-- [ ] [3347](https://www.beecrowd.com.br/judge/pt/problems/view/3347) - [Ancestry] *Strings*
-- [ ] [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - [Game of Spiders] *Beginner*
-- [ ] [3349](https://www.beecrowd.com.br/judge/pt/problems/view/3349) - [Armor] *Paradigms*
-- [ ] [3350](https://www.beecrowd.com.br/judge/pt/problems/view/3350) - [The House of the Seven Women] *Graph*
-- [ ] [3351](https://www.beecrowd.com.br/judge/pt/problems/view/3351) - [Clickbait] *Ad-Hoc*
-- [ ] [3352](https://www.beecrowd.com.br/judge/pt/problems/view/3352) - [Run away with me, Galileo!] *Computational Geometry*
-- [ ] [3353](https://www.beecrowd.com.br/judge/pt/problems/view/3353) - [Araucarias and the Three-Eyed Azure Jay] *Strings*
-- [ ] [3354](https://www.beecrowd.com.br/judge/pt/problems/view/3354) - [Joãozinho Comes to the South] *Mathematics*
-- [ ] [3355](https://www.beecrowd.com.br/judge/pt/problems/view/3355) - [Chess Pinhões] *Ad-Hoc*
-- [ ] [3356](https://www.beecrowd.com.br/judge/pt/problems/view/3356) - [Controlled Breeding] *Graph*
-- [ ] [3357](https://www.beecrowd.com.br/judge/pt/problems/view/3357) - [Rich of Chimarrão] *Data Structures and Libraries*
-- [ ] [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) - [Surname is not Easy] *Strings*
+- [ ] [3300](https://www.beecrowd.com.br/judge/en/problems/view/3300) - [Recharged Unlucky Numbers] *Strings*
+- [ ] [3301](https://www.beecrowd.com.br/judge/en/problems/view/3301) - [Middle Nephew] *Beginner*
+- [ ] [3302](https://www.beecrowd.com.br/judge/en/problems/view/3302) - [Correct Answer] *Beginner*
+- [ ] [3303](https://www.beecrowd.com.br/judge/en/problems/view/3303) - [Big Word] *Beginner*
+- [ ] [3304](https://www.beecrowd.com.br/judge/en/problems/view/3304) - [Any Luck!] *Mathematics*
+- [ ] [3305](https://www.beecrowd.com.br/judge/en/problems/view/3305) - [Dominant Bishops] *Ad-Hoc*
+- [ ] [3307](https://www.beecrowd.com.br/judge/en/problems/view/3307) - [Decorate the Walk!] *Ad-Hoc*
+- [ ] [3308](https://www.beecrowd.com.br/judge/en/problems/view/3308) - [Elevator] *Mathematics*
+- [ ] [3309](https://www.beecrowd.com.br/judge/en/problems/view/3309) - [Happy are these Numbers] *Ad-Hoc*
+- [ ] [3310](https://www.beecrowd.com.br/judge/en/problems/view/3310) - [Gravity Boy] *Strings*
+- [ ] [3311](https://www.beecrowd.com.br/judge/en/problems/view/3311) - [Hudinho and his Work] *Strings*
+- [ ] [3312](https://www.beecrowd.com.br/judge/en/problems/view/3312) - [Math Beginner] *Mathematics*
+- [ ] [3313](https://www.beecrowd.com.br/judge/en/problems/view/3313) - [Wordplay] *Strings*
+- [ ] [3314](https://www.beecrowd.com.br/judge/en/problems/view/3314) - [Konfused, the Hive! ] *Graph*
+- [ ] [3315](https://www.beecrowd.com.br/judge/en/problems/view/3315) - [Computer Language] *Ad-Hoc*
+- [ ] [3339](https://www.beecrowd.com.br/judge/en/problems/view/3339) - [Karina] *Mathematics*
+- [ ] [3340](https://www.beecrowd.com.br/judge/en/problems/view/3340) - [Masters Degree Student] *Graph*
+- [ ] [3341](https://www.beecrowd.com.br/judge/en/problems/view/3341) - [Dice Grandmaster] *Mathematics*
+- [ ] [3342](https://www.beecrowd.com.br/judge/en/problems/view/3342) - [Keanu] *Beginner*
+- [ ] [3343](https://www.beecrowd.com.br/judge/en/problems/view/3343) - [Attack On Gasparini] *Beginner*
+- [ ] [3344](https://www.beecrowd.com.br/judge/en/problems/view/3344) - [Brute] *Beginner*
+- [ ] [3345](https://www.beecrowd.com.br/judge/en/problems/view/3345) - [Ferdinaccis Hobby] *Mathematics*
+- [ ] [3346](https://www.beecrowd.com.br/judge/en/problems/view/3346) - [GDP Fluctuation] *Beginner*
+- [ ] [3347](https://www.beecrowd.com.br/judge/en/problems/view/3347) - [Ancestry] *Strings*
+- [ ] [3348](https://www.beecrowd.com.br/judge/en/problems/view/3348) - [Game of Spiders] *Beginner*
+- [ ] [3349](https://www.beecrowd.com.br/judge/en/problems/view/3349) - [Armor] *Paradigms*
+- [ ] [3350](https://www.beecrowd.com.br/judge/en/problems/view/3350) - [The House of the Seven Women] *Graph*
+- [ ] [3351](https://www.beecrowd.com.br/judge/en/problems/view/3351) - [Clickbait] *Ad-Hoc*
+- [ ] [3352](https://www.beecrowd.com.br/judge/en/problems/view/3352) - [Run away with me, Galileo!] *Computational Geometry*
+- [ ] [3353](https://www.beecrowd.com.br/judge/en/problems/view/3353) - [Araucarias and the Three-Eyed Azure Jay] *Strings*
+- [ ] [3354](https://www.beecrowd.com.br/judge/en/problems/view/3354) - [Joãozinho Comes to the South] *Mathematics*
+- [ ] [3355](https://www.beecrowd.com.br/judge/en/problems/view/3355) - [Chess Pinhões] *Ad-Hoc*
+- [ ] [3356](https://www.beecrowd.com.br/judge/en/problems/view/3356) - [Controlled Breeding] *Graph*
+- [ ] [3357](https://www.beecrowd.com.br/judge/en/problems/view/3357) - [Rich of Chimarrão] *Data Structures and Libraries*
+- [ ] [3358](https://www.beecrowd.com.br/judge/en/problems/view/3358) - [Surname is not Easy] *Strings*

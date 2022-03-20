@@ -72,7 +72,7 @@ function parseProblems(problems) {
 
 async function getProblems(page) {
   const problems = await axios.get(
-    `https://www.beecrowd.com.br/judge/en/problems/all?page=${page}&limit=100`
+    `https://www.beecrowd.com.br/judge/${config.language}/problems/all?page=${page}&limit=100`
   );
 
   return parseProblems(problems.data);
@@ -104,7 +104,7 @@ function parseCategories(categories) {
 
 async function getCategories() {
   const categories = await axios.get(
-    "https://www.beecrowd.com.br/judge/en/categories"
+    `https://www.beecrowd.com.br/judge/${config.language}/categories`
   );
 
   return parseCategories(categories.data);
@@ -168,7 +168,7 @@ function formatBodyOfProblems(problems) {
     const filePath = fileExits
       ? `(${config.githubURL}/beecrowd/blob/master/problems/${folderName}/${current.number}/code.js)`
       : "";
-    const line = `- [${status}] [${current.number}](https://www.beecrowd.com.br/judge/pt/problems/view/${current.number}) - [${current.name}]${filePath} *${current.category}*`;
+    const line = `- [${status}] [${current.number}](https://www.beecrowd.com.br/judge/${config.language}/problems/view/${current.number}) - [${current.name}]${filePath} *${current.category}*`;
 
     return `${accumulator}\n${line}`;
   }, "");
@@ -194,7 +194,7 @@ function formatBodyOfCategories(problems) {
     const filePath = fileExits
       ? `(${config.githubURL}/beecrowd/blob/master/problems/${folderName}/${current.number}/code.js)`
       : "";
-    const line = `- [${status}] [${current.number}](https://www.beecrowd.com.br/judge/pt/problems/view/${current.number}) - [${current.name}]${filePath}`;
+    const line = `- [${status}] [${current.number}](https://www.beecrowd.com.br/judge/${config.language}/problems/view/${current.number}) - [${current.name}]${filePath}`;
 
     return `${accumulator}\n${line}`;
   }, "");

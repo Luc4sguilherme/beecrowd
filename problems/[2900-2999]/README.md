@@ -1,103 +1,103 @@
 # Problems 2900 (0 %)
 
 
-- [ ] [2900](https://www.beecrowd.com.br/judge/pt/problems/view/2900) - [Game of Rods] *Ad-Hoc*
-- [ ] [2901](https://www.beecrowd.com.br/judge/pt/problems/view/2901) - [Martian Volleyball] *Ad-Hoc*
-- [ ] [2902](https://www.beecrowd.com.br/judge/pt/problems/view/2902) - [Rouba Monte] *Ad-Hoc*
-- [ ] [2903](https://www.beecrowd.com.br/judge/pt/problems/view/2903) - [A Symmetrical Pizza] *Mathematics*
-- [ ] [2904](https://www.beecrowd.com.br/judge/pt/problems/view/2904) - [Building a Field] *Ad-Hoc*
-- [ ] [2905](https://www.beecrowd.com.br/judge/pt/problems/view/2905) - [Cheap Trips] *Ad-Hoc*
-- [ ] [2906](https://www.beecrowd.com.br/judge/pt/problems/view/2906) - [Database of Clients] *Strings*
-- [ ] [2907](https://www.beecrowd.com.br/judge/pt/problems/view/2907) - [Escape, Polygon!] *Ad-Hoc*
-- [ ] [2908](https://www.beecrowd.com.br/judge/pt/problems/view/2908) - [Fantastic Beasts] *Ad-Hoc*
-- [ ] [2909](https://www.beecrowd.com.br/judge/pt/problems/view/2909) - [Gathering Red-Black Fruits] *Ad-Hoc*
-- [ ] [2910](https://www.beecrowd.com.br/judge/pt/problems/view/2910) - [Highway Decommission] *Ad-Hoc*
-- [ ] [2911](https://www.beecrowd.com.br/judge/pt/problems/view/2911) - [Ink Colors] *Ad-Hoc*
-- [ ] [2912](https://www.beecrowd.com.br/judge/pt/problems/view/2912) - [Jeopardized Election] *Ad-Hoc*
-- [ ] [2913](https://www.beecrowd.com.br/judge/pt/problems/view/2913) - [KryptoLocker Ate my Homework] *Ad-Hoc*
-- [ ] [2914](https://www.beecrowd.com.br/judge/pt/problems/view/2914) - [Looking for the Risk Factor] *Ad-Hoc*
-- [ ] [2915](https://www.beecrowd.com.br/judge/pt/problems/view/2915) - [Mount Marathon] *Ad-Hoc*
-- [ ] [2916](https://www.beecrowd.com.br/judge/pt/problems/view/2916) - [The Note] *Data Structures and Libraries*
-- [ ] [2917](https://www.beecrowd.com.br/judge/pt/problems/view/2917) - [String] *Paradigms*
-- [ ] [2918](https://www.beecrowd.com.br/judge/pt/problems/view/2918) - [Smart Digits] *Paradigms*
-- [ ] [2919](https://www.beecrowd.com.br/judge/pt/problems/view/2919) - [Best Order] *Paradigms*
-- [ ] [2920](https://www.beecrowd.com.br/judge/pt/problems/view/2920) - [Small Number] *Paradigms*
-- [ ] [2921](https://www.beecrowd.com.br/judge/pt/problems/view/2921) - [Alien Charts] *Paradigms*
-- [ ] [2922](https://www.beecrowd.com.br/judge/pt/problems/view/2922) - [Classrooms] *Ad-Hoc*
-- [ ] [2923](https://www.beecrowd.com.br/judge/pt/problems/view/2923) - [Birinho] *Ad-Hoc*
-- [ ] [2924](https://www.beecrowd.com.br/judge/pt/problems/view/2924) - [BigInt] *Ad-Hoc*
-- [ ] [2925](https://www.beecrowd.com.br/judge/pt/problems/view/2925) - [IccanobiF Sequence] *Ad-Hoc*
-- [ ] [2926](https://www.beecrowd.com.br/judge/pt/problems/view/2926) - [So This is Christmas!] *Ad-Hoc*
-- [ ] [2927](https://www.beecrowd.com.br/judge/pt/problems/view/2927) - [Unforeseen at Christmas] *Ad-Hoc*
-- [ ] [2928](https://www.beecrowd.com.br/judge/pt/problems/view/2928) - [Crossing Lakes] *Ad-Hoc*
-- [ ] [2929](https://www.beecrowd.com.br/judge/pt/problems/view/2929) - [Smallest on the Stack] *Data Structures and Libraries*
-- [ ] [2930](https://www.beecrowd.com.br/judge/pt/problems/view/2930) - [Final Thesis of Christmas Depression] *Beginner*
-- [ ] [2931](https://www.beecrowd.com.br/judge/pt/problems/view/2931) - [Suspicious Gifts] *Ad-Hoc*
-- [ ] [2932](https://www.beecrowd.com.br/judge/pt/problems/view/2932) - [Santa's Reindeers] *Paradigms*
-- [ ] [2933](https://www.beecrowd.com.br/judge/pt/problems/view/2933) - [Earth Sled Tour] *Graph*
-- [ ] [2934](https://www.beecrowd.com.br/judge/pt/problems/view/2934) - [Noel and His Reindeer] *Paradigms*
-- [ ] [2935](https://www.beecrowd.com.br/judge/pt/problems/view/2935) - [DNA of Elf] *Ad-Hoc*
-- [ ] [2936](https://www.beecrowd.com.br/judge/pt/problems/view/2936) - [How Much Cassava?] *Beginner*
-- [ ] [2937](https://www.beecrowd.com.br/judge/pt/problems/view/2937) - [Snake Norato] *Mathematics*
-- [ ] [2938](https://www.beecrowd.com.br/judge/pt/problems/view/2938) - [Jaçanã] *Ad-Hoc*
-- [ ] [2939](https://www.beecrowd.com.br/judge/pt/problems/view/2939) - [Couples] *Mathematics*
-- [ ] [2940](https://www.beecrowd.com.br/judge/pt/problems/view/2940) - [Broken Time Machine] *Ad-Hoc*
-- [ ] [2941](https://www.beecrowd.com.br/judge/pt/problems/view/2941) - [Optical Fiber] *Graph*
-- [ ] [2942](https://www.beecrowd.com.br/judge/pt/problems/view/2942) - [Bits Mixing] *Ad-Hoc*
-- [ ] [2943](https://www.beecrowd.com.br/judge/pt/problems/view/2943) - [Smider Pan] *Ad-Hoc*
-- [ ] [2944](https://www.beecrowd.com.br/judge/pt/problems/view/2944) - [Emergency in Manaus] *Ad-Hoc*
-- [ ] [2945](https://www.beecrowd.com.br/judge/pt/problems/view/2945) - [Monitor] *Ad-Hoc*
-- [ ] [2946](https://www.beecrowd.com.br/judge/pt/problems/view/2946) - [Dabriel and the Divisibility] *Ad-Hoc*
-- [ ] [2947](https://www.beecrowd.com.br/judge/pt/problems/view/2947) - [Correct Answers] *Ad-Hoc*
-- [ ] [2948](https://www.beecrowd.com.br/judge/pt/problems/view/2948) - [Açaí Planting] *Ad-Hoc*
-- [ ] [2949](https://www.beecrowd.com.br/judge/pt/problems/view/2949) - [The Fellowship of the Ring] *Beginner*
-- [ ] [2950](https://www.beecrowd.com.br/judge/pt/problems/view/2950) - [The Two Towers] *Beginner*
-- [ ] [2951](https://www.beecrowd.com.br/judge/pt/problems/view/2951) - [The Return of The King] *Beginner*
-- [ ] [2952](https://www.beecrowd.com.br/judge/pt/problems/view/2952) - [Sustainable Living] *Data Structures and Libraries*
-- [ ] [2953](https://www.beecrowd.com.br/judge/pt/problems/view/2953) - [One More Game] *Mathematics*
-- [ ] [2954](https://www.beecrowd.com.br/judge/pt/problems/view/2954) - [The Game] *Strings*
-- [ ] [2955](https://www.beecrowd.com.br/judge/pt/problems/view/2955) - [Truuuuuco!] *Mathematics*
-- [ ] [2956](https://www.beecrowd.com.br/judge/pt/problems/view/2956) - [13 Variables Derivative] *Mathematics*
-- [ ] [2957](https://www.beecrowd.com.br/judge/pt/problems/view/2957) - [Lord Grandpa] *Ad-Hoc*
-- [ ] [2958](https://www.beecrowd.com.br/judge/pt/problems/view/2958) - [The Bad Vibes Walk] *Data Structures and Libraries*
-- [ ] [2959](https://www.beecrowd.com.br/judge/pt/problems/view/2959) - [StopAll] *Graph*
-- [ ] [2960](https://www.beecrowd.com.br/judge/pt/problems/view/2960) - [Once Upon a Time...] *Strings*
-- [ ] [2961](https://www.beecrowd.com.br/judge/pt/problems/view/2961) - [Too Many Movies!] *Data Structures and Libraries*
-- [ ] [2962](https://www.beecrowd.com.br/judge/pt/problems/view/2962) - [Artwork] *Graph*
-- [ ] [2963](https://www.beecrowd.com.br/judge/pt/problems/view/2963) - [Buffoon] *Beginner*
-- [ ] [2964](https://www.beecrowd.com.br/judge/pt/problems/view/2964) - [Crossings With Danger] *Ad-Hoc*
-- [ ] [2965](https://www.beecrowd.com.br/judge/pt/problems/view/2965) - [Denouncing Mafia] *Graph*
-- [ ] [2966](https://www.beecrowd.com.br/judge/pt/problems/view/2966) - [Exhibition of Clownfish] *Ad-Hoc*
-- [ ] [2967](https://www.beecrowd.com.br/judge/pt/problems/view/2967) - [Forests in Danger] *Paradigms*
-- [ ] [2968](https://www.beecrowd.com.br/judge/pt/problems/view/2968) - [Hour for a Run] *Beginner*
-- [ ] [2969](https://www.beecrowd.com.br/judge/pt/problems/view/2969) - [Interplanetary] *Graph*
-- [ ] [2970](https://www.beecrowd.com.br/judge/pt/problems/view/2970) - [Keep Calm and Sell Balloons] *Paradigms*
-- [ ] [2971](https://www.beecrowd.com.br/judge/pt/problems/view/2971) - [Jar of Water Game] *Ad-Hoc*
-- [ ] [2972](https://www.beecrowd.com.br/judge/pt/problems/view/2972) - [Less Coin Tosses] *Ad-Hoc*
-- [ ] [2973](https://www.beecrowd.com.br/judge/pt/problems/view/2973) - [Maratona Brasileira de Popcorn] *Paradigms*
-- [ ] [2974](https://www.beecrowd.com.br/judge/pt/problems/view/2974) - [Lock] *Strings*
-- [ ] [2975](https://www.beecrowd.com.br/judge/pt/problems/view/2975) - [Ring] *Strings*
-- [ ] [2976](https://www.beecrowd.com.br/judge/pt/problems/view/2976) - [Triangles] *Paradigms*
-- [ ] [2977](https://www.beecrowd.com.br/judge/pt/problems/view/2977) - [Romeo and Juliet] *Graph*
-- [ ] [2978](https://www.beecrowd.com.br/judge/pt/problems/view/2978) - [Card] *Mathematics*
-- [ ] [2979](https://www.beecrowd.com.br/judge/pt/problems/view/2979) - [Rook] *Ad-Hoc*
-- [ ] [2980](https://www.beecrowd.com.br/judge/pt/problems/view/2980) - [Tree Game] *Graph*
-- [ ] [2981](https://www.beecrowd.com.br/judge/pt/problems/view/2981) - [We Are Going To Close] *Mathematics*
-- [ ] [2982](https://www.beecrowd.com.br/judge/pt/problems/view/2982) - [The Strike Stops or Continues?] *Beginner*
-- [ ] [2983](https://www.beecrowd.com.br/judge/pt/problems/view/2983) - [Not Everything is Strike] *Mathematics*
-- [ ] [2984](https://www.beecrowd.com.br/judge/pt/problems/view/2984) - [Outstanding Issues] *Data Structures and Libraries*
-- [ ] [2985](https://www.beecrowd.com.br/judge/pt/problems/view/2985) - [Tobias Against the Clock] *Ad-Hoc*
-- [ ] [2986](https://www.beecrowd.com.br/judge/pt/problems/view/2986) - [Not Everything is Strike Hard Version] *Mathematics*
-- [ ] [2987](https://www.beecrowd.com.br/judge/pt/problems/view/2987) - [Balloon of Honor] *Beginner*
-- [ ] [2988](https://www.beecrowd.com.br/judge/pt/problems/view/2988) - [Cearense Championship] *SQL*
-- [ ] [2989](https://www.beecrowd.com.br/judge/pt/problems/view/2989) - [Departments and Divisions] *SQL*
-- [ ] [2990](https://www.beecrowd.com.br/judge/pt/problems/view/2990) - [Employees CPF] *SQL*
-- [ ] [2991](https://www.beecrowd.com.br/judge/pt/problems/view/2991) - [Department Statistics] *SQL*
-- [ ] [2992](https://www.beecrowd.com.br/judge/pt/problems/view/2992) - [Highest Avarage Salary Divisions] *SQL*
-- [ ] [2993](https://www.beecrowd.com.br/judge/pt/problems/view/2993) - [Most Frequent] *SQL*
-- [ ] [2994](https://www.beecrowd.com.br/judge/pt/problems/view/2994) - [How much earn a Doctor?] *SQL*
-- [ ] [2995](https://www.beecrowd.com.br/judge/pt/problems/view/2995) - [The Sensor Message] *SQL*
-- [ ] [2996](https://www.beecrowd.com.br/judge/pt/problems/view/2996) - [Package Delivery] *SQL*
-- [ ] [2997](https://www.beecrowd.com.br/judge/pt/problems/view/2997) - [Employees Payment] *SQL*
-- [ ] [2998](https://www.beecrowd.com.br/judge/pt/problems/view/2998) - [The Payback] *SQL*
-- [ ] [2999](https://www.beecrowd.com.br/judge/pt/problems/view/2999) - [Highest Division Salary] *SQL*
+- [ ] [2900](https://www.beecrowd.com.br/judge/en/problems/view/2900) - [Game of Rods] *Ad-Hoc*
+- [ ] [2901](https://www.beecrowd.com.br/judge/en/problems/view/2901) - [Martian Volleyball] *Ad-Hoc*
+- [ ] [2902](https://www.beecrowd.com.br/judge/en/problems/view/2902) - [Rouba Monte] *Ad-Hoc*
+- [ ] [2903](https://www.beecrowd.com.br/judge/en/problems/view/2903) - [A Symmetrical Pizza] *Mathematics*
+- [ ] [2904](https://www.beecrowd.com.br/judge/en/problems/view/2904) - [Building a Field] *Ad-Hoc*
+- [ ] [2905](https://www.beecrowd.com.br/judge/en/problems/view/2905) - [Cheap Trips] *Ad-Hoc*
+- [ ] [2906](https://www.beecrowd.com.br/judge/en/problems/view/2906) - [Database of Clients] *Strings*
+- [ ] [2907](https://www.beecrowd.com.br/judge/en/problems/view/2907) - [Escape, Polygon!] *Ad-Hoc*
+- [ ] [2908](https://www.beecrowd.com.br/judge/en/problems/view/2908) - [Fantastic Beasts] *Ad-Hoc*
+- [ ] [2909](https://www.beecrowd.com.br/judge/en/problems/view/2909) - [Gathering Red-Black Fruits] *Ad-Hoc*
+- [ ] [2910](https://www.beecrowd.com.br/judge/en/problems/view/2910) - [Highway Decommission] *Ad-Hoc*
+- [ ] [2911](https://www.beecrowd.com.br/judge/en/problems/view/2911) - [Ink Colors] *Ad-Hoc*
+- [ ] [2912](https://www.beecrowd.com.br/judge/en/problems/view/2912) - [Jeopardized Election] *Ad-Hoc*
+- [ ] [2913](https://www.beecrowd.com.br/judge/en/problems/view/2913) - [KryptoLocker Ate my Homework] *Ad-Hoc*
+- [ ] [2914](https://www.beecrowd.com.br/judge/en/problems/view/2914) - [Looking for the Risk Factor] *Ad-Hoc*
+- [ ] [2915](https://www.beecrowd.com.br/judge/en/problems/view/2915) - [Mount Marathon] *Ad-Hoc*
+- [ ] [2916](https://www.beecrowd.com.br/judge/en/problems/view/2916) - [The Note] *Data Structures and Libraries*
+- [ ] [2917](https://www.beecrowd.com.br/judge/en/problems/view/2917) - [String] *Paradigms*
+- [ ] [2918](https://www.beecrowd.com.br/judge/en/problems/view/2918) - [Smart Digits] *Paradigms*
+- [ ] [2919](https://www.beecrowd.com.br/judge/en/problems/view/2919) - [Best Order] *Paradigms*
+- [ ] [2920](https://www.beecrowd.com.br/judge/en/problems/view/2920) - [Small Number] *Paradigms*
+- [ ] [2921](https://www.beecrowd.com.br/judge/en/problems/view/2921) - [Alien Charts] *Paradigms*
+- [ ] [2922](https://www.beecrowd.com.br/judge/en/problems/view/2922) - [Classrooms] *Ad-Hoc*
+- [ ] [2923](https://www.beecrowd.com.br/judge/en/problems/view/2923) - [Birinho] *Ad-Hoc*
+- [ ] [2924](https://www.beecrowd.com.br/judge/en/problems/view/2924) - [BigInt] *Ad-Hoc*
+- [ ] [2925](https://www.beecrowd.com.br/judge/en/problems/view/2925) - [IccanobiF Sequence] *Ad-Hoc*
+- [ ] [2926](https://www.beecrowd.com.br/judge/en/problems/view/2926) - [So This is Christmas!] *Ad-Hoc*
+- [ ] [2927](https://www.beecrowd.com.br/judge/en/problems/view/2927) - [Unforeseen at Christmas] *Ad-Hoc*
+- [ ] [2928](https://www.beecrowd.com.br/judge/en/problems/view/2928) - [Crossing Lakes] *Ad-Hoc*
+- [ ] [2929](https://www.beecrowd.com.br/judge/en/problems/view/2929) - [Smallest on the Stack] *Data Structures and Libraries*
+- [ ] [2930](https://www.beecrowd.com.br/judge/en/problems/view/2930) - [Final Thesis of Christmas Depression] *Beginner*
+- [ ] [2931](https://www.beecrowd.com.br/judge/en/problems/view/2931) - [Suspicious Gifts] *Ad-Hoc*
+- [ ] [2932](https://www.beecrowd.com.br/judge/en/problems/view/2932) - [Santa's Reindeers] *Paradigms*
+- [ ] [2933](https://www.beecrowd.com.br/judge/en/problems/view/2933) - [Earth Sled Tour] *Graph*
+- [ ] [2934](https://www.beecrowd.com.br/judge/en/problems/view/2934) - [Noel and His Reindeer] *Paradigms*
+- [ ] [2935](https://www.beecrowd.com.br/judge/en/problems/view/2935) - [DNA of Elf] *Ad-Hoc*
+- [ ] [2936](https://www.beecrowd.com.br/judge/en/problems/view/2936) - [How Much Cassava?] *Beginner*
+- [ ] [2937](https://www.beecrowd.com.br/judge/en/problems/view/2937) - [Snake Norato] *Mathematics*
+- [ ] [2938](https://www.beecrowd.com.br/judge/en/problems/view/2938) - [Jaçanã] *Ad-Hoc*
+- [ ] [2939](https://www.beecrowd.com.br/judge/en/problems/view/2939) - [Couples] *Mathematics*
+- [ ] [2940](https://www.beecrowd.com.br/judge/en/problems/view/2940) - [Broken Time Machine] *Ad-Hoc*
+- [ ] [2941](https://www.beecrowd.com.br/judge/en/problems/view/2941) - [Optical Fiber] *Graph*
+- [ ] [2942](https://www.beecrowd.com.br/judge/en/problems/view/2942) - [Bits Mixing] *Ad-Hoc*
+- [ ] [2943](https://www.beecrowd.com.br/judge/en/problems/view/2943) - [Smider Pan] *Ad-Hoc*
+- [ ] [2944](https://www.beecrowd.com.br/judge/en/problems/view/2944) - [Emergency in Manaus] *Ad-Hoc*
+- [ ] [2945](https://www.beecrowd.com.br/judge/en/problems/view/2945) - [Monitor] *Ad-Hoc*
+- [ ] [2946](https://www.beecrowd.com.br/judge/en/problems/view/2946) - [Dabriel and the Divisibility] *Ad-Hoc*
+- [ ] [2947](https://www.beecrowd.com.br/judge/en/problems/view/2947) - [Correct Answers] *Ad-Hoc*
+- [ ] [2948](https://www.beecrowd.com.br/judge/en/problems/view/2948) - [Açaí Planting] *Ad-Hoc*
+- [ ] [2949](https://www.beecrowd.com.br/judge/en/problems/view/2949) - [The Fellowship of the Ring] *Beginner*
+- [ ] [2950](https://www.beecrowd.com.br/judge/en/problems/view/2950) - [The Two Towers] *Beginner*
+- [ ] [2951](https://www.beecrowd.com.br/judge/en/problems/view/2951) - [The Return of The King] *Beginner*
+- [ ] [2952](https://www.beecrowd.com.br/judge/en/problems/view/2952) - [Sustainable Living] *Data Structures and Libraries*
+- [ ] [2953](https://www.beecrowd.com.br/judge/en/problems/view/2953) - [One More Game] *Mathematics*
+- [ ] [2954](https://www.beecrowd.com.br/judge/en/problems/view/2954) - [The Game] *Strings*
+- [ ] [2955](https://www.beecrowd.com.br/judge/en/problems/view/2955) - [Truuuuuco!] *Mathematics*
+- [ ] [2956](https://www.beecrowd.com.br/judge/en/problems/view/2956) - [13 Variables Derivative] *Mathematics*
+- [ ] [2957](https://www.beecrowd.com.br/judge/en/problems/view/2957) - [Lord Grandpa] *Ad-Hoc*
+- [ ] [2958](https://www.beecrowd.com.br/judge/en/problems/view/2958) - [The Bad Vibes Walk] *Data Structures and Libraries*
+- [ ] [2959](https://www.beecrowd.com.br/judge/en/problems/view/2959) - [StopAll] *Graph*
+- [ ] [2960](https://www.beecrowd.com.br/judge/en/problems/view/2960) - [Once Upon a Time...] *Strings*
+- [ ] [2961](https://www.beecrowd.com.br/judge/en/problems/view/2961) - [Too Many Movies!] *Data Structures and Libraries*
+- [ ] [2962](https://www.beecrowd.com.br/judge/en/problems/view/2962) - [Artwork] *Graph*
+- [ ] [2963](https://www.beecrowd.com.br/judge/en/problems/view/2963) - [Buffoon] *Beginner*
+- [ ] [2964](https://www.beecrowd.com.br/judge/en/problems/view/2964) - [Crossings With Danger] *Ad-Hoc*
+- [ ] [2965](https://www.beecrowd.com.br/judge/en/problems/view/2965) - [Denouncing Mafia] *Graph*
+- [ ] [2966](https://www.beecrowd.com.br/judge/en/problems/view/2966) - [Exhibition of Clownfish] *Ad-Hoc*
+- [ ] [2967](https://www.beecrowd.com.br/judge/en/problems/view/2967) - [Forests in Danger] *Paradigms*
+- [ ] [2968](https://www.beecrowd.com.br/judge/en/problems/view/2968) - [Hour for a Run] *Beginner*
+- [ ] [2969](https://www.beecrowd.com.br/judge/en/problems/view/2969) - [Interplanetary] *Graph*
+- [ ] [2970](https://www.beecrowd.com.br/judge/en/problems/view/2970) - [Keep Calm and Sell Balloons] *Paradigms*
+- [ ] [2971](https://www.beecrowd.com.br/judge/en/problems/view/2971) - [Jar of Water Game] *Ad-Hoc*
+- [ ] [2972](https://www.beecrowd.com.br/judge/en/problems/view/2972) - [Less Coin Tosses] *Ad-Hoc*
+- [ ] [2973](https://www.beecrowd.com.br/judge/en/problems/view/2973) - [Maratona Brasileira de Popcorn] *Paradigms*
+- [ ] [2974](https://www.beecrowd.com.br/judge/en/problems/view/2974) - [Lock] *Strings*
+- [ ] [2975](https://www.beecrowd.com.br/judge/en/problems/view/2975) - [Ring] *Strings*
+- [ ] [2976](https://www.beecrowd.com.br/judge/en/problems/view/2976) - [Triangles] *Paradigms*
+- [ ] [2977](https://www.beecrowd.com.br/judge/en/problems/view/2977) - [Romeo and Juliet] *Graph*
+- [ ] [2978](https://www.beecrowd.com.br/judge/en/problems/view/2978) - [Card] *Mathematics*
+- [ ] [2979](https://www.beecrowd.com.br/judge/en/problems/view/2979) - [Rook] *Ad-Hoc*
+- [ ] [2980](https://www.beecrowd.com.br/judge/en/problems/view/2980) - [Tree Game] *Graph*
+- [ ] [2981](https://www.beecrowd.com.br/judge/en/problems/view/2981) - [We Are Going To Close] *Mathematics*
+- [ ] [2982](https://www.beecrowd.com.br/judge/en/problems/view/2982) - [The Strike Stops or Continues?] *Beginner*
+- [ ] [2983](https://www.beecrowd.com.br/judge/en/problems/view/2983) - [Not Everything is Strike] *Mathematics*
+- [ ] [2984](https://www.beecrowd.com.br/judge/en/problems/view/2984) - [Outstanding Issues] *Data Structures and Libraries*
+- [ ] [2985](https://www.beecrowd.com.br/judge/en/problems/view/2985) - [Tobias Against the Clock] *Ad-Hoc*
+- [ ] [2986](https://www.beecrowd.com.br/judge/en/problems/view/2986) - [Not Everything is Strike Hard Version] *Mathematics*
+- [ ] [2987](https://www.beecrowd.com.br/judge/en/problems/view/2987) - [Balloon of Honor] *Beginner*
+- [ ] [2988](https://www.beecrowd.com.br/judge/en/problems/view/2988) - [Cearense Championship] *SQL*
+- [ ] [2989](https://www.beecrowd.com.br/judge/en/problems/view/2989) - [Departments and Divisions] *SQL*
+- [ ] [2990](https://www.beecrowd.com.br/judge/en/problems/view/2990) - [Employees CPF] *SQL*
+- [ ] [2991](https://www.beecrowd.com.br/judge/en/problems/view/2991) - [Department Statistics] *SQL*
+- [ ] [2992](https://www.beecrowd.com.br/judge/en/problems/view/2992) - [Highest Avarage Salary Divisions] *SQL*
+- [ ] [2993](https://www.beecrowd.com.br/judge/en/problems/view/2993) - [Most Frequent] *SQL*
+- [ ] [2994](https://www.beecrowd.com.br/judge/en/problems/view/2994) - [How much earn a Doctor?] *SQL*
+- [ ] [2995](https://www.beecrowd.com.br/judge/en/problems/view/2995) - [The Sensor Message] *SQL*
+- [ ] [2996](https://www.beecrowd.com.br/judge/en/problems/view/2996) - [Package Delivery] *SQL*
+- [ ] [2997](https://www.beecrowd.com.br/judge/en/problems/view/2997) - [Employees Payment] *SQL*
+- [ ] [2998](https://www.beecrowd.com.br/judge/en/problems/view/2998) - [The Payback] *SQL*
+- [ ] [2999](https://www.beecrowd.com.br/judge/en/problems/view/2999) - [Highest Division Salary] *SQL*

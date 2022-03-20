@@ -1,101 +1,101 @@
 # Problems 2700 (1.02 %)
 
 
-- [ ] [2700](https://www.beecrowd.com.br/judge/pt/problems/view/2700) - [Fundraising] *Data Structures and Libraries*
-- [ ] [2701](https://www.beecrowd.com.br/judge/pt/problems/view/2701) - [Gates of Uncertainty] *Ad-Hoc*
-- [ ] [2702](https://www.beecrowd.com.br/judge/pt/problems/view/2702) - [Hard Choice] *Beginner*
-- [ ] [2703](https://www.beecrowd.com.br/judge/pt/problems/view/2703) - [Imperial Roads] *Graph*
-- [ ] [2704](https://www.beecrowd.com.br/judge/pt/problems/view/2704) - [Jumping Frog] *Ad-Hoc*
-- [ ] [2705](https://www.beecrowd.com.br/judge/pt/problems/view/2705) - [Keep It Covered] *Ad-Hoc*
-- [ ] [2706](https://www.beecrowd.com.br/judge/pt/problems/view/2706) - [Linearville] *Graph*
-- [ ] [2708](https://www.beecrowd.com.br/judge/pt/problems/view/2708) - [Tourists in the Huacachina Park] *Beginner*
-- [ ] [2709](https://www.beecrowd.com.br/judge/pt/problems/view/2709) - [The Coins of Robbie] *Beginner*
-- [ ] [2710](https://www.beecrowd.com.br/judge/pt/problems/view/2710) - [Game of Array] *Ad-Hoc*
-- [ ] [2711](https://www.beecrowd.com.br/judge/pt/problems/view/2711) - [Unlocking a Cell Phone] *Mathematics*
-- [ ] [2712](https://www.beecrowd.com.br/judge/pt/problems/view/2712) - [Vehicular Restriction] *Beginner*
-- [ ] [2713](https://www.beecrowd.com.br/judge/pt/problems/view/2713) - [The Wizard is Relentless] *Paradigms*
-- [ ] [2714](https://www.beecrowd.com.br/judge/pt/problems/view/2714) - [My Temporary Password] *Strings*
-- [ ] [2715](https://www.beecrowd.com.br/judge/pt/problems/view/2715) - [Splitting Assignments I] *Beginner*
-- [ ] [2716](https://www.beecrowd.com.br/judge/pt/problems/view/2716) - [Splitting Assignments II] *Paradigms*
-- [ ] [2717](https://www.beecrowd.com.br/judge/pt/problems/view/2717) - [Elf Time] *Beginner*
-- [ ] [2718](https://www.beecrowd.com.br/judge/pt/problems/view/2718) - [Christmas Lights] *Beginner*
-- [ ] [2719](https://www.beecrowd.com.br/judge/pt/problems/view/2719) - [How Many Trips Will Noel Make?] *Ad-Hoc*
-- [ ] [2720](https://www.beecrowd.com.br/judge/pt/problems/view/2720) - [Large Presents] *Data Structures and Libraries*
-- [ ] [2721](https://www.beecrowd.com.br/judge/pt/problems/view/2721) - [Indecision of Reindeers] *Beginner*
-- [ ] [2722](https://www.beecrowd.com.br/judge/pt/problems/view/2722) - [Evergreen Trick] *Strings*
-- [ ] [2723](https://www.beecrowd.com.br/judge/pt/problems/view/2723) - [Balancing Gifts] *Paradigms*
-- [ ] [2724](https://www.beecrowd.com.br/judge/pt/problems/view/2724) - [Help Patatatitu] *Beginner*
-- [ ] [2725](https://www.beecrowd.com.br/judge/pt/problems/view/2725) - [Christmas Village] *Graph*
-- [ ] [2726](https://www.beecrowd.com.br/judge/pt/problems/view/2726) - [Full Sleigh] *Mathematics*
-- [ ] [2727](https://www.beecrowd.com.br/judge/pt/problems/view/2727) - [Secret Code] *Beginner*
-- [ ] [2728](https://www.beecrowd.com.br/judge/pt/problems/view/2728) - [Grace Hopper, Grandma of Cobol] *Strings*
-- [ ] [2729](https://www.beecrowd.com.br/judge/pt/problems/view/2729) - [Shopping List] *Data Structures and Libraries*
-- [ ] [2730](https://www.beecrowd.com.br/judge/pt/problems/view/2730) - [Paired Pairs] *Ad-Hoc*
-- [ ] [2731](https://www.beecrowd.com.br/judge/pt/problems/view/2731) - [Trip Programming] *Graph*
-- [ ] [2732](https://www.beecrowd.com.br/judge/pt/problems/view/2732) - [Alice's Kingdom] *Graph*
-- [ ] [2733](https://www.beecrowd.com.br/judge/pt/problems/view/2733) - [The Reader's Locker] *Ad-Hoc*
-- [ ] [2734](https://www.beecrowd.com.br/judge/pt/problems/view/2734) - [Trading Presents] *Data Structures and Libraries*
-- [ ] [2735](https://www.beecrowd.com.br/judge/pt/problems/view/2735) - [Nina's Gift] *Mathematics*
-- [ ] [2736](https://www.beecrowd.com.br/judge/pt/problems/view/2736) - [Avalon Numbers] *Ad-Hoc*
-- [ ] [2737](https://www.beecrowd.com.br/judge/pt/problems/view/2737) - [Lawyers] *SQL*
-- [ ] [2738](https://www.beecrowd.com.br/judge/pt/problems/view/2738) - [Contest] *SQL*
-- [ ] [2739](https://www.beecrowd.com.br/judge/pt/problems/view/2739) - [Payday] *SQL*
-- [ ] [2740](https://www.beecrowd.com.br/judge/pt/problems/view/2740) - [League] *SQL*
-- [ ] [2741](https://www.beecrowd.com.br/judge/pt/problems/view/2741) - [Students Grades] *SQL*
-- [ ] [2742](https://www.beecrowd.com.br/judge/pt/problems/view/2742) - [Richard's Multiverse] *SQL*
-- [ ] [2743](https://www.beecrowd.com.br/judge/pt/problems/view/2743) - [Number of Characters] *SQL*
-- [ ] [2744](https://www.beecrowd.com.br/judge/pt/problems/view/2744) - [Passwords] *SQL*
-- [ ] [2745](https://www.beecrowd.com.br/judge/pt/problems/view/2745) - [Taxes] *SQL*
-- [ ] [2746](https://www.beecrowd.com.br/judge/pt/problems/view/2746) - [Viruses] *SQL*
-- [ ] [2747](https://www.beecrowd.com.br/judge/pt/problems/view/2747) - [Output 1] *Beginner*
-- [ ] [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) - [Output 2] *Beginner*
-- [ ] [2749](https://www.beecrowd.com.br/judge/pt/problems/view/2749) - [Output 3] *Beginner*
-- [ ] [2750](https://www.beecrowd.com.br/judge/pt/problems/view/2750) - [Output 4] *Beginner*
-- [ ] [2752](https://www.beecrowd.com.br/judge/pt/problems/view/2752) - [Output 6] *Beginner*
-- [ ] [2753](https://www.beecrowd.com.br/judge/pt/problems/view/2753) - [Output 7] *Beginner*
-- [ ] [2754](https://www.beecrowd.com.br/judge/pt/problems/view/2754) - [Output 8] *Beginner*
-- [ ] [2755](https://www.beecrowd.com.br/judge/pt/problems/view/2755) - [Output 9] *Beginner*
-- [ ] [2756](https://www.beecrowd.com.br/judge/pt/problems/view/2756) - [Output 10] *Beginner*
-- [ ] [2757](https://www.beecrowd.com.br/judge/pt/problems/view/2757) - [Input and Output of Integers] *Beginner*
-- [ ] [2758](https://www.beecrowd.com.br/judge/pt/problems/view/2758) - [Floating Number Input and Output] *Beginner*
-- [ ] [2759](https://www.beecrowd.com.br/judge/pt/problems/view/2759) - [Input and Output Character] *Beginner*
-- [ ] [2760](https://www.beecrowd.com.br/judge/pt/problems/view/2760) - [String Input and Output] *Beginner*
-- [ ] [2761](https://www.beecrowd.com.br/judge/pt/problems/view/2761) - [Input and Output of Various Types] *Beginner*
-- [ ] [2762](https://www.beecrowd.com.br/judge/pt/problems/view/2762) - [Input and Output 6] *Beginner*
-- [ ] [2763](https://www.beecrowd.com.br/judge/pt/problems/view/2763) - [CPF Input and Output] *Beginner*
-- [ ] [2764](https://www.beecrowd.com.br/judge/pt/problems/view/2764) - [Date Input and Output] *Beginner*
-- [ ] [2765](https://www.beecrowd.com.br/judge/pt/problems/view/2765) - [Coming Input and Output] *Beginner*
-- [ ] [2766](https://www.beecrowd.com.br/judge/pt/problems/view/2766) - [Input and Output Reading and Skipping Names] *Beginner*
-- [ ] [2767](https://www.beecrowd.com.br/judge/pt/problems/view/2767) - [Party] *Mathematics*
-- [ ] [2768](https://www.beecrowd.com.br/judge/pt/problems/view/2768) - [Dabriel's Graph] *Graph*
-- [ ] [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - [Assembly Line] *Beginner*
-- [ ] [2770](https://www.beecrowd.com.br/judge/pt/problems/view/2770) - [Board Size] *Beginner*
-- [ ] [2771](https://www.beecrowd.com.br/judge/pt/problems/view/2771) - [Average] *Ad-Hoc*
-- [ ] [2772](https://www.beecrowd.com.br/judge/pt/problems/view/2772) - [Plantation] *Ad-Hoc*
-- [ ] [2773](https://www.beecrowd.com.br/judge/pt/problems/view/2773) - [Shortest Path] *Computational Geometry*
-- [ ] [2774](https://www.beecrowd.com.br/judge/pt/problems/view/2774) - [Sensor Accuracy] *Beginner*
-- [ ] [2775](https://www.beecrowd.com.br/judge/pt/problems/view/2775) - [Preparing Production] *Beginner*
-- [ ] [2776](https://www.beecrowd.com.br/judge/pt/problems/view/2776) - [Promotions] *Ad-Hoc*
-- [ ] [2777](https://www.beecrowd.com.br/judge/pt/problems/view/2777) - [Dabriel's Subsets] *Mathematics*
-- [ ] [2778](https://www.beecrowd.com.br/judge/pt/problems/view/2778) - [Dabriel's Matrix] *Paradigms*
-- [ ] [2779](https://www.beecrowd.com.br/judge/pt/problems/view/2779) - [Album of the Cup] *Beginner*
-- [ ] [2780](https://www.beecrowd.com.br/judge/pt/problems/view/2780) - [Robot Basketball] *Beginner*
-- [ ] [2781](https://www.beecrowd.com.br/judge/pt/problems/view/2781) - [Compensation Camera] *Graph*
-- [x] [2782](https://www.beecrowd.com.br/judge/pt/problems/view/2782) - [Stepladder](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2700-2799]/2782/code.js) *Beginner*
-- [ ] [2783](https://www.beecrowd.com.br/judge/pt/problems/view/2783) - [Cup Stickers] *Beginner*
-- [ ] [2784](https://www.beecrowd.com.br/judge/pt/problems/view/2784) - [Islands] *Graph*
-- [ ] [2785](https://www.beecrowd.com.br/judge/pt/problems/view/2785) - [Pyramid] *Beginner*
-- [ ] [2786](https://www.beecrowd.com.br/judge/pt/problems/view/2786) - [School Floor] *Beginner*
-- [ ] [2787](https://www.beecrowd.com.br/judge/pt/problems/view/2787) - [Chess] *Beginner*
-- [ ] [2788](https://www.beecrowd.com.br/judge/pt/problems/view/2788) - [Class] *Ad-Hoc*
-- [ ] [2789](https://www.beecrowd.com.br/judge/pt/problems/view/2789) - [Water Crisis] *Ad-Hoc*
-- [ ] [2790](https://www.beecrowd.com.br/judge/pt/problems/view/2790) - [Dices] *Ad-Hoc*
-- [ ] [2791](https://www.beecrowd.com.br/judge/pt/problems/view/2791) - [Bean] *Beginner*
-- [ ] [2792](https://www.beecrowd.com.br/judge/pt/problems/view/2792) - [Golnaldinho] *Data Structures and Libraries*
-- [ ] [2793](https://www.beecrowd.com.br/judge/pt/problems/view/2793) - [HM] *Ad-Hoc*
-- [ ] [2794](https://www.beecrowd.com.br/judge/pt/problems/view/2794) - [Lighter Mounts] *Ad-Hoc*
-- [ ] [2795](https://www.beecrowd.com.br/judge/pt/problems/view/2795) - [Palindrome] *Ad-Hoc*
-- [ ] [2796](https://www.beecrowd.com.br/judge/pt/problems/view/2796) - [Houseplant] *Ad-Hoc*
-- [ ] [2797](https://www.beecrowd.com.br/judge/pt/problems/view/2797) - [Applying Tests] *Ad-Hoc*
-- [ ] [2798](https://www.beecrowd.com.br/judge/pt/problems/view/2798) - [Lero-Lero of Mineira] *Ad-Hoc*
-- [ ] [2799](https://www.beecrowd.com.br/judge/pt/problems/view/2799) - [Northern Choir] *Paradigms*
+- [ ] [2700](https://www.beecrowd.com.br/judge/en/problems/view/2700) - [Fundraising] *Data Structures and Libraries*
+- [ ] [2701](https://www.beecrowd.com.br/judge/en/problems/view/2701) - [Gates of Uncertainty] *Ad-Hoc*
+- [ ] [2702](https://www.beecrowd.com.br/judge/en/problems/view/2702) - [Hard Choice] *Beginner*
+- [ ] [2703](https://www.beecrowd.com.br/judge/en/problems/view/2703) - [Imperial Roads] *Graph*
+- [ ] [2704](https://www.beecrowd.com.br/judge/en/problems/view/2704) - [Jumping Frog] *Ad-Hoc*
+- [ ] [2705](https://www.beecrowd.com.br/judge/en/problems/view/2705) - [Keep It Covered] *Ad-Hoc*
+- [ ] [2706](https://www.beecrowd.com.br/judge/en/problems/view/2706) - [Linearville] *Graph*
+- [ ] [2708](https://www.beecrowd.com.br/judge/en/problems/view/2708) - [Tourists in the Huacachina Park] *Beginner*
+- [ ] [2709](https://www.beecrowd.com.br/judge/en/problems/view/2709) - [The Coins of Robbie] *Beginner*
+- [ ] [2710](https://www.beecrowd.com.br/judge/en/problems/view/2710) - [Game of Array] *Ad-Hoc*
+- [ ] [2711](https://www.beecrowd.com.br/judge/en/problems/view/2711) - [Unlocking a Cell Phone] *Mathematics*
+- [ ] [2712](https://www.beecrowd.com.br/judge/en/problems/view/2712) - [Vehicular Restriction] *Beginner*
+- [ ] [2713](https://www.beecrowd.com.br/judge/en/problems/view/2713) - [The Wizard is Relentless] *Paradigms*
+- [ ] [2714](https://www.beecrowd.com.br/judge/en/problems/view/2714) - [My Temporary Password] *Strings*
+- [ ] [2715](https://www.beecrowd.com.br/judge/en/problems/view/2715) - [Splitting Assignments I] *Beginner*
+- [ ] [2716](https://www.beecrowd.com.br/judge/en/problems/view/2716) - [Splitting Assignments II] *Paradigms*
+- [ ] [2717](https://www.beecrowd.com.br/judge/en/problems/view/2717) - [Elf Time] *Beginner*
+- [ ] [2718](https://www.beecrowd.com.br/judge/en/problems/view/2718) - [Christmas Lights] *Beginner*
+- [ ] [2719](https://www.beecrowd.com.br/judge/en/problems/view/2719) - [How Many Trips Will Noel Make?] *Ad-Hoc*
+- [ ] [2720](https://www.beecrowd.com.br/judge/en/problems/view/2720) - [Large Presents] *Data Structures and Libraries*
+- [ ] [2721](https://www.beecrowd.com.br/judge/en/problems/view/2721) - [Indecision of Reindeers] *Beginner*
+- [ ] [2722](https://www.beecrowd.com.br/judge/en/problems/view/2722) - [Evergreen Trick] *Strings*
+- [ ] [2723](https://www.beecrowd.com.br/judge/en/problems/view/2723) - [Balancing Gifts] *Paradigms*
+- [ ] [2724](https://www.beecrowd.com.br/judge/en/problems/view/2724) - [Help Patatatitu] *Beginner*
+- [ ] [2725](https://www.beecrowd.com.br/judge/en/problems/view/2725) - [Christmas Village] *Graph*
+- [ ] [2726](https://www.beecrowd.com.br/judge/en/problems/view/2726) - [Full Sleigh] *Mathematics*
+- [ ] [2727](https://www.beecrowd.com.br/judge/en/problems/view/2727) - [Secret Code] *Beginner*
+- [ ] [2728](https://www.beecrowd.com.br/judge/en/problems/view/2728) - [Grace Hopper, Grandma of Cobol] *Strings*
+- [ ] [2729](https://www.beecrowd.com.br/judge/en/problems/view/2729) - [Shopping List] *Data Structures and Libraries*
+- [ ] [2730](https://www.beecrowd.com.br/judge/en/problems/view/2730) - [Paired Pairs] *Ad-Hoc*
+- [ ] [2731](https://www.beecrowd.com.br/judge/en/problems/view/2731) - [Trip Programming] *Graph*
+- [ ] [2732](https://www.beecrowd.com.br/judge/en/problems/view/2732) - [Alice's Kingdom] *Graph*
+- [ ] [2733](https://www.beecrowd.com.br/judge/en/problems/view/2733) - [The Reader's Locker] *Ad-Hoc*
+- [ ] [2734](https://www.beecrowd.com.br/judge/en/problems/view/2734) - [Trading Presents] *Data Structures and Libraries*
+- [ ] [2735](https://www.beecrowd.com.br/judge/en/problems/view/2735) - [Nina's Gift] *Mathematics*
+- [ ] [2736](https://www.beecrowd.com.br/judge/en/problems/view/2736) - [Avalon Numbers] *Ad-Hoc*
+- [ ] [2737](https://www.beecrowd.com.br/judge/en/problems/view/2737) - [Lawyers] *SQL*
+- [ ] [2738](https://www.beecrowd.com.br/judge/en/problems/view/2738) - [Contest] *SQL*
+- [ ] [2739](https://www.beecrowd.com.br/judge/en/problems/view/2739) - [Payday] *SQL*
+- [ ] [2740](https://www.beecrowd.com.br/judge/en/problems/view/2740) - [League] *SQL*
+- [ ] [2741](https://www.beecrowd.com.br/judge/en/problems/view/2741) - [Students Grades] *SQL*
+- [ ] [2742](https://www.beecrowd.com.br/judge/en/problems/view/2742) - [Richard's Multiverse] *SQL*
+- [ ] [2743](https://www.beecrowd.com.br/judge/en/problems/view/2743) - [Number of Characters] *SQL*
+- [ ] [2744](https://www.beecrowd.com.br/judge/en/problems/view/2744) - [Passwords] *SQL*
+- [ ] [2745](https://www.beecrowd.com.br/judge/en/problems/view/2745) - [Taxes] *SQL*
+- [ ] [2746](https://www.beecrowd.com.br/judge/en/problems/view/2746) - [Viruses] *SQL*
+- [ ] [2747](https://www.beecrowd.com.br/judge/en/problems/view/2747) - [Output 1] *Beginner*
+- [ ] [2748](https://www.beecrowd.com.br/judge/en/problems/view/2748) - [Output 2] *Beginner*
+- [ ] [2749](https://www.beecrowd.com.br/judge/en/problems/view/2749) - [Output 3] *Beginner*
+- [ ] [2750](https://www.beecrowd.com.br/judge/en/problems/view/2750) - [Output 4] *Beginner*
+- [ ] [2752](https://www.beecrowd.com.br/judge/en/problems/view/2752) - [Output 6] *Beginner*
+- [ ] [2753](https://www.beecrowd.com.br/judge/en/problems/view/2753) - [Output 7] *Beginner*
+- [ ] [2754](https://www.beecrowd.com.br/judge/en/problems/view/2754) - [Output 8] *Beginner*
+- [ ] [2755](https://www.beecrowd.com.br/judge/en/problems/view/2755) - [Output 9] *Beginner*
+- [ ] [2756](https://www.beecrowd.com.br/judge/en/problems/view/2756) - [Output 10] *Beginner*
+- [ ] [2757](https://www.beecrowd.com.br/judge/en/problems/view/2757) - [Input and Output of Integers] *Beginner*
+- [ ] [2758](https://www.beecrowd.com.br/judge/en/problems/view/2758) - [Floating Number Input and Output] *Beginner*
+- [ ] [2759](https://www.beecrowd.com.br/judge/en/problems/view/2759) - [Input and Output Character] *Beginner*
+- [ ] [2760](https://www.beecrowd.com.br/judge/en/problems/view/2760) - [String Input and Output] *Beginner*
+- [ ] [2761](https://www.beecrowd.com.br/judge/en/problems/view/2761) - [Input and Output of Various Types] *Beginner*
+- [ ] [2762](https://www.beecrowd.com.br/judge/en/problems/view/2762) - [Input and Output 6] *Beginner*
+- [ ] [2763](https://www.beecrowd.com.br/judge/en/problems/view/2763) - [CPF Input and Output] *Beginner*
+- [ ] [2764](https://www.beecrowd.com.br/judge/en/problems/view/2764) - [Date Input and Output] *Beginner*
+- [ ] [2765](https://www.beecrowd.com.br/judge/en/problems/view/2765) - [Coming Input and Output] *Beginner*
+- [ ] [2766](https://www.beecrowd.com.br/judge/en/problems/view/2766) - [Input and Output Reading and Skipping Names] *Beginner*
+- [ ] [2767](https://www.beecrowd.com.br/judge/en/problems/view/2767) - [Party] *Mathematics*
+- [ ] [2768](https://www.beecrowd.com.br/judge/en/problems/view/2768) - [Dabriel's Graph] *Graph*
+- [ ] [2769](https://www.beecrowd.com.br/judge/en/problems/view/2769) - [Assembly Line] *Beginner*
+- [ ] [2770](https://www.beecrowd.com.br/judge/en/problems/view/2770) - [Board Size] *Beginner*
+- [ ] [2771](https://www.beecrowd.com.br/judge/en/problems/view/2771) - [Average] *Ad-Hoc*
+- [ ] [2772](https://www.beecrowd.com.br/judge/en/problems/view/2772) - [Plantation] *Ad-Hoc*
+- [ ] [2773](https://www.beecrowd.com.br/judge/en/problems/view/2773) - [Shortest Path] *Computational Geometry*
+- [ ] [2774](https://www.beecrowd.com.br/judge/en/problems/view/2774) - [Sensor Accuracy] *Beginner*
+- [ ] [2775](https://www.beecrowd.com.br/judge/en/problems/view/2775) - [Preparing Production] *Beginner*
+- [ ] [2776](https://www.beecrowd.com.br/judge/en/problems/view/2776) - [Promotions] *Ad-Hoc*
+- [ ] [2777](https://www.beecrowd.com.br/judge/en/problems/view/2777) - [Dabriel's Subsets] *Mathematics*
+- [ ] [2778](https://www.beecrowd.com.br/judge/en/problems/view/2778) - [Dabriel's Matrix] *Paradigms*
+- [ ] [2779](https://www.beecrowd.com.br/judge/en/problems/view/2779) - [Album of the Cup] *Beginner*
+- [ ] [2780](https://www.beecrowd.com.br/judge/en/problems/view/2780) - [Robot Basketball] *Beginner*
+- [ ] [2781](https://www.beecrowd.com.br/judge/en/problems/view/2781) - [Compensation Camera] *Graph*
+- [x] [2782](https://www.beecrowd.com.br/judge/en/problems/view/2782) - [Stepladder](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2700-2799]/2782/code.js) *Beginner*
+- [ ] [2783](https://www.beecrowd.com.br/judge/en/problems/view/2783) - [Cup Stickers] *Beginner*
+- [ ] [2784](https://www.beecrowd.com.br/judge/en/problems/view/2784) - [Islands] *Graph*
+- [ ] [2785](https://www.beecrowd.com.br/judge/en/problems/view/2785) - [Pyramid] *Beginner*
+- [ ] [2786](https://www.beecrowd.com.br/judge/en/problems/view/2786) - [School Floor] *Beginner*
+- [ ] [2787](https://www.beecrowd.com.br/judge/en/problems/view/2787) - [Chess] *Beginner*
+- [ ] [2788](https://www.beecrowd.com.br/judge/en/problems/view/2788) - [Class] *Ad-Hoc*
+- [ ] [2789](https://www.beecrowd.com.br/judge/en/problems/view/2789) - [Water Crisis] *Ad-Hoc*
+- [ ] [2790](https://www.beecrowd.com.br/judge/en/problems/view/2790) - [Dices] *Ad-Hoc*
+- [ ] [2791](https://www.beecrowd.com.br/judge/en/problems/view/2791) - [Bean] *Beginner*
+- [ ] [2792](https://www.beecrowd.com.br/judge/en/problems/view/2792) - [Golnaldinho] *Data Structures and Libraries*
+- [ ] [2793](https://www.beecrowd.com.br/judge/en/problems/view/2793) - [HM] *Ad-Hoc*
+- [ ] [2794](https://www.beecrowd.com.br/judge/en/problems/view/2794) - [Lighter Mounts] *Ad-Hoc*
+- [ ] [2795](https://www.beecrowd.com.br/judge/en/problems/view/2795) - [Palindrome] *Ad-Hoc*
+- [ ] [2796](https://www.beecrowd.com.br/judge/en/problems/view/2796) - [Houseplant] *Ad-Hoc*
+- [ ] [2797](https://www.beecrowd.com.br/judge/en/problems/view/2797) - [Applying Tests] *Ad-Hoc*
+- [ ] [2798](https://www.beecrowd.com.br/judge/en/problems/view/2798) - [Lero-Lero of Mineira] *Ad-Hoc*
+- [ ] [2799](https://www.beecrowd.com.br/judge/en/problems/view/2799) - [Northern Choir] *Paradigms*

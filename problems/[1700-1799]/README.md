@@ -1,103 +1,103 @@
 # Problems 1700 (0 %)
 
 
-- [ ] [1700](https://www.beecrowd.com.br/judge/pt/problems/view/1700) - [Antennas] *Paradigms*
-- [ ] [1701](https://www.beecrowd.com.br/judge/pt/problems/view/1701) - [Fibos's Sequence] *Data Structures and Libraries*
-- [ ] [1702](https://www.beecrowd.com.br/judge/pt/problems/view/1702) - [Graph Coloring] *Graph*
-- [ ] [1703](https://www.beecrowd.com.br/judge/pt/problems/view/1703) - [Jumping Stones] *Mathematics*
-- [ ] [1704](https://www.beecrowd.com.br/judge/pt/problems/view/1704) - [Arranging Tasks] *Data Structures and Libraries*
-- [ ] [1705](https://www.beecrowd.com.br/judge/pt/problems/view/1705) - [Binary Lover] *Mathematics*
-- [ ] [1706](https://www.beecrowd.com.br/judge/pt/problems/view/1706) - [Magical Candy Bridges] *Graph*
-- [ ] [1707](https://www.beecrowd.com.br/judge/pt/problems/view/1707) - [Numbers Game] *Paradigms*
-- [ ] [1708](https://www.beecrowd.com.br/judge/pt/problems/view/1708) - [Lap] *Ad-Hoc*
-- [ ] [1709](https://www.beecrowd.com.br/judge/pt/problems/view/1709) - [Shuffled Deck] *Data Structures and Libraries*
-- [ ] [1710](https://www.beecrowd.com.br/judge/pt/problems/view/1710) - [Confederation] *Ad-Hoc*
-- [ ] [1711](https://www.beecrowd.com.br/judge/pt/problems/view/1711) - [Miss Worm] *Graph*
-- [ ] [1712](https://www.beecrowd.com.br/judge/pt/problems/view/1712) - [Ecology] *Ad-Hoc*
-- [ ] [1713](https://www.beecrowd.com.br/judge/pt/problems/view/1713) - [Teletransport] *Graph*
-- [ ] [1714](https://www.beecrowd.com.br/judge/pt/problems/view/1714) - [Letters] *Ad-Hoc*
-- [ ] [1715](https://www.beecrowd.com.br/judge/pt/problems/view/1715) - [Handball] *Ad-Hoc*
-- [ ] [1716](https://www.beecrowd.com.br/judge/pt/problems/view/1716) - [RSA] *Ad-Hoc*
-- [ ] [1717](https://www.beecrowd.com.br/judge/pt/problems/view/1717) - [Cut] *Ad-Hoc*
-- [ ] [1718](https://www.beecrowd.com.br/judge/pt/problems/view/1718) - [Grandpa Pepe's Pizza] *Ad-Hoc*
-- [ ] [1719](https://www.beecrowd.com.br/judge/pt/problems/view/1719) - [Simple Computers] *Ad-Hoc*
-- [ ] [1720](https://www.beecrowd.com.br/judge/pt/problems/view/1720) - [Mondriaan's Dream] *Paradigms*
-- [ ] [1721](https://www.beecrowd.com.br/judge/pt/problems/view/1721) - [Equidistance] *Computational Geometry*
-- [ ] [1722](https://www.beecrowd.com.br/judge/pt/problems/view/1722) - [How many Fibs?] *Mathematics*
-- [ ] [1723](https://www.beecrowd.com.br/judge/pt/problems/view/1723) - [Phylogenetic Trees Inherited] *Graph*
-- [ ] [1724](https://www.beecrowd.com.br/judge/pt/problems/view/1724) - [Hike on a Graph] *Graph*
-- [ ] [1725](https://www.beecrowd.com.br/judge/pt/problems/view/1725) - [Quadtree II] *Data Structures and Libraries*
-- [ ] [1726](https://www.beecrowd.com.br/judge/pt/problems/view/1726) - [Friends] *Strings*
-- [ ] [1727](https://www.beecrowd.com.br/judge/pt/problems/view/1727) - [Euro Cup 2000] *Paradigms*
-- [ ] [1728](https://www.beecrowd.com.br/judge/pt/problems/view/1728) - [Hard to Believe, But True!] *Ad-Hoc*
-- [ ] [1729](https://www.beecrowd.com.br/judge/pt/problems/view/1729) - [Average is not Fast Enough!] *Mathematics*
-- [ ] [1730](https://www.beecrowd.com.br/judge/pt/problems/view/1730) - [Global Roaming] *Computational Geometry*
-- [ ] [1731](https://www.beecrowd.com.br/judge/pt/problems/view/1731) - [Advanced Fruits] *Ad-Hoc*
-- [ ] [1732](https://www.beecrowd.com.br/judge/pt/problems/view/1732) - [Bee Maja] *Ad-Hoc*
-- [ ] [1733](https://www.beecrowd.com.br/judge/pt/problems/view/1733) - [Vladimir the Vampire] *Graph*
-- [ ] [1734](https://www.beecrowd.com.br/judge/pt/problems/view/1734) - [Bound Found] *Mathematics*
-- [ ] [1735](https://www.beecrowd.com.br/judge/pt/problems/view/1735) - [Code the Tree] *Mathematics*
-- [ ] [1736](https://www.beecrowd.com.br/judge/pt/problems/view/1736) - [Decode the Tree] *Mathematics*
-- [ ] [1737](https://www.beecrowd.com.br/judge/pt/problems/view/1737) - [Etaoin Shrdlu] *Strings*
-- [ ] [1738](https://www.beecrowd.com.br/judge/pt/problems/view/1738) - [Fiber Network] *Graph*
-- [ ] [1739](https://www.beecrowd.com.br/judge/pt/problems/view/1739) - [Threebonacci Sequence] *Ad-Hoc*
-- [ ] [1740](https://www.beecrowd.com.br/judge/pt/problems/view/1740) - [Is it Ordered?] *Data Structures and Libraries*
-- [ ] [1741](https://www.beecrowd.com.br/judge/pt/problems/view/1741) - [Reversed John’s Notation] *Ad-Hoc*
-- [ ] [1742](https://www.beecrowd.com.br/judge/pt/problems/view/1742) - [Getting in Trouble] *Graph*
-- [ ] [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) - [Automated Checking Machine] *Ad-Hoc*
-- [ ] [1744](https://www.beecrowd.com.br/judge/pt/problems/view/1744) - [Black and White Stones] *Paradigms*
-- [ ] [1745](https://www.beecrowd.com.br/judge/pt/problems/view/1745) - [Counting Substhreengs] *Mathematics*
-- [ ] [1746](https://www.beecrowd.com.br/judge/pt/problems/view/1746) - [Dividing the Names] *Data Structures and Libraries*
-- [ ] [1747](https://www.beecrowd.com.br/judge/pt/problems/view/1747) - [Even Distribution] *Graph*
-- [ ] [1748](https://www.beecrowd.com.br/judge/pt/problems/view/1748) - [Fence The Vegetables] *Computational Geometry*
-- [ ] [1749](https://www.beecrowd.com.br/judge/pt/problems/view/1749) - [Galaxy Collision] *Graph*
-- [ ] [1750](https://www.beecrowd.com.br/judge/pt/problems/view/1750) - [Help Cupid] *Ad-Hoc*
-- [ ] [1751](https://www.beecrowd.com.br/judge/pt/problems/view/1751) - [Intrepid Climber] *Graph*
-- [ ] [1752](https://www.beecrowd.com.br/judge/pt/problems/view/1752) - [Journey Through The Kingdom] *Graph*
-- [ ] [1753](https://www.beecrowd.com.br/judge/pt/problems/view/1753) - [Knights Of The Round Table] *Ad-Hoc*
-- [ ] [1754](https://www.beecrowd.com.br/judge/pt/problems/view/1754) - [The Time Room] *Mathematics*
-- [ ] [1755](https://www.beecrowd.com.br/judge/pt/problems/view/1755) - [The Change] *Ad-Hoc*
-- [ ] [1756](https://www.beecrowd.com.br/judge/pt/problems/view/1756) - [Genetic Algorithm] *Mathematics*
-- [ ] [1757](https://www.beecrowd.com.br/judge/pt/problems/view/1757) - [Barrel Travel] *Graph*
-- [ ] [1758](https://www.beecrowd.com.br/judge/pt/problems/view/1758) - [Bonus Grade Points] *Ad-Hoc*
-- [ ] [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) - [Ho Ho Ho] *Beginner*
-- [ ] [1760](https://www.beecrowd.com.br/judge/pt/problems/view/1760) - [Koch Snowflake] *Mathematics*
-- [ ] [1761](https://www.beecrowd.com.br/judge/pt/problems/view/1761) - [Christmas Decorations] *Mathematics*
-- [ ] [1762](https://www.beecrowd.com.br/judge/pt/problems/view/1762) - [Sleds of Santa Claus] *Data Structures and Libraries*
-- [ ] [1763](https://www.beecrowd.com.br/judge/pt/problems/view/1763) - [Santa's Translator] *Data Structures and Libraries*
-- [ ] [1764](https://www.beecrowd.com.br/judge/pt/problems/view/1764) - [Itinerary of Santa Claus] *Graph*
-- [ ] [1765](https://www.beecrowd.com.br/judge/pt/problems/view/1765) - [Christmas Trapeziums] *Ad-Hoc*
-- [ ] [1766](https://www.beecrowd.com.br/judge/pt/problems/view/1766) - [The Dark Elf] *Data Structures and Libraries*
-- [ ] [1767](https://www.beecrowd.com.br/judge/pt/problems/view/1767) - [Santa Claus Bag] *Paradigms*
-- [ ] [1768](https://www.beecrowd.com.br/judge/pt/problems/view/1768) - [Christmas Tree] *Strings*
-- [ ] [1769](https://www.beecrowd.com.br/judge/pt/problems/view/1769) - [SSN 1] *Ad-Hoc*
-- [ ] [1770](https://www.beecrowd.com.br/judge/pt/problems/view/1770) - [Shuffle] *Ad-Hoc*
-- [ ] [1771](https://www.beecrowd.com.br/judge/pt/problems/view/1771) - [Random Bingo Cards] *Ad-Hoc*
-- [ ] [1772](https://www.beecrowd.com.br/judge/pt/problems/view/1772) - [Bit Shuffling] *Ad-Hoc*
-- [ ] [1773](https://www.beecrowd.com.br/judge/pt/problems/view/1773) - [Locked in the Castle] *Graph*
-- [ ] [1774](https://www.beecrowd.com.br/judge/pt/problems/view/1774) - [Routers] *Graph*
-- [ ] [1775](https://www.beecrowd.com.br/judge/pt/problems/view/1775) - [Andre and the Mentos] *Paradigms*
-- [ ] [1776](https://www.beecrowd.com.br/judge/pt/problems/view/1776) - [Prom] *Mathematics*
-- [ ] [1777](https://www.beecrowd.com.br/judge/pt/problems/view/1777) - [Walk of Fame] *Paradigms*
-- [ ] [1778](https://www.beecrowd.com.br/judge/pt/problems/view/1778) - [Graph Defense] *Graph*
-- [ ] [1779](https://www.beecrowd.com.br/judge/pt/problems/view/1779) - [Estimating the Mean] *Ad-Hoc*
-- [ ] [1780](https://www.beecrowd.com.br/judge/pt/problems/view/1780) - [Robots Formation] *Ad-Hoc*
-- [ ] [1781](https://www.beecrowd.com.br/judge/pt/problems/view/1781) - [Guga and the String] *Strings*
-- [ ] [1782](https://www.beecrowd.com.br/judge/pt/problems/view/1782) - [Honorable Gift] *Graph*
-- [ ] [1783](https://www.beecrowd.com.br/judge/pt/problems/view/1783) - [Oh no, a Black Hole!] *Computational Geometry*
-- [ ] [1784](https://www.beecrowd.com.br/judge/pt/problems/view/1784) - [Birds vs Crows] *Paradigms*
-- [ ] [1785](https://www.beecrowd.com.br/judge/pt/problems/view/1785) - [Kaprekar] *Mathematics*
-- [ ] [1786](https://www.beecrowd.com.br/judge/pt/problems/view/1786) - [SSN 2] *Ad-Hoc*
-- [ ] [1787](https://www.beecrowd.com.br/judge/pt/problems/view/1787) - [URI] *Ad-Hoc*
-- [ ] [1788](https://www.beecrowd.com.br/judge/pt/problems/view/1788) - [Playing with Numbers] *Paradigms*
-- [ ] [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) - [The Race of Slugs] *Beginner*
-- [ ] [1790](https://www.beecrowd.com.br/judge/pt/problems/view/1790) - [Detecting Bridges] *Graph*
-- [ ] [1791](https://www.beecrowd.com.br/judge/pt/problems/view/1791) - [Discovering an Matrix] *Ad-Hoc*
-- [ ] [1792](https://www.beecrowd.com.br/judge/pt/problems/view/1792) - [Programmed Attack] *Graph*
-- [ ] [1793](https://www.beecrowd.com.br/judge/pt/problems/view/1793) - [Escalator] *Ad-Hoc*
-- [ ] [1794](https://www.beecrowd.com.br/judge/pt/problems/view/1794) - [Laundry] *Ad-Hoc*
-- [ ] [1795](https://www.beecrowd.com.br/judge/pt/problems/view/1795) - [Trinomial Triangle] *Mathematics*
-- [ ] [1796](https://www.beecrowd.com.br/judge/pt/problems/view/1796) - [Brazilian Economy] *Ad-Hoc*
-- [ ] [1797](https://www.beecrowd.com.br/judge/pt/problems/view/1797) - [Blasted and Curious] *Computational Geometry*
-- [ ] [1798](https://www.beecrowd.com.br/judge/pt/problems/view/1798) - [Pipe Cutting] *Paradigms*
-- [ ] [1799](https://www.beecrowd.com.br/judge/pt/problems/view/1799) - [The Rat in a Maze] *Graph*
+- [ ] [1700](https://www.beecrowd.com.br/judge/en/problems/view/1700) - [Antennas] *Paradigms*
+- [ ] [1701](https://www.beecrowd.com.br/judge/en/problems/view/1701) - [Fibos's Sequence] *Data Structures and Libraries*
+- [ ] [1702](https://www.beecrowd.com.br/judge/en/problems/view/1702) - [Graph Coloring] *Graph*
+- [ ] [1703](https://www.beecrowd.com.br/judge/en/problems/view/1703) - [Jumping Stones] *Mathematics*
+- [ ] [1704](https://www.beecrowd.com.br/judge/en/problems/view/1704) - [Arranging Tasks] *Data Structures and Libraries*
+- [ ] [1705](https://www.beecrowd.com.br/judge/en/problems/view/1705) - [Binary Lover] *Mathematics*
+- [ ] [1706](https://www.beecrowd.com.br/judge/en/problems/view/1706) - [Magical Candy Bridges] *Graph*
+- [ ] [1707](https://www.beecrowd.com.br/judge/en/problems/view/1707) - [Numbers Game] *Paradigms*
+- [ ] [1708](https://www.beecrowd.com.br/judge/en/problems/view/1708) - [Lap] *Ad-Hoc*
+- [ ] [1709](https://www.beecrowd.com.br/judge/en/problems/view/1709) - [Shuffled Deck] *Data Structures and Libraries*
+- [ ] [1710](https://www.beecrowd.com.br/judge/en/problems/view/1710) - [Confederation] *Ad-Hoc*
+- [ ] [1711](https://www.beecrowd.com.br/judge/en/problems/view/1711) - [Miss Worm] *Graph*
+- [ ] [1712](https://www.beecrowd.com.br/judge/en/problems/view/1712) - [Ecology] *Ad-Hoc*
+- [ ] [1713](https://www.beecrowd.com.br/judge/en/problems/view/1713) - [Teletransport] *Graph*
+- [ ] [1714](https://www.beecrowd.com.br/judge/en/problems/view/1714) - [Letters] *Ad-Hoc*
+- [ ] [1715](https://www.beecrowd.com.br/judge/en/problems/view/1715) - [Handball] *Ad-Hoc*
+- [ ] [1716](https://www.beecrowd.com.br/judge/en/problems/view/1716) - [RSA] *Ad-Hoc*
+- [ ] [1717](https://www.beecrowd.com.br/judge/en/problems/view/1717) - [Cut] *Ad-Hoc*
+- [ ] [1718](https://www.beecrowd.com.br/judge/en/problems/view/1718) - [Grandpa Pepe's Pizza] *Ad-Hoc*
+- [ ] [1719](https://www.beecrowd.com.br/judge/en/problems/view/1719) - [Simple Computers] *Ad-Hoc*
+- [ ] [1720](https://www.beecrowd.com.br/judge/en/problems/view/1720) - [Mondriaan's Dream] *Paradigms*
+- [ ] [1721](https://www.beecrowd.com.br/judge/en/problems/view/1721) - [Equidistance] *Computational Geometry*
+- [ ] [1722](https://www.beecrowd.com.br/judge/en/problems/view/1722) - [How many Fibs?] *Mathematics*
+- [ ] [1723](https://www.beecrowd.com.br/judge/en/problems/view/1723) - [Phylogenetic Trees Inherited] *Graph*
+- [ ] [1724](https://www.beecrowd.com.br/judge/en/problems/view/1724) - [Hike on a Graph] *Graph*
+- [ ] [1725](https://www.beecrowd.com.br/judge/en/problems/view/1725) - [Quadtree II] *Data Structures and Libraries*
+- [ ] [1726](https://www.beecrowd.com.br/judge/en/problems/view/1726) - [Friends] *Strings*
+- [ ] [1727](https://www.beecrowd.com.br/judge/en/problems/view/1727) - [Euro Cup 2000] *Paradigms*
+- [ ] [1728](https://www.beecrowd.com.br/judge/en/problems/view/1728) - [Hard to Believe, But True!] *Ad-Hoc*
+- [ ] [1729](https://www.beecrowd.com.br/judge/en/problems/view/1729) - [Average is not Fast Enough!] *Mathematics*
+- [ ] [1730](https://www.beecrowd.com.br/judge/en/problems/view/1730) - [Global Roaming] *Computational Geometry*
+- [ ] [1731](https://www.beecrowd.com.br/judge/en/problems/view/1731) - [Advanced Fruits] *Ad-Hoc*
+- [ ] [1732](https://www.beecrowd.com.br/judge/en/problems/view/1732) - [Bee Maja] *Ad-Hoc*
+- [ ] [1733](https://www.beecrowd.com.br/judge/en/problems/view/1733) - [Vladimir the Vampire] *Graph*
+- [ ] [1734](https://www.beecrowd.com.br/judge/en/problems/view/1734) - [Bound Found] *Mathematics*
+- [ ] [1735](https://www.beecrowd.com.br/judge/en/problems/view/1735) - [Code the Tree] *Mathematics*
+- [ ] [1736](https://www.beecrowd.com.br/judge/en/problems/view/1736) - [Decode the Tree] *Mathematics*
+- [ ] [1737](https://www.beecrowd.com.br/judge/en/problems/view/1737) - [Etaoin Shrdlu] *Strings*
+- [ ] [1738](https://www.beecrowd.com.br/judge/en/problems/view/1738) - [Fiber Network] *Graph*
+- [ ] [1739](https://www.beecrowd.com.br/judge/en/problems/view/1739) - [Threebonacci Sequence] *Ad-Hoc*
+- [ ] [1740](https://www.beecrowd.com.br/judge/en/problems/view/1740) - [Is it Ordered?] *Data Structures and Libraries*
+- [ ] [1741](https://www.beecrowd.com.br/judge/en/problems/view/1741) - [Reversed John’s Notation] *Ad-Hoc*
+- [ ] [1742](https://www.beecrowd.com.br/judge/en/problems/view/1742) - [Getting in Trouble] *Graph*
+- [ ] [1743](https://www.beecrowd.com.br/judge/en/problems/view/1743) - [Automated Checking Machine] *Ad-Hoc*
+- [ ] [1744](https://www.beecrowd.com.br/judge/en/problems/view/1744) - [Black and White Stones] *Paradigms*
+- [ ] [1745](https://www.beecrowd.com.br/judge/en/problems/view/1745) - [Counting Substhreengs] *Mathematics*
+- [ ] [1746](https://www.beecrowd.com.br/judge/en/problems/view/1746) - [Dividing the Names] *Data Structures and Libraries*
+- [ ] [1747](https://www.beecrowd.com.br/judge/en/problems/view/1747) - [Even Distribution] *Graph*
+- [ ] [1748](https://www.beecrowd.com.br/judge/en/problems/view/1748) - [Fence The Vegetables] *Computational Geometry*
+- [ ] [1749](https://www.beecrowd.com.br/judge/en/problems/view/1749) - [Galaxy Collision] *Graph*
+- [ ] [1750](https://www.beecrowd.com.br/judge/en/problems/view/1750) - [Help Cupid] *Ad-Hoc*
+- [ ] [1751](https://www.beecrowd.com.br/judge/en/problems/view/1751) - [Intrepid Climber] *Graph*
+- [ ] [1752](https://www.beecrowd.com.br/judge/en/problems/view/1752) - [Journey Through The Kingdom] *Graph*
+- [ ] [1753](https://www.beecrowd.com.br/judge/en/problems/view/1753) - [Knights Of The Round Table] *Ad-Hoc*
+- [ ] [1754](https://www.beecrowd.com.br/judge/en/problems/view/1754) - [The Time Room] *Mathematics*
+- [ ] [1755](https://www.beecrowd.com.br/judge/en/problems/view/1755) - [The Change] *Ad-Hoc*
+- [ ] [1756](https://www.beecrowd.com.br/judge/en/problems/view/1756) - [Genetic Algorithm] *Mathematics*
+- [ ] [1757](https://www.beecrowd.com.br/judge/en/problems/view/1757) - [Barrel Travel] *Graph*
+- [ ] [1758](https://www.beecrowd.com.br/judge/en/problems/view/1758) - [Bonus Grade Points] *Ad-Hoc*
+- [ ] [1759](https://www.beecrowd.com.br/judge/en/problems/view/1759) - [Ho Ho Ho] *Beginner*
+- [ ] [1760](https://www.beecrowd.com.br/judge/en/problems/view/1760) - [Koch Snowflake] *Mathematics*
+- [ ] [1761](https://www.beecrowd.com.br/judge/en/problems/view/1761) - [Christmas Decorations] *Mathematics*
+- [ ] [1762](https://www.beecrowd.com.br/judge/en/problems/view/1762) - [Sleds of Santa Claus] *Data Structures and Libraries*
+- [ ] [1763](https://www.beecrowd.com.br/judge/en/problems/view/1763) - [Santa's Translator] *Data Structures and Libraries*
+- [ ] [1764](https://www.beecrowd.com.br/judge/en/problems/view/1764) - [Itinerary of Santa Claus] *Graph*
+- [ ] [1765](https://www.beecrowd.com.br/judge/en/problems/view/1765) - [Christmas Trapeziums] *Ad-Hoc*
+- [ ] [1766](https://www.beecrowd.com.br/judge/en/problems/view/1766) - [The Dark Elf] *Data Structures and Libraries*
+- [ ] [1767](https://www.beecrowd.com.br/judge/en/problems/view/1767) - [Santa Claus Bag] *Paradigms*
+- [ ] [1768](https://www.beecrowd.com.br/judge/en/problems/view/1768) - [Christmas Tree] *Strings*
+- [ ] [1769](https://www.beecrowd.com.br/judge/en/problems/view/1769) - [SSN 1] *Ad-Hoc*
+- [ ] [1770](https://www.beecrowd.com.br/judge/en/problems/view/1770) - [Shuffle] *Ad-Hoc*
+- [ ] [1771](https://www.beecrowd.com.br/judge/en/problems/view/1771) - [Random Bingo Cards] *Ad-Hoc*
+- [ ] [1772](https://www.beecrowd.com.br/judge/en/problems/view/1772) - [Bit Shuffling] *Ad-Hoc*
+- [ ] [1773](https://www.beecrowd.com.br/judge/en/problems/view/1773) - [Locked in the Castle] *Graph*
+- [ ] [1774](https://www.beecrowd.com.br/judge/en/problems/view/1774) - [Routers] *Graph*
+- [ ] [1775](https://www.beecrowd.com.br/judge/en/problems/view/1775) - [Andre and the Mentos] *Paradigms*
+- [ ] [1776](https://www.beecrowd.com.br/judge/en/problems/view/1776) - [Prom] *Mathematics*
+- [ ] [1777](https://www.beecrowd.com.br/judge/en/problems/view/1777) - [Walk of Fame] *Paradigms*
+- [ ] [1778](https://www.beecrowd.com.br/judge/en/problems/view/1778) - [Graph Defense] *Graph*
+- [ ] [1779](https://www.beecrowd.com.br/judge/en/problems/view/1779) - [Estimating the Mean] *Ad-Hoc*
+- [ ] [1780](https://www.beecrowd.com.br/judge/en/problems/view/1780) - [Robots Formation] *Ad-Hoc*
+- [ ] [1781](https://www.beecrowd.com.br/judge/en/problems/view/1781) - [Guga and the String] *Strings*
+- [ ] [1782](https://www.beecrowd.com.br/judge/en/problems/view/1782) - [Honorable Gift] *Graph*
+- [ ] [1783](https://www.beecrowd.com.br/judge/en/problems/view/1783) - [Oh no, a Black Hole!] *Computational Geometry*
+- [ ] [1784](https://www.beecrowd.com.br/judge/en/problems/view/1784) - [Birds vs Crows] *Paradigms*
+- [ ] [1785](https://www.beecrowd.com.br/judge/en/problems/view/1785) - [Kaprekar] *Mathematics*
+- [ ] [1786](https://www.beecrowd.com.br/judge/en/problems/view/1786) - [SSN 2] *Ad-Hoc*
+- [ ] [1787](https://www.beecrowd.com.br/judge/en/problems/view/1787) - [URI] *Ad-Hoc*
+- [ ] [1788](https://www.beecrowd.com.br/judge/en/problems/view/1788) - [Playing with Numbers] *Paradigms*
+- [ ] [1789](https://www.beecrowd.com.br/judge/en/problems/view/1789) - [The Race of Slugs] *Beginner*
+- [ ] [1790](https://www.beecrowd.com.br/judge/en/problems/view/1790) - [Detecting Bridges] *Graph*
+- [ ] [1791](https://www.beecrowd.com.br/judge/en/problems/view/1791) - [Discovering an Matrix] *Ad-Hoc*
+- [ ] [1792](https://www.beecrowd.com.br/judge/en/problems/view/1792) - [Programmed Attack] *Graph*
+- [ ] [1793](https://www.beecrowd.com.br/judge/en/problems/view/1793) - [Escalator] *Ad-Hoc*
+- [ ] [1794](https://www.beecrowd.com.br/judge/en/problems/view/1794) - [Laundry] *Ad-Hoc*
+- [ ] [1795](https://www.beecrowd.com.br/judge/en/problems/view/1795) - [Trinomial Triangle] *Mathematics*
+- [ ] [1796](https://www.beecrowd.com.br/judge/en/problems/view/1796) - [Brazilian Economy] *Ad-Hoc*
+- [ ] [1797](https://www.beecrowd.com.br/judge/en/problems/view/1797) - [Blasted and Curious] *Computational Geometry*
+- [ ] [1798](https://www.beecrowd.com.br/judge/en/problems/view/1798) - [Pipe Cutting] *Paradigms*
+- [ ] [1799](https://www.beecrowd.com.br/judge/en/problems/view/1799) - [The Rat in a Maze] *Graph*

@@ -1,338 +1,338 @@
 # Problems (21.79 %)
 
 
-- [x] [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
-- [x] [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - [Extremely Basic](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1001/code.js)
-- [x] [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) - [Area of a Circle](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1002/code.js)
-- [x] [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) - [Simple Sum](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1003/code.js)
-- [x] [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) - [Simple Product](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1004/code.js)
-- [x] [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) - [Average 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1005/code.js)
-- [x] [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) - [Average 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1006/code.js)
-- [x] [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) - [Difference](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1007/code.js)
-- [x] [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - [Salary](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1008/code.js)
-- [x] [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) - [Salary with Bonus](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1009/code.js)
-- [x] [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) - [Simple Calculate](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1010/code.js)
-- [x] [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) - [Sphere](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1011/code.js)
-- [x] [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) - [Area](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1012/code.js)
-- [x] [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - [The Greatest](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1013/code.js)
-- [x] [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - [Consumption](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1014/code.js)
-- [x] [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - [Distance Between Two Points](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1015/code.js)
-- [x] [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - [Distance](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1016/code.js)
-- [x] [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - [Fuel Spent](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1017/code.js)
-- [x] [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - [Banknotes](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1018/code.js)
-- [x] [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - [Time Conversion](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1019/code.js)
-- [x] [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - [Age in Days](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1020/code.js)
-- [x] [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) - [Banknotes and Coins](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1021/code.js)
-- [x] [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - [Selection Test 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1035/code.js)
-- [x] [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - [Bhaskara's Formula](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1036/code.js)
-- [x] [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) - [Interval](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1037/code.js)
-- [x] [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - [Snack](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1038/code.js)
-- [x] [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) - [Average 3](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1040/code.js)
-- [x] [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) - [Coordinates of a Point](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1041/code.js)
-- [x] [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) - [Simple Sort](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1042/code.js)
-- [x] [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) - [Triangle](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1043/code.js)
-- [x] [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) - [Multiples](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1044/code.js)
-- [x] [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - [Triangle Types](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1045/code.js)
-- [x] [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - [Game Time](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1046/code.js)
-- [x] [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - [Game Time with Minutes](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1047/code.js)
-- [x] [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Salary Increase](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1048/code.js)
-- [x] [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1049/code.js)
-- [x] [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1050/code.js)
-- [x] [1051](https://www.beecrowd.com.br/judge/pt/problems/view/1051) - [Taxes](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1051/code.js)
-- [x] [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - [Month](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1052/code.js)
-- [x] [1059](https://www.beecrowd.com.br/judge/pt/problems/view/1059) - [Even Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1059/code.js)
-- [x] [1060](https://www.beecrowd.com.br/judge/pt/problems/view/1060) - [Positive Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1060/code.js)
-- [x] [1061](https://www.beecrowd.com.br/judge/pt/problems/view/1061) - [Event Time](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1061/code.js)
-- [x] [1064](https://www.beecrowd.com.br/judge/pt/problems/view/1064) - [Positives and Average](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1064/code.js)
-- [x] [1065](https://www.beecrowd.com.br/judge/pt/problems/view/1065) - [Even Between five Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1065/code.js)
-- [x] [1066](https://www.beecrowd.com.br/judge/pt/problems/view/1066) - [Even, Odd, Positive and Negative](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1066/code.js)
-- [x] [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) - [Odd Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1067/code.js)
-- [x] [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) - [Six Odd Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1070/code.js)
-- [x] [1071](https://www.beecrowd.com.br/judge/pt/problems/view/1071) - [Sum of Consecutive Odd Numbers I](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1071/code.js)
-- [x] [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) - [Interval 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1072/code.js)
-- [x] [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) - [Even Square](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1073/code.js)
-- [x] [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) - [Even or Odd](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1074/code.js)
-- [x] [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - [Remaining 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1075/code.js)
-- [x] [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - [Multiplication Table](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1078/code.js)
-- [x] [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - [Weighted Averages](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1079/code.js)
-- [x] [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - [Highest and Position](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1080/code.js)
-- [x] [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - [Experiments](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1094/code.js)
-- [x] [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - [Sequence IJ 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1095/code.js)
-- [x] [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - [Sequence IJ 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1096/code.js)
-- [x] [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - [Sequence IJ 3](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1097/code.js)
-- [x] [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - [Sequence IJ 4](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1098/code.js)
-- [x] [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - [Sum of Consecutive Odd Numbers II](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1099/code.js)
-- [x] [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) - [Sequence of Numbers and Sum](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1101/code.js)
-- [x] [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) - [Ascending and Descending](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1113/code.js)
-- [x] [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) - [Fixed Password](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1114/code.js)
-- [x] [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) - [Quadrant](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1115/code.js)
-- [x] [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) - [Dividing X by Y](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1116/code.js)
-- [x] [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) - [Score Validation](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1117/code.js)
-- [ ] [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) - [Several Scores with Validation]
-- [ ] [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) - [Grenais]
-- [x] [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) - [Multiples of 13](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1132/code.js)
-- [x] [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) - [Rest of a Division](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1133/code.js)
-- [x] [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) - [Type of Fuel](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1134/code.js)
-- [x] [1142](https://www.beecrowd.com.br/judge/pt/problems/view/1142) - [PUM](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1142/code.js)
-- [ ] [1143](https://www.beecrowd.com.br/judge/pt/problems/view/1143) - [Squared and Cubic]
-- [ ] [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) - [Logical Sequence]
-- [ ] [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) - [Logical Sequence 2]
-- [ ] [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) - [Growing Sequences]
-- [ ] [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) - [Summing Consecutive Integers]
-- [ ] [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) - [Exceeding Z]
-- [ ] [1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) - [Easy Fibonacci]
-- [ ] [1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) - [Simple Factorial]
-- [ ] [1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) - [Ages]
-- [ ] [1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) - [S Sequence]
-- [ ] [1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) - [S Sequence II]
-- [ ] [1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) - [Divisors I]
-- [ ] [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) - [Sum of Consecutive Odd Numbers III]
-- [ ] [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) - [Sum of Consecutive Even Numbers]
-- [ ] [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) - [Population Increase]
-- [ ] [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) - [Perfect Number]
-- [ ] [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) - [Prime Number]
-- [ ] [1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) - [Array Replacement I]
-- [ ] [1173](https://www.beecrowd.com.br/judge/pt/problems/view/1173) - [Array fill I]
-- [ ] [1174](https://www.beecrowd.com.br/judge/pt/problems/view/1174) - [Array Selection I]
-- [ ] [1175](https://www.beecrowd.com.br/judge/pt/problems/view/1175) - [Array change I]
-- [ ] [1176](https://www.beecrowd.com.br/judge/pt/problems/view/1176) - [Fibonacci Array]
-- [ ] [1177](https://www.beecrowd.com.br/judge/pt/problems/view/1177) - [Array Fill II]
-- [ ] [1178](https://www.beecrowd.com.br/judge/pt/problems/view/1178) - [Array Fill III]
-- [ ] [1179](https://www.beecrowd.com.br/judge/pt/problems/view/1179) - [Array Fill IV]
-- [ ] [1180](https://www.beecrowd.com.br/judge/pt/problems/view/1180) - [Lowest Number and Position]
-- [ ] [1181](https://www.beecrowd.com.br/judge/pt/problems/view/1181) - [Line in Array]
-- [ ] [1182](https://www.beecrowd.com.br/judge/pt/problems/view/1182) - [Column in Array]
-- [ ] [1183](https://www.beecrowd.com.br/judge/pt/problems/view/1183) - [Above the Main Diagonal]
-- [ ] [1184](https://www.beecrowd.com.br/judge/pt/problems/view/1184) - [Below the Main Diagonal]
-- [ ] [1185](https://www.beecrowd.com.br/judge/pt/problems/view/1185) - [Above the Secundary Diagonal]
-- [ ] [1186](https://www.beecrowd.com.br/judge/pt/problems/view/1186) - [Below the Secundary Diagonal]
-- [ ] [1187](https://www.beecrowd.com.br/judge/pt/problems/view/1187) - [Top Area]
-- [ ] [1188](https://www.beecrowd.com.br/judge/pt/problems/view/1188) - [Inferior Area]
-- [ ] [1189](https://www.beecrowd.com.br/judge/pt/problems/view/1189) - [Left Area]
-- [ ] [1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) - [Right Area]
-- [ ] [1435](https://www.beecrowd.com.br/judge/pt/problems/view/1435) - [Square Matrix I]
-- [ ] [1478](https://www.beecrowd.com.br/judge/pt/problems/view/1478) - [Square Matrix II]
-- [ ] [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) - [Array 123]
-- [ ] [1541](https://www.beecrowd.com.br/judge/pt/problems/view/1541) - [Building Houses]
-- [ ] [1557](https://www.beecrowd.com.br/judge/pt/problems/view/1557) - [Square Matrix III]
-- [ ] [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) - [Brazil World Cup]
-- [ ] [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) - [Bob Conduit]
-- [ ] [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) - [Ho Ho Ho]
-- [ ] [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) - [The Race of Slugs]
-- [ ] [1827](https://www.beecrowd.com.br/judge/pt/problems/view/1827) - [Square Array IV]
-- [ ] [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) - [Bazinga!]
-- [ ] [1837](https://www.beecrowd.com.br/judge/pt/problems/view/1837) - [Preface]
-- [ ] [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) - [Welcome to the Winter!]
-- [ ] [1848](https://www.beecrowd.com.br/judge/pt/problems/view/1848) - [Counting Crow]
-- [ ] [1858](https://www.beecrowd.com.br/judge/pt/problems/view/1858) - [Theon's Answer]
-- [ ] [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) - [Our Days Are Never Coming Back]
-- [ ] [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) - [Mjölnir]
-- [ ] [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) - [Bill]
-- [ ] [1914](https://www.beecrowd.com.br/judge/pt/problems/view/1914) - [Whose Turn Is It?]
-- [ ] [1924](https://www.beecrowd.com.br/judge/pt/problems/view/1924) - [Vitória and Her Indecision]
-- [ ] [1929](https://www.beecrowd.com.br/judge/pt/problems/view/1929) - [Triangle]
-- [ ] [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) - [Electrical Outlet]
-- [ ] [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) - [Tri-du]
-- [ ] [1957](https://www.beecrowd.com.br/judge/pt/problems/view/1957) - [Converting to Hexadecimal]
-- [ ] [1958](https://www.beecrowd.com.br/judge/pt/problems/view/1958) - [Scientific Notation]
-- [ ] [1959](https://www.beecrowd.com.br/judge/pt/problems/view/1959) - [Regular Simple Polygons]
-- [ ] [1960](https://www.beecrowd.com.br/judge/pt/problems/view/1960) - [Roman Numerals for Page Numbers]
-- [ ] [1961](https://www.beecrowd.com.br/judge/pt/problems/view/1961) - [Jumping Frog]
-- [ ] [1962](https://www.beecrowd.com.br/judge/pt/problems/view/1962) - [A Long, Long Time Ago]
-- [ ] [1963](https://www.beecrowd.com.br/judge/pt/problems/view/1963) - [The Motion Picture]
-- [ ] [1973](https://www.beecrowd.com.br/judge/pt/problems/view/1973) - [Star Trek]
-- [ ] [1983](https://www.beecrowd.com.br/judge/pt/problems/view/1983) - [The Chosen]
-- [ ] [1984](https://www.beecrowd.com.br/judge/pt/problems/view/1984) - [The Pronalância Puzzle]
-- [ ] [1985](https://www.beecrowd.com.br/judge/pt/problems/view/1985) - [MacPRONALTS]
-- [ ] [2003](https://www.beecrowd.com.br/judge/pt/problems/view/2003) - [Sunday Morning]
-- [ ] [2006](https://www.beecrowd.com.br/judge/pt/problems/view/2006) - [Identifying Tea]
-- [ ] [2028](https://www.beecrowd.com.br/judge/pt/problems/view/2028) - [Sequence of Sequence]
-- [ ] [2029](https://www.beecrowd.com.br/judge/pt/problems/view/2029) - [Honey Reservoir]
-- [ ] [2031](https://www.beecrowd.com.br/judge/pt/problems/view/2031) - [Rock, Paper, Airstrike]
-- [ ] [2057](https://www.beecrowd.com.br/judge/pt/problems/view/2057) - [Time Zone]
-- [ ] [2059](https://www.beecrowd.com.br/judge/pt/problems/view/2059) - [Odd, Even or Cheating]
-- [ ] [2060](https://www.beecrowd.com.br/judge/pt/problems/view/2060) - [Bino's Challenge]
-- [ ] [2061](https://www.beecrowd.com.br/judge/pt/problems/view/2061) - [Closing Tabs]
-- [ ] [2126](https://www.beecrowd.com.br/judge/pt/problems/view/2126) - [Searching Subsequences]
-- [ ] [2139](https://www.beecrowd.com.br/judge/pt/problems/view/2139) - [Pedrinho's Christmas]
-- [ ] [2140](https://www.beecrowd.com.br/judge/pt/problems/view/2140) - [Two Bills]
-- [ ] [2143](https://www.beecrowd.com.br/judge/pt/problems/view/2143) - [The Return of Radar]
-- [ ] [2146](https://www.beecrowd.com.br/judge/pt/problems/view/2146) - [Password]
-- [ ] [2147](https://www.beecrowd.com.br/judge/pt/problems/view/2147) - [Galopeira]
-- [x] [2152](https://www.beecrowd.com.br/judge/pt/problems/view/2152) - [Pepe, I Already Took the Candle!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2152/code.js)
-- [ ] [2159](https://www.beecrowd.com.br/judge/pt/problems/view/2159) - [Approximate Number of Primes]
-- [ ] [2160](https://www.beecrowd.com.br/judge/pt/problems/view/2160) - [Name at Form]
-- [ ] [2161](https://www.beecrowd.com.br/judge/pt/problems/view/2161) - [Square Root of 10]
-- [ ] [2162](https://www.beecrowd.com.br/judge/pt/problems/view/2162) - [Peaks and Valleys]
-- [ ] [2163](https://www.beecrowd.com.br/judge/pt/problems/view/2163) - [The Force Awakens]
-- [ ] [2164](https://www.beecrowd.com.br/judge/pt/problems/view/2164) - [Fast Fibonacci]
-- [ ] [2165](https://www.beecrowd.com.br/judge/pt/problems/view/2165) - [Twitting]
-- [ ] [2166](https://www.beecrowd.com.br/judge/pt/problems/view/2166) - [Square Root of 2]
-- [ ] [2167](https://www.beecrowd.com.br/judge/pt/problems/view/2167) - [Engine Failure]
-- [ ] [2168](https://www.beecrowd.com.br/judge/pt/problems/view/2168) - [Twilight at Portland]
-- [ ] [2172](https://www.beecrowd.com.br/judge/pt/problems/view/2172) - [Event]
-- [ ] [2176](https://www.beecrowd.com.br/judge/pt/problems/view/2176) - [Parity]
-- [ ] [2203](https://www.beecrowd.com.br/judge/pt/problems/view/2203) - [Crowstorm]
-- [ ] [2221](https://www.beecrowd.com.br/judge/pt/problems/view/2221) - [Pomekons Battle]
-- [ ] [2234](https://www.beecrowd.com.br/judge/pt/problems/view/2234) - [Hot Dogs]
-- [ ] [2235](https://www.beecrowd.com.br/judge/pt/problems/view/2235) - [Walking in Time]
-- [ ] [2310](https://www.beecrowd.com.br/judge/pt/problems/view/2310) - [Volleyball]
-- [ ] [2311](https://www.beecrowd.com.br/judge/pt/problems/view/2311) - [Diving]
-- [ ] [2313](https://www.beecrowd.com.br/judge/pt/problems/view/2313) - [Which Triangle]
-- [ ] [2334](https://www.beecrowd.com.br/judge/pt/problems/view/2334) - [Little Ducks]
-- [ ] [2344](https://www.beecrowd.com.br/judge/pt/problems/view/2344) - [Notas da Prova]
-- [ ] [2483](https://www.beecrowd.com.br/judge/pt/problems/view/2483) - [Merry Christmaaas!]
-- [ ] [2486](https://www.beecrowd.com.br/judge/pt/problems/view/2486) - [C Mais ou Menos?]
-- [ ] [2493](https://www.beecrowd.com.br/judge/pt/problems/view/2493) - [Jogo do Operador]
-- [ ] [2502](https://www.beecrowd.com.br/judge/pt/problems/view/2502) - [Deciphering the Encrypted Card]
-- [ ] [2510](https://www.beecrowd.com.br/judge/pt/problems/view/2510) - [Batmain]
-- [ ] [2520](https://www.beecrowd.com.br/judge/pt/problems/view/2520) - [The Last Analógimôn]
-- [ ] [2523](https://www.beecrowd.com.br/judge/pt/problems/view/2523) - [Will's Message]
-- [ ] [2533](https://www.beecrowd.com.br/judge/pt/problems/view/2533) - [Internship]
-- [ ] [2534](https://www.beecrowd.com.br/judge/pt/problems/view/2534) - [General Exam]
-- [ ] [2540](https://www.beecrowd.com.br/judge/pt/problems/view/2540) - [Leader's Impeachment]
-- [ ] [2542](https://www.beecrowd.com.br/judge/pt/problems/view/2542) - [Iu-Di-Oh!]
-- [ ] [2543](https://www.beecrowd.com.br/judge/pt/problems/view/2543) - [UFPR Gaming]
-- [ ] [2544](https://www.beecrowd.com.br/judge/pt/problems/view/2544) - [Kage Bunshin no Jutsu]
-- [ ] [2547](https://www.beecrowd.com.br/judge/pt/problems/view/2547) - [Roller Coaster]
-- [ ] [2551](https://www.beecrowd.com.br/judge/pt/problems/view/2551) - [New Record]
-- [ ] [2552](https://www.beecrowd.com.br/judge/pt/problems/view/2552) - [CheeseBreadSweeper]
-- [ ] [2554](https://www.beecrowd.com.br/judge/pt/problems/view/2554) - [Pizza Before BH]
-- [ ] [2581](https://www.beecrowd.com.br/judge/pt/problems/view/2581) - [I am Toorg!]
-- [ ] [2582](https://www.beecrowd.com.br/judge/pt/problems/view/2582) - [System of a Download]
-- [ ] [2626](https://www.beecrowd.com.br/judge/pt/problems/view/2626) - [JB6 Team]
-- [ ] [2630](https://www.beecrowd.com.br/judge/pt/problems/view/2630) - [Greyscale]
-- [ ] [2632](https://www.beecrowd.com.br/judge/pt/problems/view/2632) - [Magic and Sword]
-- [ ] [2635](https://www.beecrowd.com.br/judge/pt/problems/view/2635) - [Web Browser]
-- [ ] [2653](https://www.beecrowd.com.br/judge/pt/problems/view/2653) - [Dijkstra]
-- [ ] [2663](https://www.beecrowd.com.br/judge/pt/problems/view/2663) - [Fase]
-- [ ] [2670](https://www.beecrowd.com.br/judge/pt/problems/view/2670) - [Máquina de Café]
-- [ ] [2685](https://www.beecrowd.com.br/judge/pt/problems/view/2685) - [The Change]
-- [ ] [2686](https://www.beecrowd.com.br/judge/pt/problems/view/2686) - [The Change Continues!!]
-- [ ] [2702](https://www.beecrowd.com.br/judge/pt/problems/view/2702) - [Hard Choice]
-- [ ] [2708](https://www.beecrowd.com.br/judge/pt/problems/view/2708) - [Tourists in the Huacachina Park]
-- [ ] [2709](https://www.beecrowd.com.br/judge/pt/problems/view/2709) - [The Coins of Robbie]
-- [ ] [2712](https://www.beecrowd.com.br/judge/pt/problems/view/2712) - [Vehicular Restriction]
-- [ ] [2715](https://www.beecrowd.com.br/judge/pt/problems/view/2715) - [Splitting Assignments I]
-- [ ] [2717](https://www.beecrowd.com.br/judge/pt/problems/view/2717) - [Elf Time]
-- [ ] [2718](https://www.beecrowd.com.br/judge/pt/problems/view/2718) - [Christmas Lights]
-- [ ] [2721](https://www.beecrowd.com.br/judge/pt/problems/view/2721) - [Indecision of Reindeers]
-- [ ] [2724](https://www.beecrowd.com.br/judge/pt/problems/view/2724) - [Help Patatatitu]
-- [ ] [2727](https://www.beecrowd.com.br/judge/pt/problems/view/2727) - [Secret Code]
-- [ ] [2747](https://www.beecrowd.com.br/judge/pt/problems/view/2747) - [Output 1]
-- [ ] [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) - [Output 2]
-- [ ] [2749](https://www.beecrowd.com.br/judge/pt/problems/view/2749) - [Output 3]
-- [ ] [2750](https://www.beecrowd.com.br/judge/pt/problems/view/2750) - [Output 4]
-- [ ] [2752](https://www.beecrowd.com.br/judge/pt/problems/view/2752) - [Output 6]
-- [ ] [2753](https://www.beecrowd.com.br/judge/pt/problems/view/2753) - [Output 7]
-- [ ] [2754](https://www.beecrowd.com.br/judge/pt/problems/view/2754) - [Output 8]
-- [ ] [2755](https://www.beecrowd.com.br/judge/pt/problems/view/2755) - [Output 9]
-- [ ] [2756](https://www.beecrowd.com.br/judge/pt/problems/view/2756) - [Output 10]
-- [ ] [2757](https://www.beecrowd.com.br/judge/pt/problems/view/2757) - [Input and Output of Integers]
-- [ ] [2758](https://www.beecrowd.com.br/judge/pt/problems/view/2758) - [Floating Number Input and Output]
-- [ ] [2759](https://www.beecrowd.com.br/judge/pt/problems/view/2759) - [Input and Output Character]
-- [ ] [2760](https://www.beecrowd.com.br/judge/pt/problems/view/2760) - [String Input and Output]
-- [ ] [2761](https://www.beecrowd.com.br/judge/pt/problems/view/2761) - [Input and Output of Various Types]
-- [ ] [2762](https://www.beecrowd.com.br/judge/pt/problems/view/2762) - [Input and Output 6]
-- [ ] [2763](https://www.beecrowd.com.br/judge/pt/problems/view/2763) - [CPF Input and Output]
-- [ ] [2764](https://www.beecrowd.com.br/judge/pt/problems/view/2764) - [Date Input and Output]
-- [ ] [2765](https://www.beecrowd.com.br/judge/pt/problems/view/2765) - [Coming Input and Output]
-- [ ] [2766](https://www.beecrowd.com.br/judge/pt/problems/view/2766) - [Input and Output Reading and Skipping Names]
-- [ ] [2769](https://www.beecrowd.com.br/judge/pt/problems/view/2769) - [Assembly Line]
-- [ ] [2770](https://www.beecrowd.com.br/judge/pt/problems/view/2770) - [Board Size]
-- [ ] [2774](https://www.beecrowd.com.br/judge/pt/problems/view/2774) - [Sensor Accuracy]
-- [ ] [2775](https://www.beecrowd.com.br/judge/pt/problems/view/2775) - [Preparing Production]
-- [ ] [2779](https://www.beecrowd.com.br/judge/pt/problems/view/2779) - [Album of the Cup]
-- [ ] [2780](https://www.beecrowd.com.br/judge/pt/problems/view/2780) - [Robot Basketball]
-- [x] [2782](https://www.beecrowd.com.br/judge/pt/problems/view/2782) - [Stepladder](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2700-2799]/2782/code.js)
-- [ ] [2783](https://www.beecrowd.com.br/judge/pt/problems/view/2783) - [Cup Stickers]
-- [ ] [2785](https://www.beecrowd.com.br/judge/pt/problems/view/2785) - [Pyramid]
-- [ ] [2786](https://www.beecrowd.com.br/judge/pt/problems/view/2786) - [School Floor]
-- [ ] [2787](https://www.beecrowd.com.br/judge/pt/problems/view/2787) - [Chess]
-- [ ] [2791](https://www.beecrowd.com.br/judge/pt/problems/view/2791) - [Bean]
-- [ ] [2802](https://www.beecrowd.com.br/judge/pt/problems/view/2802) - [Dividing Circles]
-- [ ] [2807](https://www.beecrowd.com.br/judge/pt/problems/view/2807) - [Iccanobif]
-- [ ] [2808](https://www.beecrowd.com.br/judge/pt/problems/view/2808) - [Knights Again]
-- [ ] [2812](https://www.beecrowd.com.br/judge/pt/problems/view/2812) - [Laércio]
-- [ ] [2813](https://www.beecrowd.com.br/judge/pt/problems/view/2813) - [Avoiding Rain]
-- [ ] [2823](https://www.beecrowd.com.br/judge/pt/problems/view/2823) - [Eearliest Deadline First]
-- [ ] [2826](https://www.beecrowd.com.br/judge/pt/problems/view/2826) - [Lexical]
-- [ ] [2845](https://www.beecrowd.com.br/judge/pt/problems/view/2845) - [Party at the North Pole]
-- [ ] [2846](https://www.beecrowd.com.br/judge/pt/problems/view/2846) - [Fibonot]
-- [ ] [2850](https://www.beecrowd.com.br/judge/pt/problems/view/2850) - [Polyglot Parrot]
-- [ ] [2852](https://www.beecrowd.com.br/judge/pt/problems/view/2852) - [Messaging]
-- [ ] [2861](https://www.beecrowd.com.br/judge/pt/problems/view/2861) - [The Output]
-- [ ] [2862](https://www.beecrowd.com.br/judge/pt/problems/view/2862) - [Insect!]
-- [ ] [2863](https://www.beecrowd.com.br/judge/pt/problems/view/2863) - [Umil Bolt]
-- [ ] [2867](https://www.beecrowd.com.br/judge/pt/problems/view/2867) - [Digits]
-- [ ] [2879](https://www.beecrowd.com.br/judge/pt/problems/view/2879) - [Desvendando Monty Hall]
-- [ ] [2896](https://www.beecrowd.com.br/judge/pt/problems/view/2896) - [Enjoy the Offer]
-- [ ] [2930](https://www.beecrowd.com.br/judge/pt/problems/view/2930) - [Final Thesis of Christmas Depression]
-- [ ] [2936](https://www.beecrowd.com.br/judge/pt/problems/view/2936) - [How Much Cassava?]
-- [ ] [2949](https://www.beecrowd.com.br/judge/pt/problems/view/2949) - [The Fellowship of the Ring]
-- [ ] [2950](https://www.beecrowd.com.br/judge/pt/problems/view/2950) - [The Two Towers]
-- [ ] [2951](https://www.beecrowd.com.br/judge/pt/problems/view/2951) - [The Return of The King]
-- [ ] [2963](https://www.beecrowd.com.br/judge/pt/problems/view/2963) - [Buffoon]
-- [ ] [2968](https://www.beecrowd.com.br/judge/pt/problems/view/2968) - [Hour for a Run]
-- [ ] [2982](https://www.beecrowd.com.br/judge/pt/problems/view/2982) - [The Strike Stops or Continues?]
-- [ ] [2987](https://www.beecrowd.com.br/judge/pt/problems/view/2987) - [Balloon of Honor]
-- [ ] [3037](https://www.beecrowd.com.br/judge/pt/problems/view/3037) - [Playing Darts by Distance]
-- [ ] [3039](https://www.beecrowd.com.br/judge/pt/problems/view/3039) - [Santa's Toys]
-- [ ] [3040](https://www.beecrowd.com.br/judge/pt/problems/view/3040) - [The Christmas Tree]
-- [ ] [3042](https://www.beecrowd.com.br/judge/pt/problems/view/3042) - [Deflecting from Christmas Trees]
-- [ ] [3046](https://www.beecrowd.com.br/judge/pt/problems/view/3046) - [Dominó]
-- [ ] [3047](https://www.beecrowd.com.br/judge/pt/problems/view/3047) - [A idade de Dona Mônica]
-- [ ] [3053](https://www.beecrowd.com.br/judge/pt/problems/view/3053) - [Jogo Dos Copos]
-- [ ] [3055](https://www.beecrowd.com.br/judge/pt/problems/view/3055) - [Nota Esquecida]
-- [ ] [3065](https://www.beecrowd.com.br/judge/pt/problems/view/3065) - [Calculando]
-- [ ] [3068](https://www.beecrowd.com.br/judge/pt/problems/view/3068) - [Meteoros]
-- [ ] [3076](https://www.beecrowd.com.br/judge/pt/problems/view/3076) - [History Exercise]
-- [ ] [3084](https://www.beecrowd.com.br/judge/pt/problems/view/3084) - [Old Clock]
-- [ ] [3089](https://www.beecrowd.com.br/judge/pt/problems/view/3089) - [Christmas Gifts]
-- [ ] [3091](https://www.beecrowd.com.br/judge/pt/problems/view/3091) - [Rest 1.0]
-- [ ] [3140](https://www.beecrowd.com.br/judge/pt/problems/view/3140) - [Copying and Pasting Code]
-- [ ] [3142](https://www.beecrowd.com.br/judge/pt/problems/view/3142) - [Excel Bug]
-- [ ] [3145](https://www.beecrowd.com.br/judge/pt/problems/view/3145) - [An unexpected Journey]
-- [ ] [3146](https://www.beecrowd.com.br/judge/pt/problems/view/3146) - [Riddles in the Dark]
-- [ ] [3147](https://www.beecrowd.com.br/judge/pt/problems/view/3147) - [The Battle of the Five Armies]
-- [ ] [3157](https://www.beecrowd.com.br/judge/pt/problems/view/3157) - [Long Live Science!]
-- [ ] [3161](https://www.beecrowd.com.br/judge/pt/problems/view/3161) - [The Forgotten Fruits]
-- [ ] [3162](https://www.beecrowd.com.br/judge/pt/problems/view/3162) - [Space Communication]
-- [ ] [3164](https://www.beecrowd.com.br/judge/pt/problems/view/3164) - [Inspection on Company]
-- [ ] [3166](https://www.beecrowd.com.br/judge/pt/problems/view/3166) - [Finding Words on Main Diagonal]
-- [ ] [3167](https://www.beecrowd.com.br/judge/pt/problems/view/3167) - [Finding Words on Secondary Diagonal]
-- [ ] [3170](https://www.beecrowd.com.br/judge/pt/problems/view/3170) - [Christmas Balls]
-- [ ] [3173](https://www.beecrowd.com.br/judge/pt/problems/view/3173) - [Christmas Star]
-- [ ] [3174](https://www.beecrowd.com.br/judge/pt/problems/view/3174) - [Noel's Work Groups]
-- [ ] [3181](https://www.beecrowd.com.br/judge/pt/problems/view/3181) - [Dinner]
-- [ ] [3204](https://www.beecrowd.com.br/judge/pt/problems/view/3204) - [Honeycomb Walk]
-- [ ] [3208](https://www.beecrowd.com.br/judge/pt/problems/view/3208) - [The Embarrassed Cryptographer]
-- [ ] [3209](https://www.beecrowd.com.br/judge/pt/problems/view/3209) - [Electrical Outlets]
-- [ ] [3214](https://www.beecrowd.com.br/judge/pt/problems/view/3214) - [Soda Surpler]
-- [ ] [3217](https://www.beecrowd.com.br/judge/pt/problems/view/3217) - [Rain Fall]
-- [ ] [3224](https://www.beecrowd.com.br/judge/pt/problems/view/3224) - [Aaah!]
-- [ ] [3229](https://www.beecrowd.com.br/judge/pt/problems/view/3229) - [Food Review]
-- [ ] [3230](https://www.beecrowd.com.br/judge/pt/problems/view/3230) - [Galactic Warlords]
-- [ ] [3231](https://www.beecrowd.com.br/judge/pt/problems/view/3231) - [Horror List]
-- [ ] [3232](https://www.beecrowd.com.br/judge/pt/problems/view/3232) - [Infiltration]
-- [ ] [3233](https://www.beecrowd.com.br/judge/pt/problems/view/3233) - [Juice]
-- [ ] [3234](https://www.beecrowd.com.br/judge/pt/problems/view/3234) - [Kindergarten]
-- [ ] [3235](https://www.beecrowd.com.br/judge/pt/problems/view/3235) - [Luggage]
-- [ ] [3241](https://www.beecrowd.com.br/judge/pt/problems/view/3241) - [Help a PhD Candidate Out!]
-- [ ] [3249](https://www.beecrowd.com.br/judge/pt/problems/view/3249) - [Death Knight Hero]
-- [ ] [3250](https://www.beecrowd.com.br/judge/pt/problems/view/3250) - [Elevator Trouble]
-- [ ] [3252](https://www.beecrowd.com.br/judge/pt/problems/view/3252) - [Knigs of the Forest]
-- [ ] [3253](https://www.beecrowd.com.br/judge/pt/problems/view/3253) - [Car Trouble]
-- [ ] [3255](https://www.beecrowd.com.br/judge/pt/problems/view/3255) - [Prime Time]
-- [ ] [3256](https://www.beecrowd.com.br/judge/pt/problems/view/3256) - [Enemy Division]
-- [ ] [3258](https://www.beecrowd.com.br/judge/pt/problems/view/3258) - [Boiling Vegetables]
-- [ ] [3267](https://www.beecrowd.com.br/judge/pt/problems/view/3267) - [Cliff Walk]
-- [ ] [3299](https://www.beecrowd.com.br/judge/pt/problems/view/3299) - [Small Unlucky Numbers]
-- [ ] [3301](https://www.beecrowd.com.br/judge/pt/problems/view/3301) - [Middle Nephew]
-- [ ] [3302](https://www.beecrowd.com.br/judge/pt/problems/view/3302) - [Correct Answer]
-- [ ] [3303](https://www.beecrowd.com.br/judge/pt/problems/view/3303) - [Big Word]
-- [ ] [3342](https://www.beecrowd.com.br/judge/pt/problems/view/3342) - [Keanu]
-- [ ] [3343](https://www.beecrowd.com.br/judge/pt/problems/view/3343) - [Attack On Gasparini]
-- [ ] [3344](https://www.beecrowd.com.br/judge/pt/problems/view/3344) - [Brute]
-- [ ] [3346](https://www.beecrowd.com.br/judge/pt/problems/view/3346) - [GDP Fluctuation]
-- [ ] [3348](https://www.beecrowd.com.br/judge/pt/problems/view/3348) - [Game of Spiders]
+- [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
+- [x] [1001](https://www.beecrowd.com.br/judge/en/problems/view/1001) - [Extremely Basic](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1001/code.js)
+- [x] [1002](https://www.beecrowd.com.br/judge/en/problems/view/1002) - [Area of a Circle](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1002/code.js)
+- [x] [1003](https://www.beecrowd.com.br/judge/en/problems/view/1003) - [Simple Sum](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1003/code.js)
+- [x] [1004](https://www.beecrowd.com.br/judge/en/problems/view/1004) - [Simple Product](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1004/code.js)
+- [x] [1005](https://www.beecrowd.com.br/judge/en/problems/view/1005) - [Average 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1005/code.js)
+- [x] [1006](https://www.beecrowd.com.br/judge/en/problems/view/1006) - [Average 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1006/code.js)
+- [x] [1007](https://www.beecrowd.com.br/judge/en/problems/view/1007) - [Difference](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1007/code.js)
+- [x] [1008](https://www.beecrowd.com.br/judge/en/problems/view/1008) - [Salary](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1008/code.js)
+- [x] [1009](https://www.beecrowd.com.br/judge/en/problems/view/1009) - [Salary with Bonus](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1009/code.js)
+- [x] [1010](https://www.beecrowd.com.br/judge/en/problems/view/1010) - [Simple Calculate](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1010/code.js)
+- [x] [1011](https://www.beecrowd.com.br/judge/en/problems/view/1011) - [Sphere](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1011/code.js)
+- [x] [1012](https://www.beecrowd.com.br/judge/en/problems/view/1012) - [Area](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1012/code.js)
+- [x] [1013](https://www.beecrowd.com.br/judge/en/problems/view/1013) - [The Greatest](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1013/code.js)
+- [x] [1014](https://www.beecrowd.com.br/judge/en/problems/view/1014) - [Consumption](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1014/code.js)
+- [x] [1015](https://www.beecrowd.com.br/judge/en/problems/view/1015) - [Distance Between Two Points](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1015/code.js)
+- [x] [1016](https://www.beecrowd.com.br/judge/en/problems/view/1016) - [Distance](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1016/code.js)
+- [x] [1017](https://www.beecrowd.com.br/judge/en/problems/view/1017) - [Fuel Spent](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1017/code.js)
+- [x] [1018](https://www.beecrowd.com.br/judge/en/problems/view/1018) - [Banknotes](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1018/code.js)
+- [x] [1019](https://www.beecrowd.com.br/judge/en/problems/view/1019) - [Time Conversion](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1019/code.js)
+- [x] [1020](https://www.beecrowd.com.br/judge/en/problems/view/1020) - [Age in Days](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1020/code.js)
+- [x] [1021](https://www.beecrowd.com.br/judge/en/problems/view/1021) - [Banknotes and Coins](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1021/code.js)
+- [x] [1035](https://www.beecrowd.com.br/judge/en/problems/view/1035) - [Selection Test 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1035/code.js)
+- [x] [1036](https://www.beecrowd.com.br/judge/en/problems/view/1036) - [Bhaskara's Formula](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1036/code.js)
+- [x] [1037](https://www.beecrowd.com.br/judge/en/problems/view/1037) - [Interval](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1037/code.js)
+- [x] [1038](https://www.beecrowd.com.br/judge/en/problems/view/1038) - [Snack](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1038/code.js)
+- [x] [1040](https://www.beecrowd.com.br/judge/en/problems/view/1040) - [Average 3](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1040/code.js)
+- [x] [1041](https://www.beecrowd.com.br/judge/en/problems/view/1041) - [Coordinates of a Point](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1041/code.js)
+- [x] [1042](https://www.beecrowd.com.br/judge/en/problems/view/1042) - [Simple Sort](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1042/code.js)
+- [x] [1043](https://www.beecrowd.com.br/judge/en/problems/view/1043) - [Triangle](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1043/code.js)
+- [x] [1044](https://www.beecrowd.com.br/judge/en/problems/view/1044) - [Multiples](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1044/code.js)
+- [x] [1045](https://www.beecrowd.com.br/judge/en/problems/view/1045) - [Triangle Types](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1045/code.js)
+- [x] [1046](https://www.beecrowd.com.br/judge/en/problems/view/1046) - [Game Time](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1046/code.js)
+- [x] [1047](https://www.beecrowd.com.br/judge/en/problems/view/1047) - [Game Time with Minutes](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1047/code.js)
+- [x] [1048](https://www.beecrowd.com.br/judge/en/problems/view/1048) - [Salary Increase](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1048/code.js)
+- [x] [1049](https://www.beecrowd.com.br/judge/en/problems/view/1049) - [Animal](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1049/code.js)
+- [x] [1050](https://www.beecrowd.com.br/judge/en/problems/view/1050) - [DDD](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1050/code.js)
+- [x] [1051](https://www.beecrowd.com.br/judge/en/problems/view/1051) - [Taxes](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1051/code.js)
+- [x] [1052](https://www.beecrowd.com.br/judge/en/problems/view/1052) - [Month](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1052/code.js)
+- [x] [1059](https://www.beecrowd.com.br/judge/en/problems/view/1059) - [Even Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1059/code.js)
+- [x] [1060](https://www.beecrowd.com.br/judge/en/problems/view/1060) - [Positive Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1060/code.js)
+- [x] [1061](https://www.beecrowd.com.br/judge/en/problems/view/1061) - [Event Time](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1061/code.js)
+- [x] [1064](https://www.beecrowd.com.br/judge/en/problems/view/1064) - [Positives and Average](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1064/code.js)
+- [x] [1065](https://www.beecrowd.com.br/judge/en/problems/view/1065) - [Even Between five Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1065/code.js)
+- [x] [1066](https://www.beecrowd.com.br/judge/en/problems/view/1066) - [Even, Odd, Positive and Negative](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1066/code.js)
+- [x] [1067](https://www.beecrowd.com.br/judge/en/problems/view/1067) - [Odd Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1067/code.js)
+- [x] [1070](https://www.beecrowd.com.br/judge/en/problems/view/1070) - [Six Odd Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1070/code.js)
+- [x] [1071](https://www.beecrowd.com.br/judge/en/problems/view/1071) - [Sum of Consecutive Odd Numbers I](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1071/code.js)
+- [x] [1072](https://www.beecrowd.com.br/judge/en/problems/view/1072) - [Interval 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1072/code.js)
+- [x] [1073](https://www.beecrowd.com.br/judge/en/problems/view/1073) - [Even Square](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1073/code.js)
+- [x] [1074](https://www.beecrowd.com.br/judge/en/problems/view/1074) - [Even or Odd](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1074/code.js)
+- [x] [1075](https://www.beecrowd.com.br/judge/en/problems/view/1075) - [Remaining 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1075/code.js)
+- [x] [1078](https://www.beecrowd.com.br/judge/en/problems/view/1078) - [Multiplication Table](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1078/code.js)
+- [x] [1079](https://www.beecrowd.com.br/judge/en/problems/view/1079) - [Weighted Averages](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1079/code.js)
+- [x] [1080](https://www.beecrowd.com.br/judge/en/problems/view/1080) - [Highest and Position](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1080/code.js)
+- [x] [1094](https://www.beecrowd.com.br/judge/en/problems/view/1094) - [Experiments](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1094/code.js)
+- [x] [1095](https://www.beecrowd.com.br/judge/en/problems/view/1095) - [Sequence IJ 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1095/code.js)
+- [x] [1096](https://www.beecrowd.com.br/judge/en/problems/view/1096) - [Sequence IJ 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1096/code.js)
+- [x] [1097](https://www.beecrowd.com.br/judge/en/problems/view/1097) - [Sequence IJ 3](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1097/code.js)
+- [x] [1098](https://www.beecrowd.com.br/judge/en/problems/view/1098) - [Sequence IJ 4](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1098/code.js)
+- [x] [1099](https://www.beecrowd.com.br/judge/en/problems/view/1099) - [Sum of Consecutive Odd Numbers II](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1099/code.js)
+- [x] [1101](https://www.beecrowd.com.br/judge/en/problems/view/1101) - [Sequence of Numbers and Sum](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1101/code.js)
+- [x] [1113](https://www.beecrowd.com.br/judge/en/problems/view/1113) - [Ascending and Descending](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1113/code.js)
+- [x] [1114](https://www.beecrowd.com.br/judge/en/problems/view/1114) - [Fixed Password](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1114/code.js)
+- [x] [1115](https://www.beecrowd.com.br/judge/en/problems/view/1115) - [Quadrant](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1115/code.js)
+- [x] [1116](https://www.beecrowd.com.br/judge/en/problems/view/1116) - [Dividing X by Y](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1116/code.js)
+- [x] [1117](https://www.beecrowd.com.br/judge/en/problems/view/1117) - [Score Validation](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1117/code.js)
+- [ ] [1118](https://www.beecrowd.com.br/judge/en/problems/view/1118) - [Several Scores with Validation]
+- [ ] [1131](https://www.beecrowd.com.br/judge/en/problems/view/1131) - [Grenais]
+- [x] [1132](https://www.beecrowd.com.br/judge/en/problems/view/1132) - [Multiples of 13](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1132/code.js)
+- [x] [1133](https://www.beecrowd.com.br/judge/en/problems/view/1133) - [Rest of a Division](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1133/code.js)
+- [x] [1134](https://www.beecrowd.com.br/judge/en/problems/view/1134) - [Type of Fuel](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1134/code.js)
+- [x] [1142](https://www.beecrowd.com.br/judge/en/problems/view/1142) - [PUM](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1142/code.js)
+- [ ] [1143](https://www.beecrowd.com.br/judge/en/problems/view/1143) - [Squared and Cubic]
+- [ ] [1144](https://www.beecrowd.com.br/judge/en/problems/view/1144) - [Logical Sequence]
+- [ ] [1145](https://www.beecrowd.com.br/judge/en/problems/view/1145) - [Logical Sequence 2]
+- [ ] [1146](https://www.beecrowd.com.br/judge/en/problems/view/1146) - [Growing Sequences]
+- [ ] [1149](https://www.beecrowd.com.br/judge/en/problems/view/1149) - [Summing Consecutive Integers]
+- [ ] [1150](https://www.beecrowd.com.br/judge/en/problems/view/1150) - [Exceeding Z]
+- [ ] [1151](https://www.beecrowd.com.br/judge/en/problems/view/1151) - [Easy Fibonacci]
+- [ ] [1153](https://www.beecrowd.com.br/judge/en/problems/view/1153) - [Simple Factorial]
+- [ ] [1154](https://www.beecrowd.com.br/judge/en/problems/view/1154) - [Ages]
+- [ ] [1155](https://www.beecrowd.com.br/judge/en/problems/view/1155) - [S Sequence]
+- [ ] [1156](https://www.beecrowd.com.br/judge/en/problems/view/1156) - [S Sequence II]
+- [ ] [1157](https://www.beecrowd.com.br/judge/en/problems/view/1157) - [Divisors I]
+- [ ] [1158](https://www.beecrowd.com.br/judge/en/problems/view/1158) - [Sum of Consecutive Odd Numbers III]
+- [ ] [1159](https://www.beecrowd.com.br/judge/en/problems/view/1159) - [Sum of Consecutive Even Numbers]
+- [ ] [1160](https://www.beecrowd.com.br/judge/en/problems/view/1160) - [Population Increase]
+- [ ] [1164](https://www.beecrowd.com.br/judge/en/problems/view/1164) - [Perfect Number]
+- [ ] [1165](https://www.beecrowd.com.br/judge/en/problems/view/1165) - [Prime Number]
+- [ ] [1172](https://www.beecrowd.com.br/judge/en/problems/view/1172) - [Array Replacement I]
+- [ ] [1173](https://www.beecrowd.com.br/judge/en/problems/view/1173) - [Array fill I]
+- [ ] [1174](https://www.beecrowd.com.br/judge/en/problems/view/1174) - [Array Selection I]
+- [ ] [1175](https://www.beecrowd.com.br/judge/en/problems/view/1175) - [Array change I]
+- [ ] [1176](https://www.beecrowd.com.br/judge/en/problems/view/1176) - [Fibonacci Array]
+- [ ] [1177](https://www.beecrowd.com.br/judge/en/problems/view/1177) - [Array Fill II]
+- [ ] [1178](https://www.beecrowd.com.br/judge/en/problems/view/1178) - [Array Fill III]
+- [ ] [1179](https://www.beecrowd.com.br/judge/en/problems/view/1179) - [Array Fill IV]
+- [ ] [1180](https://www.beecrowd.com.br/judge/en/problems/view/1180) - [Lowest Number and Position]
+- [ ] [1181](https://www.beecrowd.com.br/judge/en/problems/view/1181) - [Line in Array]
+- [ ] [1182](https://www.beecrowd.com.br/judge/en/problems/view/1182) - [Column in Array]
+- [ ] [1183](https://www.beecrowd.com.br/judge/en/problems/view/1183) - [Above the Main Diagonal]
+- [ ] [1184](https://www.beecrowd.com.br/judge/en/problems/view/1184) - [Below the Main Diagonal]
+- [ ] [1185](https://www.beecrowd.com.br/judge/en/problems/view/1185) - [Above the Secundary Diagonal]
+- [ ] [1186](https://www.beecrowd.com.br/judge/en/problems/view/1186) - [Below the Secundary Diagonal]
+- [ ] [1187](https://www.beecrowd.com.br/judge/en/problems/view/1187) - [Top Area]
+- [ ] [1188](https://www.beecrowd.com.br/judge/en/problems/view/1188) - [Inferior Area]
+- [ ] [1189](https://www.beecrowd.com.br/judge/en/problems/view/1189) - [Left Area]
+- [ ] [1190](https://www.beecrowd.com.br/judge/en/problems/view/1190) - [Right Area]
+- [ ] [1435](https://www.beecrowd.com.br/judge/en/problems/view/1435) - [Square Matrix I]
+- [ ] [1478](https://www.beecrowd.com.br/judge/en/problems/view/1478) - [Square Matrix II]
+- [ ] [1534](https://www.beecrowd.com.br/judge/en/problems/view/1534) - [Array 123]
+- [ ] [1541](https://www.beecrowd.com.br/judge/en/problems/view/1541) - [Building Houses]
+- [ ] [1557](https://www.beecrowd.com.br/judge/en/problems/view/1557) - [Square Matrix III]
+- [ ] [1564](https://www.beecrowd.com.br/judge/en/problems/view/1564) - [Brazil World Cup]
+- [ ] [1589](https://www.beecrowd.com.br/judge/en/problems/view/1589) - [Bob Conduit]
+- [ ] [1759](https://www.beecrowd.com.br/judge/en/problems/view/1759) - [Ho Ho Ho]
+- [ ] [1789](https://www.beecrowd.com.br/judge/en/problems/view/1789) - [The Race of Slugs]
+- [ ] [1827](https://www.beecrowd.com.br/judge/en/problems/view/1827) - [Square Array IV]
+- [ ] [1828](https://www.beecrowd.com.br/judge/en/problems/view/1828) - [Bazinga!]
+- [ ] [1837](https://www.beecrowd.com.br/judge/en/problems/view/1837) - [Preface]
+- [ ] [1847](https://www.beecrowd.com.br/judge/en/problems/view/1847) - [Welcome to the Winter!]
+- [ ] [1848](https://www.beecrowd.com.br/judge/en/problems/view/1848) - [Counting Crow]
+- [ ] [1858](https://www.beecrowd.com.br/judge/en/problems/view/1858) - [Theon's Answer]
+- [ ] [1864](https://www.beecrowd.com.br/judge/en/problems/view/1864) - [Our Days Are Never Coming Back]
+- [ ] [1865](https://www.beecrowd.com.br/judge/en/problems/view/1865) - [Mjölnir]
+- [ ] [1866](https://www.beecrowd.com.br/judge/en/problems/view/1866) - [Bill]
+- [ ] [1914](https://www.beecrowd.com.br/judge/en/problems/view/1914) - [Whose Turn Is It?]
+- [ ] [1924](https://www.beecrowd.com.br/judge/en/problems/view/1924) - [Vitória and Her Indecision]
+- [ ] [1929](https://www.beecrowd.com.br/judge/en/problems/view/1929) - [Triangle]
+- [ ] [1930](https://www.beecrowd.com.br/judge/en/problems/view/1930) - [Electrical Outlet]
+- [ ] [1933](https://www.beecrowd.com.br/judge/en/problems/view/1933) - [Tri-du]
+- [ ] [1957](https://www.beecrowd.com.br/judge/en/problems/view/1957) - [Converting to Hexadecimal]
+- [ ] [1958](https://www.beecrowd.com.br/judge/en/problems/view/1958) - [Scientific Notation]
+- [ ] [1959](https://www.beecrowd.com.br/judge/en/problems/view/1959) - [Regular Simple Polygons]
+- [ ] [1960](https://www.beecrowd.com.br/judge/en/problems/view/1960) - [Roman Numerals for Page Numbers]
+- [ ] [1961](https://www.beecrowd.com.br/judge/en/problems/view/1961) - [Jumping Frog]
+- [ ] [1962](https://www.beecrowd.com.br/judge/en/problems/view/1962) - [A Long, Long Time Ago]
+- [ ] [1963](https://www.beecrowd.com.br/judge/en/problems/view/1963) - [The Motion Picture]
+- [ ] [1973](https://www.beecrowd.com.br/judge/en/problems/view/1973) - [Star Trek]
+- [ ] [1983](https://www.beecrowd.com.br/judge/en/problems/view/1983) - [The Chosen]
+- [ ] [1984](https://www.beecrowd.com.br/judge/en/problems/view/1984) - [The Pronalância Puzzle]
+- [ ] [1985](https://www.beecrowd.com.br/judge/en/problems/view/1985) - [MacPRONALTS]
+- [ ] [2003](https://www.beecrowd.com.br/judge/en/problems/view/2003) - [Sunday Morning]
+- [ ] [2006](https://www.beecrowd.com.br/judge/en/problems/view/2006) - [Identifying Tea]
+- [ ] [2028](https://www.beecrowd.com.br/judge/en/problems/view/2028) - [Sequence of Sequence]
+- [ ] [2029](https://www.beecrowd.com.br/judge/en/problems/view/2029) - [Honey Reservoir]
+- [ ] [2031](https://www.beecrowd.com.br/judge/en/problems/view/2031) - [Rock, Paper, Airstrike]
+- [ ] [2057](https://www.beecrowd.com.br/judge/en/problems/view/2057) - [Time Zone]
+- [ ] [2059](https://www.beecrowd.com.br/judge/en/problems/view/2059) - [Odd, Even or Cheating]
+- [ ] [2060](https://www.beecrowd.com.br/judge/en/problems/view/2060) - [Bino's Challenge]
+- [ ] [2061](https://www.beecrowd.com.br/judge/en/problems/view/2061) - [Closing Tabs]
+- [ ] [2126](https://www.beecrowd.com.br/judge/en/problems/view/2126) - [Searching Subsequences]
+- [ ] [2139](https://www.beecrowd.com.br/judge/en/problems/view/2139) - [Pedrinho's Christmas]
+- [ ] [2140](https://www.beecrowd.com.br/judge/en/problems/view/2140) - [Two Bills]
+- [ ] [2143](https://www.beecrowd.com.br/judge/en/problems/view/2143) - [The Return of Radar]
+- [ ] [2146](https://www.beecrowd.com.br/judge/en/problems/view/2146) - [Password]
+- [ ] [2147](https://www.beecrowd.com.br/judge/en/problems/view/2147) - [Galopeira]
+- [x] [2152](https://www.beecrowd.com.br/judge/en/problems/view/2152) - [Pepe, I Already Took the Candle!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2152/code.js)
+- [ ] [2159](https://www.beecrowd.com.br/judge/en/problems/view/2159) - [Approximate Number of Primes]
+- [ ] [2160](https://www.beecrowd.com.br/judge/en/problems/view/2160) - [Name at Form]
+- [ ] [2161](https://www.beecrowd.com.br/judge/en/problems/view/2161) - [Square Root of 10]
+- [ ] [2162](https://www.beecrowd.com.br/judge/en/problems/view/2162) - [Peaks and Valleys]
+- [ ] [2163](https://www.beecrowd.com.br/judge/en/problems/view/2163) - [The Force Awakens]
+- [ ] [2164](https://www.beecrowd.com.br/judge/en/problems/view/2164) - [Fast Fibonacci]
+- [ ] [2165](https://www.beecrowd.com.br/judge/en/problems/view/2165) - [Twitting]
+- [ ] [2166](https://www.beecrowd.com.br/judge/en/problems/view/2166) - [Square Root of 2]
+- [ ] [2167](https://www.beecrowd.com.br/judge/en/problems/view/2167) - [Engine Failure]
+- [ ] [2168](https://www.beecrowd.com.br/judge/en/problems/view/2168) - [Twilight at Portland]
+- [ ] [2172](https://www.beecrowd.com.br/judge/en/problems/view/2172) - [Event]
+- [ ] [2176](https://www.beecrowd.com.br/judge/en/problems/view/2176) - [Parity]
+- [ ] [2203](https://www.beecrowd.com.br/judge/en/problems/view/2203) - [Crowstorm]
+- [ ] [2221](https://www.beecrowd.com.br/judge/en/problems/view/2221) - [Pomekons Battle]
+- [ ] [2234](https://www.beecrowd.com.br/judge/en/problems/view/2234) - [Hot Dogs]
+- [ ] [2235](https://www.beecrowd.com.br/judge/en/problems/view/2235) - [Walking in Time]
+- [ ] [2310](https://www.beecrowd.com.br/judge/en/problems/view/2310) - [Volleyball]
+- [ ] [2311](https://www.beecrowd.com.br/judge/en/problems/view/2311) - [Diving]
+- [ ] [2313](https://www.beecrowd.com.br/judge/en/problems/view/2313) - [Which Triangle]
+- [ ] [2334](https://www.beecrowd.com.br/judge/en/problems/view/2334) - [Little Ducks]
+- [ ] [2344](https://www.beecrowd.com.br/judge/en/problems/view/2344) - [Notas da Prova]
+- [ ] [2483](https://www.beecrowd.com.br/judge/en/problems/view/2483) - [Merry Christmaaas!]
+- [ ] [2486](https://www.beecrowd.com.br/judge/en/problems/view/2486) - [C Mais ou Menos?]
+- [ ] [2493](https://www.beecrowd.com.br/judge/en/problems/view/2493) - [Jogo do Operador]
+- [ ] [2502](https://www.beecrowd.com.br/judge/en/problems/view/2502) - [Deciphering the Encrypted Card]
+- [ ] [2510](https://www.beecrowd.com.br/judge/en/problems/view/2510) - [Batmain]
+- [ ] [2520](https://www.beecrowd.com.br/judge/en/problems/view/2520) - [The Last Analógimôn]
+- [ ] [2523](https://www.beecrowd.com.br/judge/en/problems/view/2523) - [Will's Message]
+- [ ] [2533](https://www.beecrowd.com.br/judge/en/problems/view/2533) - [Internship]
+- [ ] [2534](https://www.beecrowd.com.br/judge/en/problems/view/2534) - [General Exam]
+- [ ] [2540](https://www.beecrowd.com.br/judge/en/problems/view/2540) - [Leader's Impeachment]
+- [ ] [2542](https://www.beecrowd.com.br/judge/en/problems/view/2542) - [Iu-Di-Oh!]
+- [ ] [2543](https://www.beecrowd.com.br/judge/en/problems/view/2543) - [UFPR Gaming]
+- [ ] [2544](https://www.beecrowd.com.br/judge/en/problems/view/2544) - [Kage Bunshin no Jutsu]
+- [ ] [2547](https://www.beecrowd.com.br/judge/en/problems/view/2547) - [Roller Coaster]
+- [ ] [2551](https://www.beecrowd.com.br/judge/en/problems/view/2551) - [New Record]
+- [ ] [2552](https://www.beecrowd.com.br/judge/en/problems/view/2552) - [CheeseBreadSweeper]
+- [ ] [2554](https://www.beecrowd.com.br/judge/en/problems/view/2554) - [Pizza Before BH]
+- [ ] [2581](https://www.beecrowd.com.br/judge/en/problems/view/2581) - [I am Toorg!]
+- [ ] [2582](https://www.beecrowd.com.br/judge/en/problems/view/2582) - [System of a Download]
+- [ ] [2626](https://www.beecrowd.com.br/judge/en/problems/view/2626) - [JB6 Team]
+- [ ] [2630](https://www.beecrowd.com.br/judge/en/problems/view/2630) - [Greyscale]
+- [ ] [2632](https://www.beecrowd.com.br/judge/en/problems/view/2632) - [Magic and Sword]
+- [ ] [2635](https://www.beecrowd.com.br/judge/en/problems/view/2635) - [Web Browser]
+- [ ] [2653](https://www.beecrowd.com.br/judge/en/problems/view/2653) - [Dijkstra]
+- [ ] [2663](https://www.beecrowd.com.br/judge/en/problems/view/2663) - [Fase]
+- [ ] [2670](https://www.beecrowd.com.br/judge/en/problems/view/2670) - [Máquina de Café]
+- [ ] [2685](https://www.beecrowd.com.br/judge/en/problems/view/2685) - [The Change]
+- [ ] [2686](https://www.beecrowd.com.br/judge/en/problems/view/2686) - [The Change Continues!!]
+- [ ] [2702](https://www.beecrowd.com.br/judge/en/problems/view/2702) - [Hard Choice]
+- [ ] [2708](https://www.beecrowd.com.br/judge/en/problems/view/2708) - [Tourists in the Huacachina Park]
+- [ ] [2709](https://www.beecrowd.com.br/judge/en/problems/view/2709) - [The Coins of Robbie]
+- [ ] [2712](https://www.beecrowd.com.br/judge/en/problems/view/2712) - [Vehicular Restriction]
+- [ ] [2715](https://www.beecrowd.com.br/judge/en/problems/view/2715) - [Splitting Assignments I]
+- [ ] [2717](https://www.beecrowd.com.br/judge/en/problems/view/2717) - [Elf Time]
+- [ ] [2718](https://www.beecrowd.com.br/judge/en/problems/view/2718) - [Christmas Lights]
+- [ ] [2721](https://www.beecrowd.com.br/judge/en/problems/view/2721) - [Indecision of Reindeers]
+- [ ] [2724](https://www.beecrowd.com.br/judge/en/problems/view/2724) - [Help Patatatitu]
+- [ ] [2727](https://www.beecrowd.com.br/judge/en/problems/view/2727) - [Secret Code]
+- [ ] [2747](https://www.beecrowd.com.br/judge/en/problems/view/2747) - [Output 1]
+- [ ] [2748](https://www.beecrowd.com.br/judge/en/problems/view/2748) - [Output 2]
+- [ ] [2749](https://www.beecrowd.com.br/judge/en/problems/view/2749) - [Output 3]
+- [ ] [2750](https://www.beecrowd.com.br/judge/en/problems/view/2750) - [Output 4]
+- [ ] [2752](https://www.beecrowd.com.br/judge/en/problems/view/2752) - [Output 6]
+- [ ] [2753](https://www.beecrowd.com.br/judge/en/problems/view/2753) - [Output 7]
+- [ ] [2754](https://www.beecrowd.com.br/judge/en/problems/view/2754) - [Output 8]
+- [ ] [2755](https://www.beecrowd.com.br/judge/en/problems/view/2755) - [Output 9]
+- [ ] [2756](https://www.beecrowd.com.br/judge/en/problems/view/2756) - [Output 10]
+- [ ] [2757](https://www.beecrowd.com.br/judge/en/problems/view/2757) - [Input and Output of Integers]
+- [ ] [2758](https://www.beecrowd.com.br/judge/en/problems/view/2758) - [Floating Number Input and Output]
+- [ ] [2759](https://www.beecrowd.com.br/judge/en/problems/view/2759) - [Input and Output Character]
+- [ ] [2760](https://www.beecrowd.com.br/judge/en/problems/view/2760) - [String Input and Output]
+- [ ] [2761](https://www.beecrowd.com.br/judge/en/problems/view/2761) - [Input and Output of Various Types]
+- [ ] [2762](https://www.beecrowd.com.br/judge/en/problems/view/2762) - [Input and Output 6]
+- [ ] [2763](https://www.beecrowd.com.br/judge/en/problems/view/2763) - [CPF Input and Output]
+- [ ] [2764](https://www.beecrowd.com.br/judge/en/problems/view/2764) - [Date Input and Output]
+- [ ] [2765](https://www.beecrowd.com.br/judge/en/problems/view/2765) - [Coming Input and Output]
+- [ ] [2766](https://www.beecrowd.com.br/judge/en/problems/view/2766) - [Input and Output Reading and Skipping Names]
+- [ ] [2769](https://www.beecrowd.com.br/judge/en/problems/view/2769) - [Assembly Line]
+- [ ] [2770](https://www.beecrowd.com.br/judge/en/problems/view/2770) - [Board Size]
+- [ ] [2774](https://www.beecrowd.com.br/judge/en/problems/view/2774) - [Sensor Accuracy]
+- [ ] [2775](https://www.beecrowd.com.br/judge/en/problems/view/2775) - [Preparing Production]
+- [ ] [2779](https://www.beecrowd.com.br/judge/en/problems/view/2779) - [Album of the Cup]
+- [ ] [2780](https://www.beecrowd.com.br/judge/en/problems/view/2780) - [Robot Basketball]
+- [x] [2782](https://www.beecrowd.com.br/judge/en/problems/view/2782) - [Stepladder](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2700-2799]/2782/code.js)
+- [ ] [2783](https://www.beecrowd.com.br/judge/en/problems/view/2783) - [Cup Stickers]
+- [ ] [2785](https://www.beecrowd.com.br/judge/en/problems/view/2785) - [Pyramid]
+- [ ] [2786](https://www.beecrowd.com.br/judge/en/problems/view/2786) - [School Floor]
+- [ ] [2787](https://www.beecrowd.com.br/judge/en/problems/view/2787) - [Chess]
+- [ ] [2791](https://www.beecrowd.com.br/judge/en/problems/view/2791) - [Bean]
+- [ ] [2802](https://www.beecrowd.com.br/judge/en/problems/view/2802) - [Dividing Circles]
+- [ ] [2807](https://www.beecrowd.com.br/judge/en/problems/view/2807) - [Iccanobif]
+- [ ] [2808](https://www.beecrowd.com.br/judge/en/problems/view/2808) - [Knights Again]
+- [ ] [2812](https://www.beecrowd.com.br/judge/en/problems/view/2812) - [Laércio]
+- [ ] [2813](https://www.beecrowd.com.br/judge/en/problems/view/2813) - [Avoiding Rain]
+- [ ] [2823](https://www.beecrowd.com.br/judge/en/problems/view/2823) - [Eearliest Deadline First]
+- [ ] [2826](https://www.beecrowd.com.br/judge/en/problems/view/2826) - [Lexical]
+- [ ] [2845](https://www.beecrowd.com.br/judge/en/problems/view/2845) - [Party at the North Pole]
+- [ ] [2846](https://www.beecrowd.com.br/judge/en/problems/view/2846) - [Fibonot]
+- [ ] [2850](https://www.beecrowd.com.br/judge/en/problems/view/2850) - [Polyglot Parrot]
+- [ ] [2852](https://www.beecrowd.com.br/judge/en/problems/view/2852) - [Messaging]
+- [ ] [2861](https://www.beecrowd.com.br/judge/en/problems/view/2861) - [The Output]
+- [ ] [2862](https://www.beecrowd.com.br/judge/en/problems/view/2862) - [Insect!]
+- [ ] [2863](https://www.beecrowd.com.br/judge/en/problems/view/2863) - [Umil Bolt]
+- [ ] [2867](https://www.beecrowd.com.br/judge/en/problems/view/2867) - [Digits]
+- [ ] [2879](https://www.beecrowd.com.br/judge/en/problems/view/2879) - [Desvendando Monty Hall]
+- [ ] [2896](https://www.beecrowd.com.br/judge/en/problems/view/2896) - [Enjoy the Offer]
+- [ ] [2930](https://www.beecrowd.com.br/judge/en/problems/view/2930) - [Final Thesis of Christmas Depression]
+- [ ] [2936](https://www.beecrowd.com.br/judge/en/problems/view/2936) - [How Much Cassava?]
+- [ ] [2949](https://www.beecrowd.com.br/judge/en/problems/view/2949) - [The Fellowship of the Ring]
+- [ ] [2950](https://www.beecrowd.com.br/judge/en/problems/view/2950) - [The Two Towers]
+- [ ] [2951](https://www.beecrowd.com.br/judge/en/problems/view/2951) - [The Return of The King]
+- [ ] [2963](https://www.beecrowd.com.br/judge/en/problems/view/2963) - [Buffoon]
+- [ ] [2968](https://www.beecrowd.com.br/judge/en/problems/view/2968) - [Hour for a Run]
+- [ ] [2982](https://www.beecrowd.com.br/judge/en/problems/view/2982) - [The Strike Stops or Continues?]
+- [ ] [2987](https://www.beecrowd.com.br/judge/en/problems/view/2987) - [Balloon of Honor]
+- [ ] [3037](https://www.beecrowd.com.br/judge/en/problems/view/3037) - [Playing Darts by Distance]
+- [ ] [3039](https://www.beecrowd.com.br/judge/en/problems/view/3039) - [Santa's Toys]
+- [ ] [3040](https://www.beecrowd.com.br/judge/en/problems/view/3040) - [The Christmas Tree]
+- [ ] [3042](https://www.beecrowd.com.br/judge/en/problems/view/3042) - [Deflecting from Christmas Trees]
+- [ ] [3046](https://www.beecrowd.com.br/judge/en/problems/view/3046) - [Dominó]
+- [ ] [3047](https://www.beecrowd.com.br/judge/en/problems/view/3047) - [A idade de Dona Mônica]
+- [ ] [3053](https://www.beecrowd.com.br/judge/en/problems/view/3053) - [Jogo Dos Copos]
+- [ ] [3055](https://www.beecrowd.com.br/judge/en/problems/view/3055) - [Nota Esquecida]
+- [ ] [3065](https://www.beecrowd.com.br/judge/en/problems/view/3065) - [Calculando]
+- [ ] [3068](https://www.beecrowd.com.br/judge/en/problems/view/3068) - [Meteoros]
+- [ ] [3076](https://www.beecrowd.com.br/judge/en/problems/view/3076) - [History Exercise]
+- [ ] [3084](https://www.beecrowd.com.br/judge/en/problems/view/3084) - [Old Clock]
+- [ ] [3089](https://www.beecrowd.com.br/judge/en/problems/view/3089) - [Christmas Gifts]
+- [ ] [3091](https://www.beecrowd.com.br/judge/en/problems/view/3091) - [Rest 1.0]
+- [ ] [3140](https://www.beecrowd.com.br/judge/en/problems/view/3140) - [Copying and Pasting Code]
+- [ ] [3142](https://www.beecrowd.com.br/judge/en/problems/view/3142) - [Excel Bug]
+- [ ] [3145](https://www.beecrowd.com.br/judge/en/problems/view/3145) - [An unexpected Journey]
+- [ ] [3146](https://www.beecrowd.com.br/judge/en/problems/view/3146) - [Riddles in the Dark]
+- [ ] [3147](https://www.beecrowd.com.br/judge/en/problems/view/3147) - [The Battle of the Five Armies]
+- [ ] [3157](https://www.beecrowd.com.br/judge/en/problems/view/3157) - [Long Live Science!]
+- [ ] [3161](https://www.beecrowd.com.br/judge/en/problems/view/3161) - [The Forgotten Fruits]
+- [ ] [3162](https://www.beecrowd.com.br/judge/en/problems/view/3162) - [Space Communication]
+- [ ] [3164](https://www.beecrowd.com.br/judge/en/problems/view/3164) - [Inspection on Company]
+- [ ] [3166](https://www.beecrowd.com.br/judge/en/problems/view/3166) - [Finding Words on Main Diagonal]
+- [ ] [3167](https://www.beecrowd.com.br/judge/en/problems/view/3167) - [Finding Words on Secondary Diagonal]
+- [ ] [3170](https://www.beecrowd.com.br/judge/en/problems/view/3170) - [Christmas Balls]
+- [ ] [3173](https://www.beecrowd.com.br/judge/en/problems/view/3173) - [Christmas Star]
+- [ ] [3174](https://www.beecrowd.com.br/judge/en/problems/view/3174) - [Noel's Work Groups]
+- [ ] [3181](https://www.beecrowd.com.br/judge/en/problems/view/3181) - [Dinner]
+- [ ] [3204](https://www.beecrowd.com.br/judge/en/problems/view/3204) - [Honeycomb Walk]
+- [ ] [3208](https://www.beecrowd.com.br/judge/en/problems/view/3208) - [The Embarrassed Cryptographer]
+- [ ] [3209](https://www.beecrowd.com.br/judge/en/problems/view/3209) - [Electrical Outlets]
+- [ ] [3214](https://www.beecrowd.com.br/judge/en/problems/view/3214) - [Soda Surpler]
+- [ ] [3217](https://www.beecrowd.com.br/judge/en/problems/view/3217) - [Rain Fall]
+- [ ] [3224](https://www.beecrowd.com.br/judge/en/problems/view/3224) - [Aaah!]
+- [ ] [3229](https://www.beecrowd.com.br/judge/en/problems/view/3229) - [Food Review]
+- [ ] [3230](https://www.beecrowd.com.br/judge/en/problems/view/3230) - [Galactic Warlords]
+- [ ] [3231](https://www.beecrowd.com.br/judge/en/problems/view/3231) - [Horror List]
+- [ ] [3232](https://www.beecrowd.com.br/judge/en/problems/view/3232) - [Infiltration]
+- [ ] [3233](https://www.beecrowd.com.br/judge/en/problems/view/3233) - [Juice]
+- [ ] [3234](https://www.beecrowd.com.br/judge/en/problems/view/3234) - [Kindergarten]
+- [ ] [3235](https://www.beecrowd.com.br/judge/en/problems/view/3235) - [Luggage]
+- [ ] [3241](https://www.beecrowd.com.br/judge/en/problems/view/3241) - [Help a PhD Candidate Out!]
+- [ ] [3249](https://www.beecrowd.com.br/judge/en/problems/view/3249) - [Death Knight Hero]
+- [ ] [3250](https://www.beecrowd.com.br/judge/en/problems/view/3250) - [Elevator Trouble]
+- [ ] [3252](https://www.beecrowd.com.br/judge/en/problems/view/3252) - [Knigs of the Forest]
+- [ ] [3253](https://www.beecrowd.com.br/judge/en/problems/view/3253) - [Car Trouble]
+- [ ] [3255](https://www.beecrowd.com.br/judge/en/problems/view/3255) - [Prime Time]
+- [ ] [3256](https://www.beecrowd.com.br/judge/en/problems/view/3256) - [Enemy Division]
+- [ ] [3258](https://www.beecrowd.com.br/judge/en/problems/view/3258) - [Boiling Vegetables]
+- [ ] [3267](https://www.beecrowd.com.br/judge/en/problems/view/3267) - [Cliff Walk]
+- [ ] [3299](https://www.beecrowd.com.br/judge/en/problems/view/3299) - [Small Unlucky Numbers]
+- [ ] [3301](https://www.beecrowd.com.br/judge/en/problems/view/3301) - [Middle Nephew]
+- [ ] [3302](https://www.beecrowd.com.br/judge/en/problems/view/3302) - [Correct Answer]
+- [ ] [3303](https://www.beecrowd.com.br/judge/en/problems/view/3303) - [Big Word]
+- [ ] [3342](https://www.beecrowd.com.br/judge/en/problems/view/3342) - [Keanu]
+- [ ] [3343](https://www.beecrowd.com.br/judge/en/problems/view/3343) - [Attack On Gasparini]
+- [ ] [3344](https://www.beecrowd.com.br/judge/en/problems/view/3344) - [Brute]
+- [ ] [3346](https://www.beecrowd.com.br/judge/en/problems/view/3346) - [GDP Fluctuation]
+- [ ] [3348](https://www.beecrowd.com.br/judge/en/problems/view/3348) - [Game of Spiders]

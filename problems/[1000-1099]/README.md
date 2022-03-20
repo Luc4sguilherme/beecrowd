@@ -1,103 +1,103 @@
 # Problems 1000 (62 %)
 
 
-- [x] [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js) *Beginner*
-- [x] [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - [Extremely Basic](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1001/code.js) *Beginner*
-- [x] [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) - [Area of a Circle](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1002/code.js) *Beginner*
-- [x] [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) - [Simple Sum](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1003/code.js) *Beginner*
-- [x] [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) - [Simple Product](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1004/code.js) *Beginner*
-- [x] [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) - [Average 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1005/code.js) *Beginner*
-- [x] [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) - [Average 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1006/code.js) *Beginner*
-- [x] [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) - [Difference](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1007/code.js) *Beginner*
-- [x] [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - [Salary](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1008/code.js) *Beginner*
-- [x] [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) - [Salary with Bonus](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1009/code.js) *Beginner*
-- [x] [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) - [Simple Calculate](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1010/code.js) *Beginner*
-- [x] [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) - [Sphere](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1011/code.js) *Beginner*
-- [x] [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) - [Area](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1012/code.js) *Beginner*
-- [x] [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - [The Greatest](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1013/code.js) *Beginner*
-- [x] [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - [Consumption](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1014/code.js) *Beginner*
-- [x] [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - [Distance Between Two Points](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1015/code.js) *Beginner*
-- [x] [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - [Distance](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1016/code.js) *Beginner*
-- [x] [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - [Fuel Spent](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1017/code.js) *Beginner*
-- [x] [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - [Banknotes](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1018/code.js) *Beginner*
-- [x] [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - [Time Conversion](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1019/code.js) *Beginner*
-- [x] [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - [Age in Days](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1020/code.js) *Beginner*
-- [x] [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) - [Banknotes and Coins](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1021/code.js) *Beginner*
-- [x] [1022](https://www.beecrowd.com.br/judge/pt/problems/view/1022) - [TDA Rational](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1022/code.js) *Data Structures and Libraries*
-- [ ] [1023](https://www.beecrowd.com.br/judge/pt/problems/view/1023) - [Drought] *Data Structures and Libraries*
-- [ ] [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - [Encryption] *Strings*
-- [ ] [1025](https://www.beecrowd.com.br/judge/pt/problems/view/1025) - [Where is the Marble?] *Data Structures and Libraries*
-- [ ] [1026](https://www.beecrowd.com.br/judge/pt/problems/view/1026) - [To Carry or not to Carry] *Ad-Hoc*
-- [ ] [1027](https://www.beecrowd.com.br/judge/pt/problems/view/1027) - [Critical Wave] *Paradigms*
-- [ ] [1028](https://www.beecrowd.com.br/judge/pt/problems/view/1028) - [Collectable Cards] *Mathematics*
-- [ ] [1029](https://www.beecrowd.com.br/judge/pt/problems/view/1029) - [Fibonacci, How Many Calls?] *Paradigms*
-- [ ] [1030](https://www.beecrowd.com.br/judge/pt/problems/view/1030) - [Flavious Josephus Legend] *Ad-Hoc*
-- [ ] [1031](https://www.beecrowd.com.br/judge/pt/problems/view/1031) - [Power Crisis] *Ad-Hoc*
-- [ ] [1032](https://www.beecrowd.com.br/judge/pt/problems/view/1032) - [Joseph’s Cousin] *Ad-Hoc*
-- [ ] [1033](https://www.beecrowd.com.br/judge/pt/problems/view/1033) - [How Many Calls?] *Paradigms*
-- [ ] [1034](https://www.beecrowd.com.br/judge/pt/problems/view/1034) - [Ice Statues Festival] *Paradigms*
-- [x] [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - [Selection Test 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1035/code.js) *Beginner*
-- [x] [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - [Bhaskara's Formula](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1036/code.js) *Beginner*
-- [x] [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) - [Interval](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1037/code.js) *Beginner*
-- [x] [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - [Snack](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1038/code.js) *Beginner*
-- [ ] [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) - [Fire Flowers] *Computational Geometry*
-- [x] [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) - [Average 3](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1040/code.js) *Beginner*
-- [x] [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) - [Coordinates of a Point](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1041/code.js) *Beginner*
-- [x] [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) - [Simple Sort](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1042/code.js) *Beginner*
-- [x] [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) - [Triangle](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1043/code.js) *Beginner*
-- [x] [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) - [Multiples](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1044/code.js) *Beginner*
-- [x] [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - [Triangle Types](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1045/code.js) *Beginner*
-- [x] [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - [Game Time](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1046/code.js) *Beginner*
-- [x] [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - [Game Time with Minutes](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1047/code.js) *Beginner*
-- [x] [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Salary Increase](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1048/code.js) *Beginner*
-- [x] [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1049/code.js) *Beginner*
-- [x] [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1050/code.js) *Beginner*
-- [x] [1051](https://www.beecrowd.com.br/judge/pt/problems/view/1051) - [Taxes](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1051/code.js) *Beginner*
-- [x] [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - [Month](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1052/code.js) *Beginner*
-- [ ] [1053](https://www.beecrowd.com.br/judge/pt/problems/view/1053) - [Continuous Drawing] *Graph*
-- [ ] [1054](https://www.beecrowd.com.br/judge/pt/problems/view/1054) - [Dynamic Frog] *Paradigms*
-- [ ] [1055](https://www.beecrowd.com.br/judge/pt/problems/view/1055) - [Elegant Permuted Sum] *Paradigms*
-- [ ] [1056](https://www.beecrowd.com.br/judge/pt/problems/view/1056) - [Factors and Multiples] *Graph*
-- [ ] [1057](https://www.beecrowd.com.br/judge/pt/problems/view/1057) - [Going Together] *Graph*
-- [ ] [1058](https://www.beecrowd.com.br/judge/pt/problems/view/1058) - [Independent Attacking Zones] *Paradigms*
-- [x] [1059](https://www.beecrowd.com.br/judge/pt/problems/view/1059) - [Even Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1059/code.js) *Beginner*
-- [x] [1060](https://www.beecrowd.com.br/judge/pt/problems/view/1060) - [Positive Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1060/code.js) *Beginner*
-- [x] [1061](https://www.beecrowd.com.br/judge/pt/problems/view/1061) - [Event Time](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1061/code.js) *Beginner*
-- [ ] [1062](https://www.beecrowd.com.br/judge/pt/problems/view/1062) - [Rails] *Data Structures and Libraries*
-- [ ] [1063](https://www.beecrowd.com.br/judge/pt/problems/view/1063) - [Rails Again... Tracing Movements] *Data Structures and Libraries*
-- [x] [1064](https://www.beecrowd.com.br/judge/pt/problems/view/1064) - [Positives and Average](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1064/code.js) *Beginner*
-- [x] [1065](https://www.beecrowd.com.br/judge/pt/problems/view/1065) - [Even Between five Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1065/code.js) *Beginner*
-- [x] [1066](https://www.beecrowd.com.br/judge/pt/problems/view/1066) - [Even, Odd, Positive and Negative](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1066/code.js) *Beginner*
-- [x] [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) - [Odd Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1067/code.js) *Beginner*
-- [ ] [1068](https://www.beecrowd.com.br/judge/pt/problems/view/1068) - [Parenthesis Balance I] *Data Structures and Libraries*
-- [ ] [1069](https://www.beecrowd.com.br/judge/pt/problems/view/1069) - [Diamonds and Sand] *Data Structures and Libraries*
-- [x] [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) - [Six Odd Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1070/code.js) *Beginner*
-- [x] [1071](https://www.beecrowd.com.br/judge/pt/problems/view/1071) - [Sum of Consecutive Odd Numbers I](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1071/code.js) *Beginner*
-- [x] [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) - [Interval 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1072/code.js) *Beginner*
-- [x] [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) - [Even Square](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1073/code.js) *Beginner*
-- [x] [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) - [Even or Odd](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1074/code.js) *Beginner*
-- [x] [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - [Remaining 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1075/code.js) *Beginner*
-- [ ] [1076](https://www.beecrowd.com.br/judge/pt/problems/view/1076) - [Design Labirints] *Graph*
-- [ ] [1077](https://www.beecrowd.com.br/judge/pt/problems/view/1077) - [Infix to Posfix] *Data Structures and Libraries*
-- [x] [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - [Multiplication Table](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1078/code.js) *Beginner*
-- [x] [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - [Weighted Averages](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1079/code.js) *Beginner*
-- [x] [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - [Highest and Position](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1080/code.js) *Beginner*
-- [ ] [1081](https://www.beecrowd.com.br/judge/pt/problems/view/1081) - [DFSr - Depth Hierarchy] *Graph*
-- [ ] [1082](https://www.beecrowd.com.br/judge/pt/problems/view/1082) - [Connected Components] *Graph*
-- [ ] [1083](https://www.beecrowd.com.br/judge/pt/problems/view/1083) - [LEXSIM - Sintatic and Lexical Avaliator] *Data Structures and Libraries*
-- [ ] [1084](https://www.beecrowd.com.br/judge/pt/problems/view/1084) - [Erasing and Winning] *Paradigms*
-- [ ] [1085](https://www.beecrowd.com.br/judge/pt/problems/view/1085) - [Babel] *Graph*
-- [ ] [1086](https://www.beecrowd.com.br/judge/pt/problems/view/1086) - [The Club Ballroom] *Ad-Hoc*
-- [ ] [1087](https://www.beecrowd.com.br/judge/pt/problems/view/1087) - [Queen] *Ad-Hoc*
-- [ ] [1088](https://www.beecrowd.com.br/judge/pt/problems/view/1088) - [Bubbles and Buckets] *Data Structures and Libraries*
-- [ ] [1089](https://www.beecrowd.com.br/judge/pt/problems/view/1089) - [Musical Loop] *Ad-Hoc*
-- [ ] [1090](https://www.beecrowd.com.br/judge/pt/problems/view/1090) - [Set] *Ad-Hoc*
-- [ ] [1091](https://www.beecrowd.com.br/judge/pt/problems/view/1091) - [Division of Nlogonia] *Ad-Hoc*
-- [ ] [1092](https://www.beecrowd.com.br/judge/pt/problems/view/1092) - [Longest Increasing Sub-sequence] *Ad-Hoc*
-- [ ] [1093](https://www.beecrowd.com.br/judge/pt/problems/view/1093) - [Vampires] *Mathematics*
-- [x] [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - [Experiments](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1094/code.js) *Beginner*
-- [x] [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - [Sequence IJ 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1095/code.js) *Beginner*
-- [x] [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - [Sequence IJ 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1096/code.js) *Beginner*
-- [x] [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - [Sequence IJ 3](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1097/code.js) *Beginner*
-- [x] [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - [Sequence IJ 4](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1098/code.js) *Beginner*
-- [x] [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - [Sum of Consecutive Odd Numbers II](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1099/code.js) *Beginner*
+- [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js) *Beginner*
+- [x] [1001](https://www.beecrowd.com.br/judge/en/problems/view/1001) - [Extremely Basic](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1001/code.js) *Beginner*
+- [x] [1002](https://www.beecrowd.com.br/judge/en/problems/view/1002) - [Area of a Circle](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1002/code.js) *Beginner*
+- [x] [1003](https://www.beecrowd.com.br/judge/en/problems/view/1003) - [Simple Sum](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1003/code.js) *Beginner*
+- [x] [1004](https://www.beecrowd.com.br/judge/en/problems/view/1004) - [Simple Product](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1004/code.js) *Beginner*
+- [x] [1005](https://www.beecrowd.com.br/judge/en/problems/view/1005) - [Average 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1005/code.js) *Beginner*
+- [x] [1006](https://www.beecrowd.com.br/judge/en/problems/view/1006) - [Average 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1006/code.js) *Beginner*
+- [x] [1007](https://www.beecrowd.com.br/judge/en/problems/view/1007) - [Difference](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1007/code.js) *Beginner*
+- [x] [1008](https://www.beecrowd.com.br/judge/en/problems/view/1008) - [Salary](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1008/code.js) *Beginner*
+- [x] [1009](https://www.beecrowd.com.br/judge/en/problems/view/1009) - [Salary with Bonus](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1009/code.js) *Beginner*
+- [x] [1010](https://www.beecrowd.com.br/judge/en/problems/view/1010) - [Simple Calculate](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1010/code.js) *Beginner*
+- [x] [1011](https://www.beecrowd.com.br/judge/en/problems/view/1011) - [Sphere](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1011/code.js) *Beginner*
+- [x] [1012](https://www.beecrowd.com.br/judge/en/problems/view/1012) - [Area](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1012/code.js) *Beginner*
+- [x] [1013](https://www.beecrowd.com.br/judge/en/problems/view/1013) - [The Greatest](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1013/code.js) *Beginner*
+- [x] [1014](https://www.beecrowd.com.br/judge/en/problems/view/1014) - [Consumption](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1014/code.js) *Beginner*
+- [x] [1015](https://www.beecrowd.com.br/judge/en/problems/view/1015) - [Distance Between Two Points](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1015/code.js) *Beginner*
+- [x] [1016](https://www.beecrowd.com.br/judge/en/problems/view/1016) - [Distance](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1016/code.js) *Beginner*
+- [x] [1017](https://www.beecrowd.com.br/judge/en/problems/view/1017) - [Fuel Spent](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1017/code.js) *Beginner*
+- [x] [1018](https://www.beecrowd.com.br/judge/en/problems/view/1018) - [Banknotes](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1018/code.js) *Beginner*
+- [x] [1019](https://www.beecrowd.com.br/judge/en/problems/view/1019) - [Time Conversion](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1019/code.js) *Beginner*
+- [x] [1020](https://www.beecrowd.com.br/judge/en/problems/view/1020) - [Age in Days](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1020/code.js) *Beginner*
+- [x] [1021](https://www.beecrowd.com.br/judge/en/problems/view/1021) - [Banknotes and Coins](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1021/code.js) *Beginner*
+- [x] [1022](https://www.beecrowd.com.br/judge/en/problems/view/1022) - [TDA Rational](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1022/code.js) *Data Structures and Libraries*
+- [ ] [1023](https://www.beecrowd.com.br/judge/en/problems/view/1023) - [Drought] *Data Structures and Libraries*
+- [ ] [1024](https://www.beecrowd.com.br/judge/en/problems/view/1024) - [Encryption] *Strings*
+- [ ] [1025](https://www.beecrowd.com.br/judge/en/problems/view/1025) - [Where is the Marble?] *Data Structures and Libraries*
+- [ ] [1026](https://www.beecrowd.com.br/judge/en/problems/view/1026) - [To Carry or not to Carry] *Ad-Hoc*
+- [ ] [1027](https://www.beecrowd.com.br/judge/en/problems/view/1027) - [Critical Wave] *Paradigms*
+- [ ] [1028](https://www.beecrowd.com.br/judge/en/problems/view/1028) - [Collectable Cards] *Mathematics*
+- [ ] [1029](https://www.beecrowd.com.br/judge/en/problems/view/1029) - [Fibonacci, How Many Calls?] *Paradigms*
+- [ ] [1030](https://www.beecrowd.com.br/judge/en/problems/view/1030) - [Flavious Josephus Legend] *Ad-Hoc*
+- [ ] [1031](https://www.beecrowd.com.br/judge/en/problems/view/1031) - [Power Crisis] *Ad-Hoc*
+- [ ] [1032](https://www.beecrowd.com.br/judge/en/problems/view/1032) - [Joseph’s Cousin] *Ad-Hoc*
+- [ ] [1033](https://www.beecrowd.com.br/judge/en/problems/view/1033) - [How Many Calls?] *Paradigms*
+- [ ] [1034](https://www.beecrowd.com.br/judge/en/problems/view/1034) - [Ice Statues Festival] *Paradigms*
+- [x] [1035](https://www.beecrowd.com.br/judge/en/problems/view/1035) - [Selection Test 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1035/code.js) *Beginner*
+- [x] [1036](https://www.beecrowd.com.br/judge/en/problems/view/1036) - [Bhaskara's Formula](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1036/code.js) *Beginner*
+- [x] [1037](https://www.beecrowd.com.br/judge/en/problems/view/1037) - [Interval](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1037/code.js) *Beginner*
+- [x] [1038](https://www.beecrowd.com.br/judge/en/problems/view/1038) - [Snack](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1038/code.js) *Beginner*
+- [ ] [1039](https://www.beecrowd.com.br/judge/en/problems/view/1039) - [Fire Flowers] *Computational Geometry*
+- [x] [1040](https://www.beecrowd.com.br/judge/en/problems/view/1040) - [Average 3](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1040/code.js) *Beginner*
+- [x] [1041](https://www.beecrowd.com.br/judge/en/problems/view/1041) - [Coordinates of a Point](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1041/code.js) *Beginner*
+- [x] [1042](https://www.beecrowd.com.br/judge/en/problems/view/1042) - [Simple Sort](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1042/code.js) *Beginner*
+- [x] [1043](https://www.beecrowd.com.br/judge/en/problems/view/1043) - [Triangle](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1043/code.js) *Beginner*
+- [x] [1044](https://www.beecrowd.com.br/judge/en/problems/view/1044) - [Multiples](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1044/code.js) *Beginner*
+- [x] [1045](https://www.beecrowd.com.br/judge/en/problems/view/1045) - [Triangle Types](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1045/code.js) *Beginner*
+- [x] [1046](https://www.beecrowd.com.br/judge/en/problems/view/1046) - [Game Time](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1046/code.js) *Beginner*
+- [x] [1047](https://www.beecrowd.com.br/judge/en/problems/view/1047) - [Game Time with Minutes](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1047/code.js) *Beginner*
+- [x] [1048](https://www.beecrowd.com.br/judge/en/problems/view/1048) - [Salary Increase](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1048/code.js) *Beginner*
+- [x] [1049](https://www.beecrowd.com.br/judge/en/problems/view/1049) - [Animal](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1049/code.js) *Beginner*
+- [x] [1050](https://www.beecrowd.com.br/judge/en/problems/view/1050) - [DDD](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1050/code.js) *Beginner*
+- [x] [1051](https://www.beecrowd.com.br/judge/en/problems/view/1051) - [Taxes](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1051/code.js) *Beginner*
+- [x] [1052](https://www.beecrowd.com.br/judge/en/problems/view/1052) - [Month](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1052/code.js) *Beginner*
+- [ ] [1053](https://www.beecrowd.com.br/judge/en/problems/view/1053) - [Continuous Drawing] *Graph*
+- [ ] [1054](https://www.beecrowd.com.br/judge/en/problems/view/1054) - [Dynamic Frog] *Paradigms*
+- [ ] [1055](https://www.beecrowd.com.br/judge/en/problems/view/1055) - [Elegant Permuted Sum] *Paradigms*
+- [ ] [1056](https://www.beecrowd.com.br/judge/en/problems/view/1056) - [Factors and Multiples] *Graph*
+- [ ] [1057](https://www.beecrowd.com.br/judge/en/problems/view/1057) - [Going Together] *Graph*
+- [ ] [1058](https://www.beecrowd.com.br/judge/en/problems/view/1058) - [Independent Attacking Zones] *Paradigms*
+- [x] [1059](https://www.beecrowd.com.br/judge/en/problems/view/1059) - [Even Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1059/code.js) *Beginner*
+- [x] [1060](https://www.beecrowd.com.br/judge/en/problems/view/1060) - [Positive Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1060/code.js) *Beginner*
+- [x] [1061](https://www.beecrowd.com.br/judge/en/problems/view/1061) - [Event Time](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1061/code.js) *Beginner*
+- [ ] [1062](https://www.beecrowd.com.br/judge/en/problems/view/1062) - [Rails] *Data Structures and Libraries*
+- [ ] [1063](https://www.beecrowd.com.br/judge/en/problems/view/1063) - [Rails Again... Tracing Movements] *Data Structures and Libraries*
+- [x] [1064](https://www.beecrowd.com.br/judge/en/problems/view/1064) - [Positives and Average](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1064/code.js) *Beginner*
+- [x] [1065](https://www.beecrowd.com.br/judge/en/problems/view/1065) - [Even Between five Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1065/code.js) *Beginner*
+- [x] [1066](https://www.beecrowd.com.br/judge/en/problems/view/1066) - [Even, Odd, Positive and Negative](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1066/code.js) *Beginner*
+- [x] [1067](https://www.beecrowd.com.br/judge/en/problems/view/1067) - [Odd Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1067/code.js) *Beginner*
+- [ ] [1068](https://www.beecrowd.com.br/judge/en/problems/view/1068) - [Parenthesis Balance I] *Data Structures and Libraries*
+- [ ] [1069](https://www.beecrowd.com.br/judge/en/problems/view/1069) - [Diamonds and Sand] *Data Structures and Libraries*
+- [x] [1070](https://www.beecrowd.com.br/judge/en/problems/view/1070) - [Six Odd Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1070/code.js) *Beginner*
+- [x] [1071](https://www.beecrowd.com.br/judge/en/problems/view/1071) - [Sum of Consecutive Odd Numbers I](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1071/code.js) *Beginner*
+- [x] [1072](https://www.beecrowd.com.br/judge/en/problems/view/1072) - [Interval 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1072/code.js) *Beginner*
+- [x] [1073](https://www.beecrowd.com.br/judge/en/problems/view/1073) - [Even Square](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1073/code.js) *Beginner*
+- [x] [1074](https://www.beecrowd.com.br/judge/en/problems/view/1074) - [Even or Odd](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1074/code.js) *Beginner*
+- [x] [1075](https://www.beecrowd.com.br/judge/en/problems/view/1075) - [Remaining 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1075/code.js) *Beginner*
+- [ ] [1076](https://www.beecrowd.com.br/judge/en/problems/view/1076) - [Design Labirints] *Graph*
+- [ ] [1077](https://www.beecrowd.com.br/judge/en/problems/view/1077) - [Infix to Posfix] *Data Structures and Libraries*
+- [x] [1078](https://www.beecrowd.com.br/judge/en/problems/view/1078) - [Multiplication Table](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1078/code.js) *Beginner*
+- [x] [1079](https://www.beecrowd.com.br/judge/en/problems/view/1079) - [Weighted Averages](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1079/code.js) *Beginner*
+- [x] [1080](https://www.beecrowd.com.br/judge/en/problems/view/1080) - [Highest and Position](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1080/code.js) *Beginner*
+- [ ] [1081](https://www.beecrowd.com.br/judge/en/problems/view/1081) - [DFSr - Depth Hierarchy] *Graph*
+- [ ] [1082](https://www.beecrowd.com.br/judge/en/problems/view/1082) - [Connected Components] *Graph*
+- [ ] [1083](https://www.beecrowd.com.br/judge/en/problems/view/1083) - [LEXSIM - Sintatic and Lexical Avaliator] *Data Structures and Libraries*
+- [ ] [1084](https://www.beecrowd.com.br/judge/en/problems/view/1084) - [Erasing and Winning] *Paradigms*
+- [ ] [1085](https://www.beecrowd.com.br/judge/en/problems/view/1085) - [Babel] *Graph*
+- [ ] [1086](https://www.beecrowd.com.br/judge/en/problems/view/1086) - [The Club Ballroom] *Ad-Hoc*
+- [ ] [1087](https://www.beecrowd.com.br/judge/en/problems/view/1087) - [Queen] *Ad-Hoc*
+- [ ] [1088](https://www.beecrowd.com.br/judge/en/problems/view/1088) - [Bubbles and Buckets] *Data Structures and Libraries*
+- [ ] [1089](https://www.beecrowd.com.br/judge/en/problems/view/1089) - [Musical Loop] *Ad-Hoc*
+- [ ] [1090](https://www.beecrowd.com.br/judge/en/problems/view/1090) - [Set] *Ad-Hoc*
+- [ ] [1091](https://www.beecrowd.com.br/judge/en/problems/view/1091) - [Division of Nlogonia] *Ad-Hoc*
+- [ ] [1092](https://www.beecrowd.com.br/judge/en/problems/view/1092) - [Longest Increasing Sub-sequence] *Ad-Hoc*
+- [ ] [1093](https://www.beecrowd.com.br/judge/en/problems/view/1093) - [Vampires] *Mathematics*
+- [x] [1094](https://www.beecrowd.com.br/judge/en/problems/view/1094) - [Experiments](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1094/code.js) *Beginner*
+- [x] [1095](https://www.beecrowd.com.br/judge/en/problems/view/1095) - [Sequence IJ 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1095/code.js) *Beginner*
+- [x] [1096](https://www.beecrowd.com.br/judge/en/problems/view/1096) - [Sequence IJ 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1096/code.js) *Beginner*
+- [x] [1097](https://www.beecrowd.com.br/judge/en/problems/view/1097) - [Sequence IJ 3](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1097/code.js) *Beginner*
+- [x] [1098](https://www.beecrowd.com.br/judge/en/problems/view/1098) - [Sequence IJ 4](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1098/code.js) *Beginner*
+- [x] [1099](https://www.beecrowd.com.br/judge/en/problems/view/1099) - [Sum of Consecutive Odd Numbers II](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1099/code.js) *Beginner*
