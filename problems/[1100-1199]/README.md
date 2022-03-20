@@ -1,4 +1,4 @@
-# Problems 1100 (14 %)
+# Problems 1100 (15 %)
 
 
 - [ ] [1100](https://www.beecrowd.com.br/judge/en/problems/view/1100) - [Knight Moves] *Graph*
@@ -50,7 +50,7 @@
 - [x] [1146](https://www.beecrowd.com.br/judge/en/problems/view/1146) - [Growing Sequences](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1146/code.js) *Beginner*
 - [ ] [1147](https://www.beecrowd.com.br/judge/en/problems/view/1147) - [Knight Scape] *Ad-Hoc*
 - [ ] [1148](https://www.beecrowd.com.br/judge/en/problems/view/1148) - [Countries at War] *Graph*
-- [ ] [1149](https://www.beecrowd.com.br/judge/en/problems/view/1149) - [Summing Consecutive Integers] *Beginner*
+- [x] [1149](https://www.beecrowd.com.br/judge/en/problems/view/1149) - [Summing Consecutive Integers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1149/code.js) *Beginner*
 - [ ] [1150](https://www.beecrowd.com.br/judge/en/problems/view/1150) - [Exceeding Z] *Beginner*
 - [ ] [1151](https://www.beecrowd.com.br/judge/en/problems/view/1151) - [Easy Fibonacci] *Beginner*
 - [ ] [1152](https://www.beecrowd.com.br/judge/en/problems/view/1152) - [Dark Roads] *Graph*
