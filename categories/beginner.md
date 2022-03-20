@@ -1,4 +1,4 @@
-# Problems (22.69 %)
+# Problems (22.99 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -77,7 +77,7 @@
 - [x] [1143](https://www.beecrowd.com.br/judge/en/problems/view/1143) - [Squared and Cubic](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1143/code.js)
 - [x] [1144](https://www.beecrowd.com.br/judge/en/problems/view/1144) - [Logical Sequence](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1144/code.js)
 - [x] [1145](https://www.beecrowd.com.br/judge/en/problems/view/1145) - [Logical Sequence 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1145/code.js)
-- [ ] [1146](https://www.beecrowd.com.br/judge/en/problems/view/1146) - [Growing Sequences]
+- [x] [1146](https://www.beecrowd.com.br/judge/en/problems/view/1146) - [Growing Sequences](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1146/code.js)
 - [ ] [1149](https://www.beecrowd.com.br/judge/en/problems/view/1149) - [Summing Consecutive Integers]
 - [ ] [1150](https://www.beecrowd.com.br/judge/en/problems/view/1150) - [Exceeding Z]
 - [ ] [1151](https://www.beecrowd.com.br/judge/en/problems/view/1151) - [Easy Fibonacci]
