@@ -1,4 +1,4 @@
-# Problems 1100 (12 %)
+# Problems 1100 (13 %)
 
 
 - [ ] [1100](https://www.beecrowd.com.br/judge/en/problems/view/1100) - [Knight Moves] *Graph*
@@ -46,7 +46,7 @@
 - [x] [1142](https://www.beecrowd.com.br/judge/en/problems/view/1142) - [PUM](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1142/code.js) *Beginner*
 - [x] [1143](https://www.beecrowd.com.br/judge/en/problems/view/1143) - [Squared and Cubic](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1143/code.js) *Beginner*
 - [x] [1144](https://www.beecrowd.com.br/judge/en/problems/view/1144) - [Logical Sequence](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1144/code.js) *Beginner*
-- [ ] [1145](https://www.beecrowd.com.br/judge/en/problems/view/1145) - [Logical Sequence 2] *Beginner*
+- [x] [1145](https://www.beecrowd.com.br/judge/en/problems/view/1145) - [Logical Sequence 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1145/code.js) *Beginner*
 - [ ] [1146](https://www.beecrowd.com.br/judge/en/problems/view/1146) - [Growing Sequences] *Beginner*
 - [ ] [1147](https://www.beecrowd.com.br/judge/en/problems/view/1147) - [Knight Scape] *Ad-Hoc*
 - [ ] [1148](https://www.beecrowd.com.br/judge/en/problems/view/1148) - [Countries at War] *Graph*
