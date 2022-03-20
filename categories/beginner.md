@@ -1,4 +1,4 @@
-# Problems (21.79 %)
+# Problems (22.09 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -74,7 +74,7 @@
 - [x] [1133](https://www.beecrowd.com.br/judge/en/problems/view/1133) - [Rest of a Division](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1133/code.js)
 - [x] [1134](https://www.beecrowd.com.br/judge/en/problems/view/1134) - [Type of Fuel](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1134/code.js)
 - [x] [1142](https://www.beecrowd.com.br/judge/en/problems/view/1142) - [PUM](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1142/code.js)
-- [ ] [1143](https://www.beecrowd.com.br/judge/en/problems/view/1143) - [Squared and Cubic]
+- [x] [1143](https://www.beecrowd.com.br/judge/en/problems/view/1143) - [Squared and Cubic](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1143/code.js)
 - [ ] [1144](https://www.beecrowd.com.br/judge/en/problems/view/1144) - [Logical Sequence]
 - [ ] [1145](https://www.beecrowd.com.br/judge/en/problems/view/1145) - [Logical Sequence 2]
 - [ ] [1146](https://www.beecrowd.com.br/judge/en/problems/view/1146) - [Growing Sequences]

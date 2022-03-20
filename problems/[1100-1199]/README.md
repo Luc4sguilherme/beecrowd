@@ -1,4 +1,4 @@
-# Problems 1100 (10 %)
+# Problems 1100 (11 %)
 
 
 - [ ] [1100](https://www.beecrowd.com.br/judge/en/problems/view/1100) - [Knight Moves] *Graph*
@@ -44,7 +44,7 @@
 - [ ] [1140](https://www.beecrowd.com.br/judge/en/problems/view/1140) - [Flowers Flourish from France] *Ad-Hoc*
 - [ ] [1141](https://www.beecrowd.com.br/judge/en/problems/view/1141) - [Growing Strings] *Strings*
 - [x] [1142](https://www.beecrowd.com.br/judge/en/problems/view/1142) - [PUM](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1142/code.js) *Beginner*
-- [ ] [1143](https://www.beecrowd.com.br/judge/en/problems/view/1143) - [Squared and Cubic] *Beginner*
+- [x] [1143](https://www.beecrowd.com.br/judge/en/problems/view/1143) - [Squared and Cubic](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1143/code.js) *Beginner*
 - [ ] [1144](https://www.beecrowd.com.br/judge/en/problems/view/1144) - [Logical Sequence] *Beginner*
 - [ ] [1145](https://www.beecrowd.com.br/judge/en/problems/view/1145) - [Logical Sequence 2] *Beginner*
 - [ ] [1146](https://www.beecrowd.com.br/judge/en/problems/view/1146) - [Growing Sequences] *Beginner*
