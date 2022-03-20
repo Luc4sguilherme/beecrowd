@@ -1,4 +1,4 @@
-# Problems 1100 (17 %)
+# Problems 1100 (18 %)
 
 
 - [ ] [1100](https://www.beecrowd.com.br/judge/en/problems/view/1100) - [Knight Moves] *Graph*
@@ -54,7 +54,7 @@
 - [x] [1150](https://www.beecrowd.com.br/judge/en/problems/view/1150) - [Exceeding Z](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1150/code.js) *Beginner*
 - [x] [1151](https://www.beecrowd.com.br/judge/en/problems/view/1151) - [Easy Fibonacci](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1151/code.js) *Beginner*
 - [ ] [1152](https://www.beecrowd.com.br/judge/en/problems/view/1152) - [Dark Roads] *Graph*
-- [ ] [1153](https://www.beecrowd.com.br/judge/en/problems/view/1153) - [Simple Factorial] *Beginner*
+- [x] [1153](https://www.beecrowd.com.br/judge/en/problems/view/1153) - [Simple Factorial](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1153/code.js) *Beginner*
 - [ ] [1154](https://www.beecrowd.com.br/judge/en/problems/view/1154) - [Ages] *Beginner*
 - [ ] [1155](https://www.beecrowd.com.br/judge/en/problems/view/1155) - [S Sequence] *Beginner*
 - [ ] [1156](https://www.beecrowd.com.br/judge/en/problems/view/1156) - [S Sequence II] *Beginner*
