@@ -1,4 +1,4 @@
-# Problems 1100 (21 %)
+# Problems 1100 (22 %)
 
 
 - [ ] [1100](https://www.beecrowd.com.br/judge/en/problems/view/1100) - [Knight Moves] *Graph*
@@ -58,7 +58,7 @@
 - [x] [1154](https://www.beecrowd.com.br/judge/en/problems/view/1154) - [Ages](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1154/code.js) *Beginner*
 - [x] [1155](https://www.beecrowd.com.br/judge/en/problems/view/1155) - [S Sequence](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1155/code.js) *Beginner*
 - [x] [1156](https://www.beecrowd.com.br/judge/en/problems/view/1156) - [S Sequence II](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1156/code.js) *Beginner*
-- [ ] [1157](https://www.beecrowd.com.br/judge/en/problems/view/1157) - [Divisors I] *Beginner*
+- [x] [1157](https://www.beecrowd.com.br/judge/en/problems/view/1157) - [Divisors I](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1157/code.js) *Beginner*
 - [ ] [1158](https://www.beecrowd.com.br/judge/en/problems/view/1158) - [Sum of Consecutive Odd Numbers III] *Beginner*
 - [ ] [1159](https://www.beecrowd.com.br/judge/en/problems/view/1159) - [Sum of Consecutive Even Numbers] *Beginner*
 - [ ] [1160](https://www.beecrowd.com.br/judge/en/problems/view/1160) - [Population Increase] *Beginner*
