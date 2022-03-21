@@ -1,4 +1,4 @@
-# Problems (24.48 %)
+# Problems (24.78 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -83,7 +83,7 @@
 - [x] [1151](https://www.beecrowd.com.br/judge/en/problems/view/1151) - [Easy Fibonacci](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1151/code.js)
 - [x] [1153](https://www.beecrowd.com.br/judge/en/problems/view/1153) - [Simple Factorial](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1153/code.js)
 - [x] [1154](https://www.beecrowd.com.br/judge/en/problems/view/1154) - [Ages](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1154/code.js)
-- [ ] [1155](https://www.beecrowd.com.br/judge/en/problems/view/1155) - [S Sequence]
+- [x] [1155](https://www.beecrowd.com.br/judge/en/problems/view/1155) - [S Sequence](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1155/code.js)
 - [ ] [1156](https://www.beecrowd.com.br/judge/en/problems/view/1156) - [S Sequence II]
 - [ ] [1157](https://www.beecrowd.com.br/judge/en/problems/view/1157) - [Divisors I]
 - [ ] [1158](https://www.beecrowd.com.br/judge/en/problems/view/1158) - [Sum of Consecutive Odd Numbers III]
