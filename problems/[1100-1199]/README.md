@@ -1,4 +1,4 @@
-# Problems 1100 (25 %)
+# Problems 1100 (26 %)
 
 
 - [ ] [1100](https://www.beecrowd.com.br/judge/en/problems/view/1100) - [Knight Moves] *Graph*
@@ -65,7 +65,7 @@
 - [ ] [1161](https://www.beecrowd.com.br/judge/en/problems/view/1161) - [Factorial Sum] *Mathematics*
 - [ ] [1162](https://www.beecrowd.com.br/judge/en/problems/view/1162) - [Train Swapping] *Data Structures and Libraries*
 - [ ] [1163](https://www.beecrowd.com.br/judge/en/problems/view/1163) - [Angry Ducks] *Mathematics*
-- [ ] [1164](https://www.beecrowd.com.br/judge/en/problems/view/1164) - [Perfect Number] *Beginner*
+- [x] [1164](https://www.beecrowd.com.br/judge/en/problems/view/1164) - [Perfect Number](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1164/code.js) *Beginner*
 - [ ] [1165](https://www.beecrowd.com.br/judge/en/problems/view/1165) - [Prime Number] *Beginner*
 - [ ] [1166](https://www.beecrowd.com.br/judge/en/problems/view/1166) - [Hanoi Tower Troubles Again!] *Paradigms*
 - [ ] [1167](https://www.beecrowd.com.br/judge/en/problems/view/1167) - [Summer Camp] *Data Structures and Libraries*

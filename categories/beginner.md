@@ -1,4 +1,4 @@
-# Problems (26.27 %)
+# Problems (26.57 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -89,7 +89,7 @@
 - [x] [1158](https://www.beecrowd.com.br/judge/en/problems/view/1158) - [Sum of Consecutive Odd Numbers III](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1158/code.js)
 - [x] [1159](https://www.beecrowd.com.br/judge/en/problems/view/1159) - [Sum of Consecutive Even Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1159/code.js)
 - [x] [1160](https://www.beecrowd.com.br/judge/en/problems/view/1160) - [Population Increase](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1160/code.js)
-- [ ] [1164](https://www.beecrowd.com.br/judge/en/problems/view/1164) - [Perfect Number]
+- [x] [1164](https://www.beecrowd.com.br/judge/en/problems/view/1164) - [Perfect Number](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1164/code.js)
 - [ ] [1165](https://www.beecrowd.com.br/judge/en/problems/view/1165) - [Prime Number]
 - [ ] [1172](https://www.beecrowd.com.br/judge/en/problems/view/1172) - [Array Replacement I]
 - [ ] [1173](https://www.beecrowd.com.br/judge/en/problems/view/1173) - [Array fill I]
