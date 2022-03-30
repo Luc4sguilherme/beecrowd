@@ -1,4 +1,4 @@
-# Problems 1100 (27 %)
+# Problems 1100 (28 %)
 
 
 - [ ] [1100](https://www.beecrowd.com.br/judge/en/problems/view/1100) - [Knight Moves] *Graph*
@@ -73,7 +73,7 @@
 - [ ] [1169](https://www.beecrowd.com.br/judge/en/problems/view/1169) - [Grains in a Chess Board] *Mathematics*
 - [ ] [1170](https://www.beecrowd.com.br/judge/en/problems/view/1170) - [Blobs] *Mathematics*
 - [ ] [1171](https://www.beecrowd.com.br/judge/en/problems/view/1171) - [Number Frequence] *Ad-Hoc*
-- [ ] [1172](https://www.beecrowd.com.br/judge/en/problems/view/1172) - [Array Replacement I] *Beginner*
+- [x] [1172](https://www.beecrowd.com.br/judge/en/problems/view/1172) - [Array Replacement I](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1172/code.js) *Beginner*
 - [ ] [1173](https://www.beecrowd.com.br/judge/en/problems/view/1173) - [Array fill I] *Beginner*
 - [ ] [1174](https://www.beecrowd.com.br/judge/en/problems/view/1174) - [Array Selection I] *Beginner*
 - [ ] [1175](https://www.beecrowd.com.br/judge/en/problems/view/1175) - [Array change I] *Beginner*

@@ -1,4 +1,4 @@
-# Problems (26.87 %)
+# Problems (27.16 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -91,7 +91,7 @@
 - [x] [1160](https://www.beecrowd.com.br/judge/en/problems/view/1160) - [Population Increase](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1160/code.js)
 - [x] [1164](https://www.beecrowd.com.br/judge/en/problems/view/1164) - [Perfect Number](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1164/code.js)
 - [x] [1165](https://www.beecrowd.com.br/judge/en/problems/view/1165) - [Prime Number](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1165/code.js)
-- [ ] [1172](https://www.beecrowd.com.br/judge/en/problems/view/1172) - [Array Replacement I]
+- [x] [1172](https://www.beecrowd.com.br/judge/en/problems/view/1172) - [Array Replacement I](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1172/code.js)
 - [ ] [1173](https://www.beecrowd.com.br/judge/en/problems/view/1173) - [Array fill I]
 - [ ] [1174](https://www.beecrowd.com.br/judge/en/problems/view/1174) - [Array Selection I]
 - [ ] [1175](https://www.beecrowd.com.br/judge/en/problems/view/1175) - [Array change I]
