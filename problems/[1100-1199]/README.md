@@ -1,4 +1,4 @@
-# Problems 1100 (35 %)
+# Problems 1100 (36 %)
 
 
 - [ ] [1100](https://www.beecrowd.com.br/judge/en/problems/view/1100) - [Knight Moves] *Graph*
@@ -81,7 +81,7 @@
 - [x] [1177](https://www.beecrowd.com.br/judge/en/problems/view/1177) - [Array Fill II](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1177/code.js) *Beginner*
 - [x] [1178](https://www.beecrowd.com.br/judge/en/problems/view/1178) - [Array Fill III](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1178/code.js) *Beginner*
 - [x] [1179](https://www.beecrowd.com.br/judge/en/problems/view/1179) - [Array Fill IV](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1179/code.js) *Beginner*
-- [ ] [1180](https://www.beecrowd.com.br/judge/en/problems/view/1180) - [Lowest Number and Position] *Beginner*
+- [x] [1180](https://www.beecrowd.com.br/judge/en/problems/view/1180) - [Lowest Number and Position](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1180/code.js) *Beginner*
 - [ ] [1181](https://www.beecrowd.com.br/judge/en/problems/view/1181) - [Line in Array] *Beginner*
 - [ ] [1182](https://www.beecrowd.com.br/judge/en/problems/view/1182) - [Column in Array] *Beginner*
 - [ ] [1183](https://www.beecrowd.com.br/judge/en/problems/view/1183) - [Above the Main Diagonal] *Beginner*
