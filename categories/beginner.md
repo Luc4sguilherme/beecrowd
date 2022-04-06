@@ -1,4 +1,4 @@
-# Problems (28.66 %)
+# Problems (28.96 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -97,7 +97,7 @@
 - [x] [1175](https://www.beecrowd.com.br/judge/en/problems/view/1175) - [Array change I](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1175/code.js)
 - [x] [1176](https://www.beecrowd.com.br/judge/en/problems/view/1176) - [Fibonacci Array](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1176/code.js)
 - [x] [1177](https://www.beecrowd.com.br/judge/en/problems/view/1177) - [Array Fill II](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1177/code.js)
-- [ ] [1178](https://www.beecrowd.com.br/judge/en/problems/view/1178) - [Array Fill III]
+- [x] [1178](https://www.beecrowd.com.br/judge/en/problems/view/1178) - [Array Fill III](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1178/code.js)
 - [ ] [1179](https://www.beecrowd.com.br/judge/en/problems/view/1179) - [Array Fill IV]
 - [ ] [1180](https://www.beecrowd.com.br/judge/en/problems/view/1180) - [Lowest Number and Position]
 - [ ] [1181](https://www.beecrowd.com.br/judge/en/problems/view/1181) - [Line in Array]
