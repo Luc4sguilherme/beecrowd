@@ -1,4 +1,4 @@
-# Problems 1500 (2.97 %)
+# Problems 1500 (3.96 %)
 
 
 - [ ] [1500](https://www.beecrowd.com.br/judge/en/problems/view/1500) - [Horrible Queries] *Data Structures and Libraries*
@@ -42,7 +42,7 @@
 - [ ] [1538](https://www.beecrowd.com.br/judge/en/problems/view/1538) - [Alien Sequence] *Data Structures and Libraries*
 - [ ] [1539](https://www.beecrowd.com.br/judge/en/problems/view/1539) - [Telecom Company] *Graph*
 - [ ] [1540](https://www.beecrowd.com.br/judge/en/problems/view/1540) - [Energy Planning] *Ad-Hoc*
-- [ ] [1541](https://www.beecrowd.com.br/judge/en/problems/view/1541) - [Building Houses] *Beginner*
+- [x] [1541](https://www.beecrowd.com.br/judge/en/problems/view/1541) - [Building Houses](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1500-1599]/1541/code.js) *Beginner*
 - [ ] [1542](https://www.beecrowd.com.br/judge/en/problems/view/1542) - [Reading Books] *Ad-Hoc*
 - [ ] [1543](https://www.beecrowd.com.br/judge/en/problems/view/1543) - [Board With Prizes] *Paradigms*
 - [ ] [1544](https://www.beecrowd.com.br/judge/en/problems/view/1544) - [The Last Non-zero Digit] *Mathematics*
