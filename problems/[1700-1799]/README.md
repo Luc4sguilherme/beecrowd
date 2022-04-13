@@ -1,4 +1,4 @@
-# Problems 1700 (0 %)
+# Problems 1700 (1 %)
 
 
 - [ ] [1700](https://www.beecrowd.com.br/judge/en/problems/view/1700) - [Antennas] *Paradigms*
@@ -60,7 +60,7 @@
 - [ ] [1756](https://www.beecrowd.com.br/judge/en/problems/view/1756) - [Genetic Algorithm] *Mathematics*
 - [ ] [1757](https://www.beecrowd.com.br/judge/en/problems/view/1757) - [Barrel Travel] *Graph*
 - [ ] [1758](https://www.beecrowd.com.br/judge/en/problems/view/1758) - [Bonus Grade Points] *Ad-Hoc*
-- [ ] [1759](https://www.beecrowd.com.br/judge/en/problems/view/1759) - [Ho Ho Ho] *Beginner*
+- [x] [1759](https://www.beecrowd.com.br/judge/en/problems/view/1759) - [Ho Ho Ho](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1700-1799]/1759/code.js) *Beginner*
 - [ ] [1760](https://www.beecrowd.com.br/judge/en/problems/view/1760) - [Koch Snowflake] *Mathematics*
 - [ ] [1761](https://www.beecrowd.com.br/judge/en/problems/view/1761) - [Christmas Decorations] *Mathematics*
 - [ ] [1762](https://www.beecrowd.com.br/judge/en/problems/view/1762) - [Sleds of Santa Claus] *Data Structures and Libraries*
