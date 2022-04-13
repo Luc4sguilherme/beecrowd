@@ -1,4 +1,4 @@
-# Problems 1400 (1.01 %)
+# Problems 1400 (2.02 %)
 
 
 - [ ] [1400](https://www.beecrowd.com.br/judge/en/problems/view/1400) - [Counting Game] *Mathematics*
@@ -78,7 +78,7 @@
 - [ ] [1475](https://www.beecrowd.com.br/judge/en/problems/view/1475) - [Patches] *Paradigms*
 - [ ] [1476](https://www.beecrowd.com.br/judge/en/problems/view/1476) - [Trucks] *Graph*
 - [ ] [1477](https://www.beecrowd.com.br/judge/en/problems/view/1477) - [Man, Elephant and Mouse] *Data Structures and Libraries*
-- [ ] [1478](https://www.beecrowd.com.br/judge/en/problems/view/1478) - [Square Matrix II] *Beginner*
+- [x] [1478](https://www.beecrowd.com.br/judge/en/problems/view/1478) - [Square Matrix II](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1400-1499]/1478/code.js) *Beginner*
 - [ ] [1479](https://www.beecrowd.com.br/judge/en/problems/view/1479) - [Help your Commander] *Graph*
 - [ ] [1480](https://www.beecrowd.com.br/judge/en/problems/view/1480) - [The Famous Mine Sweeper] *Ad-Hoc*
 - [ ] [1481](https://www.beecrowd.com.br/judge/en/problems/view/1481) - [Zing Zhu’s Oyster Farm] *Mathematics*
