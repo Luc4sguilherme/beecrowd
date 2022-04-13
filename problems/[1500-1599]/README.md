@@ -1,4 +1,4 @@
-# Problems 1500 (1.98 %)
+# Problems 1500 (2.97 %)
 
 
 - [ ] [1500](https://www.beecrowd.com.br/judge/en/problems/view/1500) - [Horrible Queries] *Data Structures and Libraries*
@@ -35,7 +35,7 @@
 - [ ] [1531](https://www.beecrowd.com.br/judge/en/problems/view/1531) - [Fibonacci Again!] *Mathematics*
 - [ ] [1532](https://www.beecrowd.com.br/judge/en/problems/view/1532) - [Throwing Balls] *Ad-Hoc*
 - [ ] [1533](https://www.beecrowd.com.br/judge/en/problems/view/1533) - [Detective Watson] *Ad-Hoc*
-- [ ] [1534](https://www.beecrowd.com.br/judge/en/problems/view/1534) - [Array 123] *Beginner*
+- [x] [1534](https://www.beecrowd.com.br/judge/en/problems/view/1534) - [Array 123](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1500-1599]/1534/code.js) *Beginner*
 - [ ] [1535](https://www.beecrowd.com.br/judge/en/problems/view/1535) - [Couple-Bachelor-Spinster Numbers] *Data Structures and Libraries*
 - [ ] [1536](https://www.beecrowd.com.br/judge/en/problems/view/1536) - [Libertadores] *Ad-Hoc*
 - [ ] [1537](https://www.beecrowd.com.br/judge/en/problems/view/1537) - [Bank Line] *Mathematics*

@@ -1,4 +1,4 @@
-# Problems (31.94 %)
+# Problems (32.24 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -112,7 +112,7 @@
 - [ ] [1190](https://www.beecrowd.com.br/judge/en/problems/view/1190) - [Right Area]
 - [x] [1435](https://www.beecrowd.com.br/judge/en/problems/view/1435) - [Square Matrix I](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1400-1499]/1435/code.js)
 - [x] [1478](https://www.beecrowd.com.br/judge/en/problems/view/1478) - [Square Matrix II](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1400-1499]/1478/code.js)
-- [ ] [1534](https://www.beecrowd.com.br/judge/en/problems/view/1534) - [Array 123]
+- [x] [1534](https://www.beecrowd.com.br/judge/en/problems/view/1534) - [Array 123](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1500-1599]/1534/code.js)
 - [ ] [1541](https://www.beecrowd.com.br/judge/en/problems/view/1541) - [Building Houses]
 - [x] [1557](https://www.beecrowd.com.br/judge/en/problems/view/1557) - [Square Matrix III](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1500-1599]/1557/code.js)
 - [ ] [1564](https://www.beecrowd.com.br/judge/en/problems/view/1564) - [Brazil World Cup]
