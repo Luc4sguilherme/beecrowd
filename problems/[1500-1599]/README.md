@@ -1,4 +1,4 @@
-# Problems 1500 (0.99 %)
+# Problems 1500 (1.98 %)
 
 
 - [ ] [1500](https://www.beecrowd.com.br/judge/en/problems/view/1500) - [Horrible Queries] *Data Structures and Libraries*
@@ -58,7 +58,7 @@
 - [ ] [1554](https://www.beecrowd.com.br/judge/en/problems/view/1554) - [N.1 Continuous] *Mathematics*
 - [ ] [1555](https://www.beecrowd.com.br/judge/en/problems/view/1555) - [Functions] *Mathematics*
 - [ ] [1556](https://www.beecrowd.com.br/judge/en/problems/view/1556) - [Removing Letters] *Strings*
-- [ ] [1557](https://www.beecrowd.com.br/judge/en/problems/view/1557) - [Square Matrix III] *Beginner*
+- [x] [1557](https://www.beecrowd.com.br/judge/en/problems/view/1557) - [Square Matrix III](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1500-1599]/1557/code.js) *Beginner*
 - [ ] [1558](https://www.beecrowd.com.br/judge/en/problems/view/1558) - [Sum of Two Squares] *Ad-Hoc*
 - [ ] [1559](https://www.beecrowd.com.br/judge/en/problems/view/1559) - [2048] *Ad-Hoc*
 - [ ] [1560](https://www.beecrowd.com.br/judge/en/problems/view/1560) - [Triangle Energy] *Computational Geometry*
