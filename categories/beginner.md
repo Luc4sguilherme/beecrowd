@@ -1,4 +1,4 @@
-# Problems (31.34 %)
+# Problems (31.64 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -110,7 +110,7 @@
 - [ ] [1188](https://www.beecrowd.com.br/judge/en/problems/view/1188) - [Inferior Area]
 - [ ] [1189](https://www.beecrowd.com.br/judge/en/problems/view/1189) - [Left Area]
 - [ ] [1190](https://www.beecrowd.com.br/judge/en/problems/view/1190) - [Right Area]
-- [ ] [1435](https://www.beecrowd.com.br/judge/en/problems/view/1435) - [Square Matrix I]
+- [x] [1435](https://www.beecrowd.com.br/judge/en/problems/view/1435) - [Square Matrix I](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1400-1499]/1435/code.js)
 - [ ] [1478](https://www.beecrowd.com.br/judge/en/problems/view/1478) - [Square Matrix II]
 - [ ] [1534](https://www.beecrowd.com.br/judge/en/problems/view/1534) - [Array 123]
 - [ ] [1541](https://www.beecrowd.com.br/judge/en/problems/view/1541) - [Building Houses]

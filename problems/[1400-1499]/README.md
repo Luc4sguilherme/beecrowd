@@ -1,4 +1,4 @@
-# Problems 1400 (0 %)
+# Problems 1400 (1.01 %)
 
 
 - [ ] [1400](https://www.beecrowd.com.br/judge/en/problems/view/1400) - [Counting Game] *Mathematics*
@@ -36,7 +36,7 @@
 - [ ] [1432](https://www.beecrowd.com.br/judge/en/problems/view/1432) - [Triple-Free Binary Strings] *Paradigms*
 - [ ] [1433](https://www.beecrowd.com.br/judge/en/problems/view/1433) - [The Splitting Club] *Mathematics*
 - [ ] [1434](https://www.beecrowd.com.br/judge/en/problems/view/1434) - [Roman Patrollers] *Mathematics*
-- [ ] [1435](https://www.beecrowd.com.br/judge/en/problems/view/1435) - [Square Matrix I] *Beginner*
+- [x] [1435](https://www.beecrowd.com.br/judge/en/problems/view/1435) - [Square Matrix I](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1400-1499]/1435/code.js) *Beginner*
 - [ ] [1436](https://www.beecrowd.com.br/judge/en/problems/view/1436) - [Brick Game] *Mathematics*
 - [ ] [1437](https://www.beecrowd.com.br/judge/en/problems/view/1437) - [Turn Left!] *Ad-Hoc*
 - [ ] [1438](https://www.beecrowd.com.br/judge/en/problems/view/1438) - [Unloading Boxes] *Ad-Hoc*
