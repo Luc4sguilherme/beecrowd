@@ -1,4 +1,4 @@
-# Problems 1500 (4.95 %)
+# Problems 1500 (5.94 %)
 
 
 - [ ] [1500](https://www.beecrowd.com.br/judge/en/problems/view/1500) - [Horrible Queries] *Data Structures and Libraries*
@@ -90,7 +90,7 @@
 - [ ] [1586](https://www.beecrowd.com.br/judge/en/problems/view/1586) - [Tug of War] *Strings*
 - [ ] [1587](https://www.beecrowd.com.br/judge/en/problems/view/1587) - [BIT Park] *Data Structures and Libraries*
 - [ ] [1588](https://www.beecrowd.com.br/judge/en/problems/view/1588) - [Help the Federation] *Ad-Hoc*
-- [ ] [1589](https://www.beecrowd.com.br/judge/en/problems/view/1589) - [Bob Conduit] *Beginner*
+- [x] [1589](https://www.beecrowd.com.br/judge/en/problems/view/1589) - [Bob Conduit](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1500-1599]/1589/code.js) *Beginner*
 - [ ] [1590](https://www.beecrowd.com.br/judge/en/problems/view/1590) - [Cuarenta and Two] *Paradigms*
 - [ ] [1591](https://www.beecrowd.com.br/judge/en/problems/view/1591) - [Grandma's Day] *Ad-Hoc*
 - [ ] [1592](https://www.beecrowd.com.br/judge/en/problems/view/1592) - [Elias and Golias] *Graph*
