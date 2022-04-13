@@ -1,4 +1,4 @@
-# Problems (32.54 %)
+# Problems (32.84 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -115,7 +115,7 @@
 - [x] [1534](https://www.beecrowd.com.br/judge/en/problems/view/1534) - [Array 123](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1500-1599]/1534/code.js)
 - [x] [1541](https://www.beecrowd.com.br/judge/en/problems/view/1541) - [Building Houses](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1500-1599]/1541/code.js)
 - [x] [1557](https://www.beecrowd.com.br/judge/en/problems/view/1557) - [Square Matrix III](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1500-1599]/1557/code.js)
-- [ ] [1564](https://www.beecrowd.com.br/judge/en/problems/view/1564) - [Brazil World Cup]
+- [x] [1564](https://www.beecrowd.com.br/judge/en/problems/view/1564) - [Brazil World Cup](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1500-1599]/1564/code.js)
 - [ ] [1589](https://www.beecrowd.com.br/judge/en/problems/view/1589) - [Bob Conduit]
 - [ ] [1759](https://www.beecrowd.com.br/judge/en/problems/view/1759) - [Ho Ho Ho]
 - [ ] [1789](https://www.beecrowd.com.br/judge/en/problems/view/1789) - [The Race of Slugs]

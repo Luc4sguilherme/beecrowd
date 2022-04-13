@@ -1,4 +1,4 @@
-# Problems 1500 (3.96 %)
+# Problems 1500 (4.95 %)
 
 
 - [ ] [1500](https://www.beecrowd.com.br/judge/en/problems/view/1500) - [Horrible Queries] *Data Structures and Libraries*
@@ -65,7 +65,7 @@
 - [ ] [1561](https://www.beecrowd.com.br/judge/en/problems/view/1561) - [Binary Watch] *Ad-Hoc*
 - [ ] [1562](https://www.beecrowd.com.br/judge/en/problems/view/1562) - [Choosing the Pairs] *Graph*
 - [ ] [1563](https://www.beecrowd.com.br/judge/en/problems/view/1563) - [The Big Problem] *Mathematics*
-- [ ] [1564](https://www.beecrowd.com.br/judge/en/problems/view/1564) - [Brazil World Cup] *Beginner*
+- [x] [1564](https://www.beecrowd.com.br/judge/en/problems/view/1564) - [Brazil World Cup](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1500-1599]/1564/code.js) *Beginner*
 - [ ] [1565](https://www.beecrowd.com.br/judge/en/problems/view/1565) - [Connect the Points] *Paradigms*
 - [ ] [1566](https://www.beecrowd.com.br/judge/en/problems/view/1566) - [Height] *Data Structures and Libraries*
 - [ ] [1567](https://www.beecrowd.com.br/judge/en/problems/view/1567) - [(2/3/4)-D Sqr/Rects/Cubes/Boxes?] *Mathematics*
