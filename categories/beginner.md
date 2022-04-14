@@ -1,4 +1,4 @@
-# Problems (33.73 %)
+# Problems (34.03 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -120,7 +120,7 @@
 - [x] [1759](https://www.beecrowd.com.br/judge/en/problems/view/1759) - [Ho Ho Ho](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1700-1799]/1759/code.js)
 - [ ] [1789](https://www.beecrowd.com.br/judge/en/problems/view/1789) - [The Race of Slugs]
 - [x] [1827](https://www.beecrowd.com.br/judge/en/problems/view/1827) - [Square Array IV](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1827/code.js)
-- [ ] [1828](https://www.beecrowd.com.br/judge/en/problems/view/1828) - [Bazinga!]
+- [x] [1828](https://www.beecrowd.com.br/judge/en/problems/view/1828) - [Bazinga!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1828/code.js)
 - [ ] [1837](https://www.beecrowd.com.br/judge/en/problems/view/1837) - [Preface]
 - [ ] [1847](https://www.beecrowd.com.br/judge/en/problems/view/1847) - [Welcome to the Winter!]
 - [ ] [1848](https://www.beecrowd.com.br/judge/en/problems/view/1848) - [Counting Crow]

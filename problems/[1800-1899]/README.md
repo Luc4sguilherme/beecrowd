@@ -1,4 +1,4 @@
-# Problems 1800 (1 %)
+# Problems 1800 (2 %)
 
 
 - [ ] [1800](https://www.beecrowd.com.br/judge/en/problems/view/1800) - [Where Are My Keys] *Ad-Hoc*
@@ -29,7 +29,7 @@
 - [ ] [1825](https://www.beecrowd.com.br/judge/en/problems/view/1825) - [Anting] *Computational Geometry*
 - [ ] [1826](https://www.beecrowd.com.br/judge/en/problems/view/1826) - [Is The Language Infinite?] *Graph*
 - [x] [1827](https://www.beecrowd.com.br/judge/en/problems/view/1827) - [Square Array IV](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1827/code.js) *Beginner*
-- [ ] [1828](https://www.beecrowd.com.br/judge/en/problems/view/1828) - [Bazinga!] *Beginner*
+- [x] [1828](https://www.beecrowd.com.br/judge/en/problems/view/1828) - [Bazinga!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1828/code.js) *Beginner*
 - [ ] [1829](https://www.beecrowd.com.br/judge/en/problems/view/1829) - [Biggest Number Game] *Mathematics*
 - [ ] [1830](https://www.beecrowd.com.br/judge/en/problems/view/1830) - [Boxes of Chocolates] *Mathematics*
 - [ ] [1831](https://www.beecrowd.com.br/judge/en/problems/view/1831) - [Hard Day At Work] *Mathematics*
