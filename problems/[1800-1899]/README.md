@@ -1,4 +1,4 @@
-# Problems 1800 (2 %)
+# Problems 1800 (3 %)
 
 
 - [ ] [1800](https://www.beecrowd.com.br/judge/en/problems/view/1800) - [Where Are My Keys] *Ad-Hoc*
@@ -38,7 +38,7 @@
 - [ ] [1834](https://www.beecrowd.com.br/judge/en/problems/view/1834) - [Vogons!] *Computational Geometry*
 - [ ] [1835](https://www.beecrowd.com.br/judge/en/problems/view/1835) - [Campaign's Promise] *Graph*
 - [ ] [1836](https://www.beecrowd.com.br/judge/en/problems/view/1836) - [Pokémon!] *Ad-Hoc*
-- [ ] [1837](https://www.beecrowd.com.br/judge/en/problems/view/1837) - [Preface] *Beginner*
+- [x] [1837](https://www.beecrowd.com.br/judge/en/problems/view/1837) - [Preface](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1837/code.js) *Beginner*
 - [ ] [1838](https://www.beecrowd.com.br/judge/en/problems/view/1838) - [The Philosopher's Stone] *Paradigms*
 - [ ] [1839](https://www.beecrowd.com.br/judge/en/problems/view/1839) - [The Chamber of Secrets] *Mathematics*
 - [ ] [1840](https://www.beecrowd.com.br/judge/en/problems/view/1840) - [The Prisoner of Azkaban] *Ad-Hoc*
