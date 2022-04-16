@@ -1,4 +1,4 @@
-# Problems 1800 (5 %)
+# Problems 1800 (6 %)
 
 
 - [ ] [1800](https://www.beecrowd.com.br/judge/en/problems/view/1800) - [Where Are My Keys] *Ad-Hoc*
@@ -65,7 +65,7 @@
 - [ ] [1861](https://www.beecrowd.com.br/judge/en/problems/view/1861) - [Hall of Murderers] *Data Structures and Libraries*
 - [ ] [1862](https://www.beecrowd.com.br/judge/en/problems/view/1862) - [Houses of Westeros] *Graph*
 - [ ] [1863](https://www.beecrowd.com.br/judge/en/problems/view/1863) - [Ramsay's Counter-attack] *Data Structures and Libraries*
-- [ ] [1864](https://www.beecrowd.com.br/judge/en/problems/view/1864) - [Our Days Are Never Coming Back] *Beginner*
+- [x] [1864](https://www.beecrowd.com.br/judge/en/problems/view/1864) - [Our Days Are Never Coming Back](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1864/code.js) *Beginner*
 - [ ] [1865](https://www.beecrowd.com.br/judge/en/problems/view/1865) - [Mjölnir] *Beginner*
 - [ ] [1866](https://www.beecrowd.com.br/judge/en/problems/view/1866) - [Bill] *Beginner*
 - [ ] [1867](https://www.beecrowd.com.br/judge/en/problems/view/1867) - [The Greater One-digit Number] *Ad-Hoc*
