@@ -1,4 +1,4 @@
-# Problems 1800 (6 %)
+# Problems 1800 (7 %)
 
 
 - [ ] [1800](https://www.beecrowd.com.br/judge/en/problems/view/1800) - [Where Are My Keys] *Ad-Hoc*
@@ -66,7 +66,7 @@
 - [ ] [1862](https://www.beecrowd.com.br/judge/en/problems/view/1862) - [Houses of Westeros] *Graph*
 - [ ] [1863](https://www.beecrowd.com.br/judge/en/problems/view/1863) - [Ramsay's Counter-attack] *Data Structures and Libraries*
 - [x] [1864](https://www.beecrowd.com.br/judge/en/problems/view/1864) - [Our Days Are Never Coming Back](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1864/code.js) *Beginner*
-- [ ] [1865](https://www.beecrowd.com.br/judge/en/problems/view/1865) - [Mjölnir] *Beginner*
+- [x] [1865](https://www.beecrowd.com.br/judge/en/problems/view/1865) - [Mjölnir](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1865/code.js) *Beginner*
 - [ ] [1866](https://www.beecrowd.com.br/judge/en/problems/view/1866) - [Bill] *Beginner*
 - [ ] [1867](https://www.beecrowd.com.br/judge/en/problems/view/1867) - [The Greater One-digit Number] *Ad-Hoc*
 - [ ] [1868](https://www.beecrowd.com.br/judge/en/problems/view/1868) - [Square Spiral] *Strings*
