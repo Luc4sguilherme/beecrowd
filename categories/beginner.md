@@ -1,4 +1,4 @@
-# Problems (34.63 %)
+# Problems (34.93 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -123,7 +123,7 @@
 - [x] [1828](https://www.beecrowd.com.br/judge/en/problems/view/1828) - [Bazinga!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1828/code.js)
 - [x] [1837](https://www.beecrowd.com.br/judge/en/problems/view/1837) - [Preface](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1837/code.js)
 - [x] [1847](https://www.beecrowd.com.br/judge/en/problems/view/1847) - [Welcome to the Winter!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1847/code.js)
-- [ ] [1848](https://www.beecrowd.com.br/judge/en/problems/view/1848) - [Counting Crow]
+- [x] [1848](https://www.beecrowd.com.br/judge/en/problems/view/1848) - [Counting Crow](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1848/code.js)
 - [ ] [1858](https://www.beecrowd.com.br/judge/en/problems/view/1858) - [Theon's Answer]
 - [ ] [1864](https://www.beecrowd.com.br/judge/en/problems/view/1864) - [Our Days Are Never Coming Back]
 - [ ] [1865](https://www.beecrowd.com.br/judge/en/problems/view/1865) - [Mjölnir]

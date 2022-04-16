@@ -1,4 +1,4 @@
-# Problems 1800 (4 %)
+# Problems 1800 (5 %)
 
 
 - [ ] [1800](https://www.beecrowd.com.br/judge/en/problems/view/1800) - [Where Are My Keys] *Ad-Hoc*
@@ -49,7 +49,7 @@
 - [ ] [1845](https://www.beecrowd.com.br/judge/en/problems/view/1845) - [Efilogue] *Ad-Hoc*
 - [ ] [1846](https://www.beecrowd.com.br/judge/en/problems/view/1846) - [Number to Name] *Strings*
 - [x] [1847](https://www.beecrowd.com.br/judge/en/problems/view/1847) - [Welcome to the Winter!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1847/code.js) *Beginner*
-- [ ] [1848](https://www.beecrowd.com.br/judge/en/problems/view/1848) - [Counting Crow] *Beginner*
+- [x] [1848](https://www.beecrowd.com.br/judge/en/problems/view/1848) - [Counting Crow](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1848/code.js) *Beginner*
 - [ ] [1849](https://www.beecrowd.com.br/judge/en/problems/view/1849) - [Dracarys!] *Ad-Hoc*
 - [ ] [1850](https://www.beecrowd.com.br/judge/en/problems/view/1850) - [No One's Labyrinth] *Graph*
 - [ ] [1851](https://www.beecrowd.com.br/judge/en/problems/view/1851) - [How To Train Your Dragon] *Data Structures and Libraries*
