@@ -1,4 +1,4 @@
-# Problems 1900 (1 %)
+# Problems 1900 (2 %)
 
 
 - [ ] [1900](https://www.beecrowd.com.br/judge/en/problems/view/1900) - [Null Sequences] *Paradigms*
@@ -25,7 +25,7 @@
 - [ ] [1921](https://www.beecrowd.com.br/judge/en/problems/view/1921) - [Guilherme and His Kites] *Mathematics*
 - [ ] [1922](https://www.beecrowd.com.br/judge/en/problems/view/1922) - [Diego and Hammer Game] *Paradigms*
 - [ ] [1923](https://www.beecrowd.com.br/judge/en/problems/view/1923) - [Rerisson and The Barbecue] *Graph*
-- [ ] [1924](https://www.beecrowd.com.br/judge/en/problems/view/1924) - [Vitória and Her Indecision] *Beginner*
+- [x] [1924](https://www.beecrowd.com.br/judge/en/problems/view/1924) - [Vitória and Her Indecision](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1924/code.js) *Beginner*
 - [ ] [1925](https://www.beecrowd.com.br/judge/en/problems/view/1925) - [Ordan and The Girls] *Graph*
 - [ ] [1926](https://www.beecrowd.com.br/judge/en/problems/view/1926) - [Marianne and The Twin Cousins] *Mathematics*
 - [ ] [1927](https://www.beecrowd.com.br/judge/en/problems/view/1927) - [Tapioca and The Chocolate Rain] *Paradigms*
