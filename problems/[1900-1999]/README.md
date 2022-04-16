@@ -1,4 +1,4 @@
-# Problems 1900 (0 %)
+# Problems 1900 (1 %)
 
 
 - [ ] [1900](https://www.beecrowd.com.br/judge/en/problems/view/1900) - [Null Sequences] *Paradigms*
@@ -15,7 +15,7 @@
 - [ ] [1911](https://www.beecrowd.com.br/judge/en/problems/view/1911) - [Help Girafales] *Data Structures and Libraries*
 - [ ] [1912](https://www.beecrowd.com.br/judge/en/problems/view/1912) - [Help Seu Madruga] *Paradigms*
 - [ ] [1913](https://www.beecrowd.com.br/judge/en/problems/view/1913) - [Help Mr. Barriga] *Paradigms*
-- [ ] [1914](https://www.beecrowd.com.br/judge/en/problems/view/1914) - [Whose Turn Is It?] *Beginner*
+- [x] [1914](https://www.beecrowd.com.br/judge/en/problems/view/1914) - [Whose Turn Is It?](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1914/code.js) *Beginner*
 - [ ] [1915](https://www.beecrowd.com.br/judge/en/problems/view/1915) - [Help Chaves] *Graph*
 - [ ] [1916](https://www.beecrowd.com.br/judge/en/problems/view/1916) - [Jaiminho’s Bank Hours] *Ad-Hoc*
 - [ ] [1917](https://www.beecrowd.com.br/judge/en/problems/view/1917) - [Help Chapolin Colorado!] *Ad-Hoc*
