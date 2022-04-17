@@ -1,4 +1,4 @@
-# Problems 1900 (4 %)
+# Problems 1900 (5 %)
 
 
 - [ ] [1900](https://www.beecrowd.com.br/judge/en/problems/view/1900) - [Null Sequences] *Paradigms*
@@ -58,7 +58,7 @@
 - [ ] [1954](https://www.beecrowd.com.br/judge/en/problems/view/1954) - [Possible Evolutionary Paths] *Graph*
 - [ ] [1955](https://www.beecrowd.com.br/judge/en/problems/view/1955) - [See World] *Graph*
 - [ ] [1956](https://www.beecrowd.com.br/judge/en/problems/view/1956) - [Acacias] *Graph*
-- [ ] [1957](https://www.beecrowd.com.br/judge/en/problems/view/1957) - [Converting to Hexadecimal] *Beginner*
+- [x] [1957](https://www.beecrowd.com.br/judge/en/problems/view/1957) - [Converting to Hexadecimal](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1957/code.js) *Beginner*
 - [ ] [1958](https://www.beecrowd.com.br/judge/en/problems/view/1958) - [Scientific Notation] *Beginner*
 - [ ] [1959](https://www.beecrowd.com.br/judge/en/problems/view/1959) - [Regular Simple Polygons] *Beginner*
 - [ ] [1960](https://www.beecrowd.com.br/judge/en/problems/view/1960) - [Roman Numerals for Page Numbers] *Beginner*
