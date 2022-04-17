@@ -1,4 +1,4 @@
-# Problems (38.21 %)
+# Problems (38.51 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -254,7 +254,7 @@
 - [ ] [2807](https://www.beecrowd.com.br/judge/en/problems/view/2807) - [Iccanobif]
 - [ ] [2808](https://www.beecrowd.com.br/judge/en/problems/view/2808) - [Knights Again]
 - [ ] [2812](https://www.beecrowd.com.br/judge/en/problems/view/2812) - [Laércio]
-- [ ] [2813](https://www.beecrowd.com.br/judge/en/problems/view/2813) - [Avoiding Rain]
+- [x] [2813](https://www.beecrowd.com.br/judge/en/problems/view/2813) - [Avoiding Rain](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2800-2899]/2813/code.js)
 - [ ] [2823](https://www.beecrowd.com.br/judge/en/problems/view/2823) - [Eearliest Deadline First]
 - [ ] [2826](https://www.beecrowd.com.br/judge/en/problems/view/2826) - [Lexical]
 - [ ] [2845](https://www.beecrowd.com.br/judge/en/problems/view/2845) - [Party at the North Pole]

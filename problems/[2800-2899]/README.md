@@ -1,4 +1,4 @@
-# Problems 2800 (0 %)
+# Problems 2800 (1 %)
 
 
 - [ ] [2800](https://www.beecrowd.com.br/judge/en/problems/view/2800) - [Playing with Queries] *Data Structures and Libraries*
@@ -14,7 +14,7 @@
 - [ ] [2810](https://www.beecrowd.com.br/judge/en/problems/view/2810) - [Dengue 2.0] *Graph*
 - [ ] [2811](https://www.beecrowd.com.br/judge/en/problems/view/2811) - [Sibi-Xor] *Paradigms*
 - [ ] [2812](https://www.beecrowd.com.br/judge/en/problems/view/2812) - [Laércio] *Beginner*
-- [ ] [2813](https://www.beecrowd.com.br/judge/en/problems/view/2813) - [Avoiding Rain] *Beginner*
+- [x] [2813](https://www.beecrowd.com.br/judge/en/problems/view/2813) - [Avoiding Rain](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2800-2899]/2813/code.js) *Beginner*
 - [ ] [2814](https://www.beecrowd.com.br/judge/en/problems/view/2814) - [Loud Music] *Ad-Hoc*
 - [ ] [2815](https://www.beecrowd.com.br/judge/en/problems/view/2815) - [Stutterer Digitizer] *Strings*
 - [ ] [2816](https://www.beecrowd.com.br/judge/en/problems/view/2816) - [Dabriel's Palindrome] *Graph*
