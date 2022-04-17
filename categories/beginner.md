@@ -1,4 +1,4 @@
-# Problems (37.91 %)
+# Problems (38.21 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -135,7 +135,7 @@
 - [x] [1933](https://www.beecrowd.com.br/judge/en/problems/view/1933) - [Tri-du](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1933/code.js)
 - [x] [1957](https://www.beecrowd.com.br/judge/en/problems/view/1957) - [Converting to Hexadecimal](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1957/code.js)
 - [x] [1958](https://www.beecrowd.com.br/judge/en/problems/view/1958) - [Scientific Notation](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1958/code.js)
-- [ ] [1959](https://www.beecrowd.com.br/judge/en/problems/view/1959) - [Regular Simple Polygons]
+- [x] [1959](https://www.beecrowd.com.br/judge/en/problems/view/1959) - [Regular Simple Polygons](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1959/code.js)
 - [x] [1960](https://www.beecrowd.com.br/judge/en/problems/view/1960) - [Roman Numerals for Page Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1960/code.js)
 - [ ] [1961](https://www.beecrowd.com.br/judge/en/problems/view/1961) - [Jumping Frog]
 - [ ] [1962](https://www.beecrowd.com.br/judge/en/problems/view/1962) - [A Long, Long Time Ago]
