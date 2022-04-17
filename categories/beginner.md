@@ -1,4 +1,4 @@
-# Problems (36.42 %)
+# Problems (36.72 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -131,7 +131,7 @@
 - [x] [1914](https://www.beecrowd.com.br/judge/en/problems/view/1914) - [Whose Turn Is It?](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1914/code.js)
 - [x] [1924](https://www.beecrowd.com.br/judge/en/problems/view/1924) - [Vitória and Her Indecision](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1924/code.js)
 - [ ] [1929](https://www.beecrowd.com.br/judge/en/problems/view/1929) - [Triangle]
-- [ ] [1930](https://www.beecrowd.com.br/judge/en/problems/view/1930) - [Electrical Outlet]
+- [x] [1930](https://www.beecrowd.com.br/judge/en/problems/view/1930) - [Electrical Outlet](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1930/code.js)
 - [ ] [1933](https://www.beecrowd.com.br/judge/en/problems/view/1933) - [Tri-du]
 - [ ] [1957](https://www.beecrowd.com.br/judge/en/problems/view/1957) - [Converting to Hexadecimal]
 - [ ] [1958](https://www.beecrowd.com.br/judge/en/problems/view/1958) - [Scientific Notation]

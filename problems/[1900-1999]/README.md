@@ -1,4 +1,4 @@
-# Problems 1900 (2 %)
+# Problems 1900 (3 %)
 
 
 - [ ] [1900](https://www.beecrowd.com.br/judge/en/problems/view/1900) - [Null Sequences] *Paradigms*
@@ -31,7 +31,7 @@
 - [ ] [1927](https://www.beecrowd.com.br/judge/en/problems/view/1927) - [Tapioca and The Chocolate Rain] *Paradigms*
 - [ ] [1928](https://www.beecrowd.com.br/judge/en/problems/view/1928) - [Memory Game] *Graph*
 - [ ] [1929](https://www.beecrowd.com.br/judge/en/problems/view/1929) - [Triangle] *Beginner*
-- [ ] [1930](https://www.beecrowd.com.br/judge/en/problems/view/1930) - [Electrical Outlet] *Beginner*
+- [x] [1930](https://www.beecrowd.com.br/judge/en/problems/view/1930) - [Electrical Outlet](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1930/code.js) *Beginner*
 - [ ] [1931](https://www.beecrowd.com.br/judge/en/problems/view/1931) - [Even Obsession] *Graph*
 - [ ] [1932](https://www.beecrowd.com.br/judge/en/problems/view/1932) - [Stock Market] *Paradigms*
 - [ ] [1933](https://www.beecrowd.com.br/judge/en/problems/view/1933) - [Tri-du] *Beginner*
