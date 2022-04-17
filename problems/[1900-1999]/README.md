@@ -1,4 +1,4 @@
-# Problems 1900 (3 %)
+# Problems 1900 (4 %)
 
 
 - [ ] [1900](https://www.beecrowd.com.br/judge/en/problems/view/1900) - [Null Sequences] *Paradigms*
@@ -34,7 +34,7 @@
 - [x] [1930](https://www.beecrowd.com.br/judge/en/problems/view/1930) - [Electrical Outlet](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1930/code.js) *Beginner*
 - [ ] [1931](https://www.beecrowd.com.br/judge/en/problems/view/1931) - [Even Obsession] *Graph*
 - [ ] [1932](https://www.beecrowd.com.br/judge/en/problems/view/1932) - [Stock Market] *Paradigms*
-- [ ] [1933](https://www.beecrowd.com.br/judge/en/problems/view/1933) - [Tri-du] *Beginner*
+- [x] [1933](https://www.beecrowd.com.br/judge/en/problems/view/1933) - [Tri-du](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1933/code.js) *Beginner*
 - [ ] [1934](https://www.beecrowd.com.br/judge/en/problems/view/1934) - [Puzzle] *Ad-Hoc*
 - [ ] [1935](https://www.beecrowd.com.br/judge/en/problems/view/1935) - [Spiral] *Ad-Hoc*
 - [ ] [1936](https://www.beecrowd.com.br/judge/en/problems/view/1936) - [Factorial] *Ad-Hoc*
