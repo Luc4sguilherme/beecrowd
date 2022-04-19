@@ -1,4 +1,4 @@
-# Problems (38.51 %)
+# Problems (38.81 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -138,7 +138,7 @@
 - [x] [1959](https://www.beecrowd.com.br/judge/en/problems/view/1959) - [Regular Simple Polygons](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1959/code.js)
 - [x] [1960](https://www.beecrowd.com.br/judge/en/problems/view/1960) - [Roman Numerals for Page Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1960/code.js)
 - [ ] [1961](https://www.beecrowd.com.br/judge/en/problems/view/1961) - [Jumping Frog]
-- [ ] [1962](https://www.beecrowd.com.br/judge/en/problems/view/1962) - [A Long, Long Time Ago]
+- [x] [1962](https://www.beecrowd.com.br/judge/en/problems/view/1962) - [A Long, Long Time Ago](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1962/code.js)
 - [ ] [1963](https://www.beecrowd.com.br/judge/en/problems/view/1963) - [The Motion Picture]
 - [ ] [1973](https://www.beecrowd.com.br/judge/en/problems/view/1973) - [Star Trek]
 - [ ] [1983](https://www.beecrowd.com.br/judge/en/problems/view/1983) - [The Chosen]
