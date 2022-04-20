@@ -1,4 +1,4 @@
-# Problems 1900 (9 %)
+# Problems 1900 (10 %)
 
 
 - [ ] [1900](https://www.beecrowd.com.br/judge/en/problems/view/1900) - [Null Sequences] *Paradigms*
@@ -64,7 +64,7 @@
 - [x] [1960](https://www.beecrowd.com.br/judge/en/problems/view/1960) - [Roman Numerals for Page Numbers](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1960/code.js) *Beginner*
 - [ ] [1961](https://www.beecrowd.com.br/judge/en/problems/view/1961) - [Jumping Frog] *Beginner*
 - [x] [1962](https://www.beecrowd.com.br/judge/en/problems/view/1962) - [A Long, Long Time Ago](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1962/code.js) *Beginner*
-- [ ] [1963](https://www.beecrowd.com.br/judge/en/problems/view/1963) - [The Motion Picture] *Beginner*
+- [x] [1963](https://www.beecrowd.com.br/judge/en/problems/view/1963) - [The Motion Picture](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1963/code.js) *Beginner*
 - [ ] [1964](https://www.beecrowd.com.br/judge/en/problems/view/1964) - [The Wrath of Khan] *Ad-Hoc*
 - [ ] [1965](https://www.beecrowd.com.br/judge/en/problems/view/1965) - [The Search for Spock] *Ad-Hoc*
 - [ ] [1966](https://www.beecrowd.com.br/judge/en/problems/view/1966) - [The Voyage Home] *Ad-Hoc*
