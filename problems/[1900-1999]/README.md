@@ -1,4 +1,4 @@
-# Problems 1900 (10 %)
+# Problems 1900 (11 %)
 
 
 - [ ] [1900](https://www.beecrowd.com.br/judge/en/problems/view/1900) - [Null Sequences] *Paradigms*
@@ -74,7 +74,7 @@
 - [ ] [1970](https://www.beecrowd.com.br/judge/en/problems/view/1970) - [First Contact] *Paradigms*
 - [ ] [1971](https://www.beecrowd.com.br/judge/en/problems/view/1971) - [Insurrection] *Computational Geometry*
 - [ ] [1972](https://www.beecrowd.com.br/judge/en/problems/view/1972) - [Nemesis] *Graph*
-- [ ] [1973](https://www.beecrowd.com.br/judge/en/problems/view/1973) - [Star Trek] *Beginner*
+- [x] [1973](https://www.beecrowd.com.br/judge/en/problems/view/1973) - [Star Trek](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1973/code.js) *Beginner*
 - [ ] [1974](https://www.beecrowd.com.br/judge/en/problems/view/1974) - [Into Darkness] *Graph*
 - [ ] [1975](https://www.beecrowd.com.br/judge/en/problems/view/1975) - [Pearls] *Data Structures and Libraries*
 - [ ] [1976](https://www.beecrowd.com.br/judge/en/problems/view/1976) - [Matrices] *Paradigms*
