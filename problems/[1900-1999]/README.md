@@ -1,4 +1,4 @@
-# Problems 1900 (13 %)
+# Problems 1900 (14 %)
 
 
 - [ ] [1900](https://www.beecrowd.com.br/judge/en/problems/view/1900) - [Null Sequences] *Paradigms*
@@ -86,7 +86,7 @@
 - [ ] [1982](https://www.beecrowd.com.br/judge/en/problems/view/1982) - [New Computers] *Computational Geometry*
 - [x] [1983](https://www.beecrowd.com.br/judge/en/problems/view/1983) - [The Chosen](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1983/code.js) *Beginner*
 - [x] [1984](https://www.beecrowd.com.br/judge/en/problems/view/1984) - [The Pronalância Puzzle](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1984/code.js) *Beginner*
-- [ ] [1985](https://www.beecrowd.com.br/judge/en/problems/view/1985) - [MacPRONALTS] *Beginner*
+- [x] [1985](https://www.beecrowd.com.br/judge/en/problems/view/1985) - [MacPRONALTS](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1985/code.js) *Beginner*
 - [ ] [1986](https://www.beecrowd.com.br/judge/en/problems/view/1986) - [The Martian] *Ad-Hoc*
 - [ ] [1987](https://www.beecrowd.com.br/judge/en/problems/view/1987) - [Divisibility by 3] *Ad-Hoc*
 - [ ] [1988](https://www.beecrowd.com.br/judge/en/problems/view/1988) - [Tourists Circuits] *Graph*
