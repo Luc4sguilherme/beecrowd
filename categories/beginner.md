@@ -1,4 +1,4 @@
-# Problems (39.70 %)
+# Problems (40 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -142,7 +142,7 @@
 - [x] [1963](https://www.beecrowd.com.br/judge/en/problems/view/1963) - [The Motion Picture](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1963/code.js)
 - [x] [1973](https://www.beecrowd.com.br/judge/en/problems/view/1973) - [Star Trek](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1973/code.js)
 - [x] [1983](https://www.beecrowd.com.br/judge/en/problems/view/1983) - [The Chosen](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1983/code.js)
-- [ ] [1984](https://www.beecrowd.com.br/judge/en/problems/view/1984) - [The Pronalância Puzzle]
+- [x] [1984](https://www.beecrowd.com.br/judge/en/problems/view/1984) - [The Pronalância Puzzle](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1984/code.js)
 - [ ] [1985](https://www.beecrowd.com.br/judge/en/problems/view/1985) - [MacPRONALTS]
 - [ ] [2003](https://www.beecrowd.com.br/judge/en/problems/view/2003) - [Sunday Morning]
 - [ ] [2006](https://www.beecrowd.com.br/judge/en/problems/view/2006) - [Identifying Tea]
