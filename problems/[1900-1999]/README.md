@@ -1,4 +1,4 @@
-# Problems 1900 (11 %)
+# Problems 1900 (12 %)
 
 
 - [ ] [1900](https://www.beecrowd.com.br/judge/en/problems/view/1900) - [Null Sequences] *Paradigms*
@@ -84,7 +84,7 @@
 - [ ] [1980](https://www.beecrowd.com.br/judge/en/problems/view/1980) - [Shuffling] *Ad-Hoc*
 - [ ] [1981](https://www.beecrowd.com.br/judge/en/problems/view/1981) - [Shuffling Again] *Mathematics*
 - [ ] [1982](https://www.beecrowd.com.br/judge/en/problems/view/1982) - [New Computers] *Computational Geometry*
-- [ ] [1983](https://www.beecrowd.com.br/judge/en/problems/view/1983) - [The Chosen] *Beginner*
+- [x] [1983](https://www.beecrowd.com.br/judge/en/problems/view/1983) - [The Chosen](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1983/code.js) *Beginner*
 - [ ] [1984](https://www.beecrowd.com.br/judge/en/problems/view/1984) - [The Pronalância Puzzle] *Beginner*
 - [ ] [1985](https://www.beecrowd.com.br/judge/en/problems/view/1985) - [MacPRONALTS] *Beginner*
 - [ ] [1986](https://www.beecrowd.com.br/judge/en/problems/view/1986) - [The Martian] *Ad-Hoc*
