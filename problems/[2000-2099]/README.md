@@ -1,10 +1,10 @@
-# Problems 2000 (0 %)
+# Problems 2000 (1 %)
 
 
 - [ ] [2000](https://www.beecrowd.com.br/judge/en/problems/view/2000) - [Adeildo of Odonto] *Strings*
 - [ ] [2001](https://www.beecrowd.com.br/judge/en/problems/view/2001) - [Bile] *Mathematics*
 - [ ] [2002](https://www.beecrowd.com.br/judge/en/problems/view/2002) - [Rogerio's House] *Graph*
-- [ ] [2003](https://www.beecrowd.com.br/judge/en/problems/view/2003) - [Sunday Morning] *Beginner*
+- [x] [2003](https://www.beecrowd.com.br/judge/en/problems/view/2003) - [Sunday Morning](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2003/code.js) *Beginner*
 - [ ] [2004](https://www.beecrowd.com.br/judge/en/problems/view/2004) - [Enisvaldo's Hunger] *Ad-Hoc*
 - [ ] [2005](https://www.beecrowd.com.br/judge/en/problems/view/2005) - [Upset Fracil] *Ad-Hoc*
 - [ ] [2006](https://www.beecrowd.com.br/judge/en/problems/view/2006) - [Identifying Tea] *Beginner*
