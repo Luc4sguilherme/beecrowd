@@ -1,4 +1,4 @@
-# Problems (40.60 %)
+# Problems (40.90 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -145,7 +145,7 @@
 - [x] [1984](https://www.beecrowd.com.br/judge/en/problems/view/1984) - [The Pronalância Puzzle](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1984/code.js)
 - [x] [1985](https://www.beecrowd.com.br/judge/en/problems/view/1985) - [MacPRONALTS](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1985/code.js)
 - [x] [2003](https://www.beecrowd.com.br/judge/en/problems/view/2003) - [Sunday Morning](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2003/code.js)
-- [ ] [2006](https://www.beecrowd.com.br/judge/en/problems/view/2006) - [Identifying Tea]
+- [x] [2006](https://www.beecrowd.com.br/judge/en/problems/view/2006) - [Identifying Tea](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2006/code.js)
 - [ ] [2028](https://www.beecrowd.com.br/judge/en/problems/view/2028) - [Sequence of Sequence]
 - [ ] [2029](https://www.beecrowd.com.br/judge/en/problems/view/2029) - [Honey Reservoir]
 - [ ] [2031](https://www.beecrowd.com.br/judge/en/problems/view/2031) - [Rock, Paper, Airstrike]

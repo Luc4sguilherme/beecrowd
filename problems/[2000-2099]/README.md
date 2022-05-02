@@ -1,4 +1,4 @@
-# Problems 2000 (1 %)
+# Problems 2000 (2 %)
 
 
 - [ ] [2000](https://www.beecrowd.com.br/judge/en/problems/view/2000) - [Adeildo of Odonto] *Strings*
@@ -7,7 +7,7 @@
 - [x] [2003](https://www.beecrowd.com.br/judge/en/problems/view/2003) - [Sunday Morning](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2003/code.js) *Beginner*
 - [ ] [2004](https://www.beecrowd.com.br/judge/en/problems/view/2004) - [Enisvaldo's Hunger] *Ad-Hoc*
 - [ ] [2005](https://www.beecrowd.com.br/judge/en/problems/view/2005) - [Upset Fracil] *Ad-Hoc*
-- [ ] [2006](https://www.beecrowd.com.br/judge/en/problems/view/2006) - [Identifying Tea] *Beginner*
+- [x] [2006](https://www.beecrowd.com.br/judge/en/problems/view/2006) - [Identifying Tea](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2006/code.js) *Beginner*
 - [ ] [2007](https://www.beecrowd.com.br/judge/en/problems/view/2007) - [Fence the Vegetables Fail] *Mathematics*
 - [ ] [2008](https://www.beecrowd.com.br/judge/en/problems/view/2008) - [Exposing Corruption] *Ad-Hoc*
 - [ ] [2009](https://www.beecrowd.com.br/judge/en/problems/view/2009) - [Just a Bit Sorted] *Ad-Hoc*
