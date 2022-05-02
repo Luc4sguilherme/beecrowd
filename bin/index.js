@@ -144,7 +144,7 @@ function getTotalOfSolvedProblems(problems) {
 }
 
 function getTotalOfProblems(problems) {
-  return problems.match(/\[\d{4}]/g)?.length ?? 0;
+  return problems.match(/\[\d{4}\]/g)?.length ?? 0;
 }
 
 function calculateProgress(problems) {
