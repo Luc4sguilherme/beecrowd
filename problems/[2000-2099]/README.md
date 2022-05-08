@@ -1,4 +1,4 @@
-# Problems 2000 (2 %)
+# Problems 2000 (3 %)
 
 
 - [ ] [2000](https://www.beecrowd.com.br/judge/en/problems/view/2000) - [Adeildo of Odonto] *Strings*
@@ -29,7 +29,7 @@
 - [ ] [2025](https://www.beecrowd.com.br/judge/en/problems/view/2025) - [Joulupukki] *Strings*
 - [ ] [2026](https://www.beecrowd.com.br/judge/en/problems/view/2026) - [Christmas Tree] *Paradigms*
 - [ ] [2027](https://www.beecrowd.com.br/judge/en/problems/view/2027) - [Noel Bet] *Paradigms*
-- [ ] [2028](https://www.beecrowd.com.br/judge/en/problems/view/2028) - [Sequence of Sequence] *Beginner*
+- [x] [2028](https://www.beecrowd.com.br/judge/en/problems/view/2028) - [Sequence of Sequence](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2028/code.js) *Beginner*
 - [ ] [2029](https://www.beecrowd.com.br/judge/en/problems/view/2029) - [Honey Reservoir] *Beginner*
 - [ ] [2030](https://www.beecrowd.com.br/judge/en/problems/view/2030) - [Pit Stop] *Ad-Hoc*
 - [ ] [2031](https://www.beecrowd.com.br/judge/en/problems/view/2031) - [Rock, Paper, Airstrike] *Beginner*
