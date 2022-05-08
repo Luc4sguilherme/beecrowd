@@ -1,4 +1,4 @@
-# Problems (42.39 %)
+# Problems (42.69 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -221,7 +221,7 @@
 - [ ] [2727](https://www.beecrowd.com.br/judge/en/problems/view/2727) - [Secret Code]
 - [x] [2747](https://www.beecrowd.com.br/judge/en/problems/view/2747) - [Output 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2700-2799]/2747/code.js)
 - [x] [2748](https://www.beecrowd.com.br/judge/en/problems/view/2748) - [Output 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2700-2799]/2748/code.js)
-- [ ] [2749](https://www.beecrowd.com.br/judge/en/problems/view/2749) - [Output 3]
+- [x] [2749](https://www.beecrowd.com.br/judge/en/problems/view/2749) - [Output 3](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2700-2799]/2749/code.js)
 - [ ] [2750](https://www.beecrowd.com.br/judge/en/problems/view/2750) - [Output 4]
 - [ ] [2752](https://www.beecrowd.com.br/judge/en/problems/view/2752) - [Output 6]
 - [ ] [2753](https://www.beecrowd.com.br/judge/en/problems/view/2753) - [Output 7]
