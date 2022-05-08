@@ -1,4 +1,4 @@
-# Problems 2000 (4 %)
+# Problems 2000 (5 %)
 
 
 - [ ] [2000](https://www.beecrowd.com.br/judge/en/problems/view/2000) - [Adeildo of Odonto] *Strings*
@@ -32,7 +32,7 @@
 - [x] [2028](https://www.beecrowd.com.br/judge/en/problems/view/2028) - [Sequence of Sequence](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2028/code.js) *Beginner*
 - [x] [2029](https://www.beecrowd.com.br/judge/en/problems/view/2029) - [Honey Reservoir](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2029/code.js) *Beginner*
 - [ ] [2030](https://www.beecrowd.com.br/judge/en/problems/view/2030) - [Pit Stop] *Ad-Hoc*
-- [ ] [2031](https://www.beecrowd.com.br/judge/en/problems/view/2031) - [Rock, Paper, Airstrike] *Beginner*
+- [x] [2031](https://www.beecrowd.com.br/judge/en/problems/view/2031) - [Rock, Paper, Airstrike](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2031/code.js) *Beginner*
 - [ ] [2032](https://www.beecrowd.com.br/judge/en/problems/view/2032) - [Game of Eight] *Graph*
 - [ ] [2033](https://www.beecrowd.com.br/judge/en/problems/view/2033) - [Interest on Loan] *Mathematics*
 - [ ] [2034](https://www.beecrowd.com.br/judge/en/problems/view/2034) - [Cantor] *Mathematics*
