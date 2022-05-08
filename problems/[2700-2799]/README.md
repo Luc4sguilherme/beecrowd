@@ -1,4 +1,4 @@
-# Problems 2700 (2.04 %)
+# Problems 2700 (3.06 %)
 
 
 - [ ] [2700](https://www.beecrowd.com.br/judge/en/problems/view/2700) - [Fundraising] *Data Structures and Libraries*
@@ -48,7 +48,7 @@
 - [ ] [2745](https://www.beecrowd.com.br/judge/en/problems/view/2745) - [Taxes] *SQL*
 - [ ] [2746](https://www.beecrowd.com.br/judge/en/problems/view/2746) - [Viruses] *SQL*
 - [x] [2747](https://www.beecrowd.com.br/judge/en/problems/view/2747) - [Output 1](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2700-2799]/2747/code.js) *Beginner*
-- [ ] [2748](https://www.beecrowd.com.br/judge/en/problems/view/2748) - [Output 2] *Beginner*
+- [x] [2748](https://www.beecrowd.com.br/judge/en/problems/view/2748) - [Output 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2700-2799]/2748/code.js) *Beginner*
 - [ ] [2749](https://www.beecrowd.com.br/judge/en/problems/view/2749) - [Output 3] *Beginner*
 - [ ] [2750](https://www.beecrowd.com.br/judge/en/problems/view/2750) - [Output 4] *Beginner*
 - [ ] [2752](https://www.beecrowd.com.br/judge/en/problems/view/2752) - [Output 6] *Beginner*
