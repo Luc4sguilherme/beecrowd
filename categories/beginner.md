@@ -1,4 +1,4 @@
-# Problems (42.69 %)
+# Problems (42.99 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -130,7 +130,7 @@
 - [x] [1866](https://www.beecrowd.com.br/judge/en/problems/view/1866) - [Bill](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1866/code.js)
 - [x] [1914](https://www.beecrowd.com.br/judge/en/problems/view/1914) - [Whose Turn Is It?](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1914/code.js)
 - [x] [1924](https://www.beecrowd.com.br/judge/en/problems/view/1924) - [Vitória and Her Indecision](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1924/code.js)
-- [ ] [1929](https://www.beecrowd.com.br/judge/en/problems/view/1929) - [Triangle]
+- [x] [1929](https://www.beecrowd.com.br/judge/en/problems/view/1929) - [Triangle](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1929/code.js)
 - [x] [1930](https://www.beecrowd.com.br/judge/en/problems/view/1930) - [Electrical Outlet](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1930/code.js)
 - [x] [1933](https://www.beecrowd.com.br/judge/en/problems/view/1933) - [Tri-du](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1933/code.js)
 - [x] [1957](https://www.beecrowd.com.br/judge/en/problems/view/1957) - [Converting to Hexadecimal](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1900-1999]/1957/code.js)
