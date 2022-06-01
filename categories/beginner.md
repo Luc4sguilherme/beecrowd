@@ -1,4 +1,4 @@
-# Problems (44.18 %)
+# Problems (44.48 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -149,7 +149,7 @@
 - [x] [2028](https://www.beecrowd.com.br/judge/en/problems/view/2028) - [Sequence of Sequence](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2028/code.js)
 - [x] [2029](https://www.beecrowd.com.br/judge/en/problems/view/2029) - [Honey Reservoir](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2029/code.js)
 - [x] [2031](https://www.beecrowd.com.br/judge/en/problems/view/2031) - [Rock, Paper, Airstrike](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2031/code.js)
-- [ ] [2057](https://www.beecrowd.com.br/judge/en/problems/view/2057) - [Time Zone]
+- [x] [2057](https://www.beecrowd.com.br/judge/en/problems/view/2057) - [Time Zone](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2057/code.js)
 - [ ] [2059](https://www.beecrowd.com.br/judge/en/problems/view/2059) - [Odd, Even or Cheating]
 - [x] [2060](https://www.beecrowd.com.br/judge/en/problems/view/2060) - [Bino's Challenge](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2060/code.js)
 - [x] [2061](https://www.beecrowd.com.br/judge/en/problems/view/2061) - [Closing Tabs](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2061/code.js)

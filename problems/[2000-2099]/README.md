@@ -1,4 +1,4 @@
-# Problems 2000 (7 %)
+# Problems 2000 (8 %)
 
 
 - [ ] [2000](https://www.beecrowd.com.br/judge/en/problems/view/2000) - [Adeildo of Odonto] *Strings*
@@ -58,7 +58,7 @@
 - [ ] [2054](https://www.beecrowd.com.br/judge/en/problems/view/2054) - [Last Year at Marienbad] *Ad-Hoc*
 - [ ] [2055](https://www.beecrowd.com.br/judge/en/problems/view/2055) - [Lisp is Better than Java, C and C++] *Strings*
 - [ ] [2056](https://www.beecrowd.com.br/judge/en/problems/view/2056) - [The Cube] *Graph*
-- [ ] [2057](https://www.beecrowd.com.br/judge/en/problems/view/2057) - [Time Zone] *Beginner*
+- [x] [2057](https://www.beecrowd.com.br/judge/en/problems/view/2057) - [Time Zone](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2057/code.js) *Beginner*
 - [ ] [2058](https://www.beecrowd.com.br/judge/en/problems/view/2058) - [Triangles and Regular Polygons] *Ad-Hoc*
 - [ ] [2059](https://www.beecrowd.com.br/judge/en/problems/view/2059) - [Odd, Even or Cheating] *Beginner*
 - [x] [2060](https://www.beecrowd.com.br/judge/en/problems/view/2060) - [Bino's Challenge](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2060/code.js) *Beginner*
