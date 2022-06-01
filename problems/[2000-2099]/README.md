@@ -1,4 +1,4 @@
-# Problems 2000 (6 %)
+# Problems 2000 (7 %)
 
 
 - [ ] [2000](https://www.beecrowd.com.br/judge/en/problems/view/2000) - [Adeildo of Odonto] *Strings*
@@ -62,7 +62,7 @@
 - [ ] [2058](https://www.beecrowd.com.br/judge/en/problems/view/2058) - [Triangles and Regular Polygons] *Ad-Hoc*
 - [ ] [2059](https://www.beecrowd.com.br/judge/en/problems/view/2059) - [Odd, Even or Cheating] *Beginner*
 - [x] [2060](https://www.beecrowd.com.br/judge/en/problems/view/2060) - [Bino's Challenge](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2060/code.js) *Beginner*
-- [ ] [2061](https://www.beecrowd.com.br/judge/en/problems/view/2061) - [Closing Tabs] *Beginner*
+- [x] [2061](https://www.beecrowd.com.br/judge/en/problems/view/2061) - [Closing Tabs](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2061/code.js) *Beginner*
 - [ ] [2062](https://www.beecrowd.com.br/judge/en/problems/view/2062) - [OBI URI] *Strings*
 - [ ] [2063](https://www.beecrowd.com.br/judge/en/problems/view/2063) - [Hunting Digletts] *Mathematics*
 - [ ] [2064](https://www.beecrowd.com.br/judge/en/problems/view/2064) - [Prant and the Indecision] *Data Structures and Libraries*
