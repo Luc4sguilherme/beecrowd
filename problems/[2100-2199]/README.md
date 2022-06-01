@@ -1,4 +1,4 @@
-# Problems 2100 (1.02 %)
+# Problems 2100 (2.04 %)
 
 
 - [ ] [2100](https://www.beecrowd.com.br/judge/en/problems/view/2100) - [Xing Tzen Zu’s Movie Theater] *Mathematics*
@@ -27,7 +27,7 @@
 - [ ] [2123](https://www.beecrowd.com.br/judge/en/problems/view/2123) - [The Law Goes on Horseback!] *Ad-Hoc*
 - [ ] [2124](https://www.beecrowd.com.br/judge/en/problems/view/2124) - [Mrs. Montagny Menu!] *Paradigms*
 - [ ] [2125](https://www.beecrowd.com.br/judge/en/problems/view/2125) - [Totems Builders] *Ad-Hoc*
-- [ ] [2126](https://www.beecrowd.com.br/judge/en/problems/view/2126) - [Searching Subsequences] *Beginner*
+- [x] [2126](https://www.beecrowd.com.br/judge/en/problems/view/2126) - [Searching Subsequences](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2126/code.js) *Beginner*
 - [ ] [2127](https://www.beecrowd.com.br/judge/en/problems/view/2127) - [Vine System] *Graph*
 - [ ] [2128](https://www.beecrowd.com.br/judge/en/problems/view/2128) - [Demonstration of Honesty!] *Graph*
 - [ ] [2129](https://www.beecrowd.com.br/judge/en/problems/view/2129) - [Factorial] *Mathematics*
