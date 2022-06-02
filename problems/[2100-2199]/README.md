@@ -1,4 +1,4 @@
-# Problems 2100 (5.10 %)
+# Problems 2100 (6.12 %)
 
 
 - [ ] [2100](https://www.beecrowd.com.br/judge/en/problems/view/2100) - [Xing Tzen Zu’s Movie Theater] *Mathematics*
@@ -61,7 +61,7 @@
 - [ ] [2157](https://www.beecrowd.com.br/judge/en/problems/view/2157) - [Mirror Sequence] *Strings*
 - [ ] [2158](https://www.beecrowd.com.br/judge/en/problems/view/2158) - [Helping Uncle Cláudio] *Computational Geometry*
 - [x] [2159](https://www.beecrowd.com.br/judge/en/problems/view/2159) - [Approximate Number of Primes](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2159/code.js) *Beginner*
-- [ ] [2160](https://www.beecrowd.com.br/judge/en/problems/view/2160) - [Name at Form] *Beginner*
+- [x] [2160](https://www.beecrowd.com.br/judge/en/problems/view/2160) - [Name at Form](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2160/code.js) *Beginner*
 - [x] [2161](https://www.beecrowd.com.br/judge/en/problems/view/2161) - [Square Root of 10](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2161/code.js) *Beginner*
 - [ ] [2162](https://www.beecrowd.com.br/judge/en/problems/view/2162) - [Peaks and Valleys] *Beginner*
 - [ ] [2163](https://www.beecrowd.com.br/judge/en/problems/view/2163) - [The Force Awakens] *Beginner*
