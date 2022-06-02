@@ -1,4 +1,4 @@
-# Problems (44.48 %)
+# Problems (44.78 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -162,7 +162,7 @@
 - [x] [2152](https://www.beecrowd.com.br/judge/en/problems/view/2152) - [Pepe, I Already Took the Candle!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2152/code.js)
 - [ ] [2159](https://www.beecrowd.com.br/judge/en/problems/view/2159) - [Approximate Number of Primes]
 - [ ] [2160](https://www.beecrowd.com.br/judge/en/problems/view/2160) - [Name at Form]
-- [ ] [2161](https://www.beecrowd.com.br/judge/en/problems/view/2161) - [Square Root of 10]
+- [x] [2161](https://www.beecrowd.com.br/judge/en/problems/view/2161) - [Square Root of 10](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2161/code.js)
 - [ ] [2162](https://www.beecrowd.com.br/judge/en/problems/view/2162) - [Peaks and Valleys]
 - [ ] [2163](https://www.beecrowd.com.br/judge/en/problems/view/2163) - [The Force Awakens]
 - [ ] [2164](https://www.beecrowd.com.br/judge/en/problems/view/2164) - [Fast Fibonacci]
