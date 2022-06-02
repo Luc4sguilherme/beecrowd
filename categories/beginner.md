@@ -1,4 +1,4 @@
-# Problems (45.67 %)
+# Problems (45.97 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -167,7 +167,7 @@
 - [ ] [2163](https://www.beecrowd.com.br/judge/en/problems/view/2163) - [The Force Awakens]
 - [x] [2164](https://www.beecrowd.com.br/judge/en/problems/view/2164) - [Fast Fibonacci](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2164/code.js)
 - [ ] [2165](https://www.beecrowd.com.br/judge/en/problems/view/2165) - [Twitting]
-- [ ] [2166](https://www.beecrowd.com.br/judge/en/problems/view/2166) - [Square Root of 2]
+- [x] [2166](https://www.beecrowd.com.br/judge/en/problems/view/2166) - [Square Root of 2](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2166/code.js)
 - [ ] [2167](https://www.beecrowd.com.br/judge/en/problems/view/2167) - [Engine Failure]
 - [ ] [2168](https://www.beecrowd.com.br/judge/en/problems/view/2168) - [Twilight at Portland]
 - [ ] [2172](https://www.beecrowd.com.br/judge/en/problems/view/2172) - [Event]
