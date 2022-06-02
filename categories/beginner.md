@@ -1,4 +1,4 @@
-# Problems (45.37 %)
+# Problems (45.67 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -165,7 +165,7 @@
 - [x] [2161](https://www.beecrowd.com.br/judge/en/problems/view/2161) - [Square Root of 10](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2161/code.js)
 - [ ] [2162](https://www.beecrowd.com.br/judge/en/problems/view/2162) - [Peaks and Valleys]
 - [ ] [2163](https://www.beecrowd.com.br/judge/en/problems/view/2163) - [The Force Awakens]
-- [ ] [2164](https://www.beecrowd.com.br/judge/en/problems/view/2164) - [Fast Fibonacci]
+- [x] [2164](https://www.beecrowd.com.br/judge/en/problems/view/2164) - [Fast Fibonacci](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2164/code.js)
 - [ ] [2165](https://www.beecrowd.com.br/judge/en/problems/view/2165) - [Twitting]
 - [ ] [2166](https://www.beecrowd.com.br/judge/en/problems/view/2166) - [Square Root of 2]
 - [ ] [2167](https://www.beecrowd.com.br/judge/en/problems/view/2167) - [Engine Failure]
