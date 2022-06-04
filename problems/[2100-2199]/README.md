@@ -1,4 +1,4 @@
-# Problems 2100 (8.16 %)
+# Problems 2100 (9.18 %)
 
 
 - [ ] [2100](https://www.beecrowd.com.br/judge/en/problems/view/2100) - [Xing Tzen Zu’s Movie Theater] *Mathematics*
@@ -47,7 +47,7 @@
 - [ ] [2143](https://www.beecrowd.com.br/judge/en/problems/view/2143) - [The Return of Radar] *Beginner*
 - [ ] [2144](https://www.beecrowd.com.br/judge/en/problems/view/2144) - [Bodybuilder] *Ad-Hoc*
 - [ ] [2145](https://www.beecrowd.com.br/judge/en/problems/view/2145) - [The Love Life of the Numbers] *Mathematics*
-- [ ] [2146](https://www.beecrowd.com.br/judge/en/problems/view/2146) - [Password] *Beginner*
+- [x] [2146](https://www.beecrowd.com.br/judge/en/problems/view/2146) - [Password](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2146/code.js) *Beginner*
 - [ ] [2147](https://www.beecrowd.com.br/judge/en/problems/view/2147) - [Galopeira] *Beginner*
 - [ ] [2148](https://www.beecrowd.com.br/judge/en/problems/view/2148) - [Dice Seat] *Mathematics*
 - [ ] [2149](https://www.beecrowd.com.br/judge/en/problems/view/2149) - [The Uncle Phill Bonati's Sequence] *Mathematics*

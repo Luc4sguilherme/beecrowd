@@ -1,4 +1,4 @@
-# Problems (45.97 %)
+# Problems (46.27 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -157,7 +157,7 @@
 - [x] [2139](https://www.beecrowd.com.br/judge/en/problems/view/2139) - [Pedrinho's Christmas](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2139/code.js)
 - [ ] [2140](https://www.beecrowd.com.br/judge/en/problems/view/2140) - [Two Bills]
 - [ ] [2143](https://www.beecrowd.com.br/judge/en/problems/view/2143) - [The Return of Radar]
-- [ ] [2146](https://www.beecrowd.com.br/judge/en/problems/view/2146) - [Password]
+- [x] [2146](https://www.beecrowd.com.br/judge/en/problems/view/2146) - [Password](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2146/code.js)
 - [ ] [2147](https://www.beecrowd.com.br/judge/en/problems/view/2147) - [Galopeira]
 - [x] [2152](https://www.beecrowd.com.br/judge/en/problems/view/2152) - [Pepe, I Already Took the Candle!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2152/code.js)
 - [x] [2159](https://www.beecrowd.com.br/judge/en/problems/view/2159) - [Approximate Number of Primes](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2159/code.js)
