@@ -1,4 +1,4 @@
-# Problems 1800 (8 %)
+# Problems 1800 (9 %)
 
 
 - [ ] [1800](https://www.beecrowd.com.br/judge/en/problems/view/1800) - [Where Are My Keys] *Ad-Hoc*
@@ -59,7 +59,7 @@
 - [ ] [1855](https://www.beecrowd.com.br/judge/en/problems/view/1855) - [Maester's Map] *Graph*
 - [ ] [1856](https://www.beecrowd.com.br/judge/en/problems/view/1856) - [Arya's Death List] *Data Structures and Libraries*
 - [ ] [1857](https://www.beecrowd.com.br/judge/en/problems/view/1857) - [Prelude of a Red Wedding] *Computational Geometry*
-- [ ] [1858](https://www.beecrowd.com.br/judge/en/problems/view/1858) - [Theon's Answer] *Beginner*
+- [x] [1858](https://www.beecrowd.com.br/judge/en/problems/view/1858) - [Theon's Answer](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1800-1899]/1858/code.js) *Beginner*
 - [ ] [1859](https://www.beecrowd.com.br/judge/en/problems/view/1859) - [Frozen Archaeology] *Strings*
 - [ ] [1860](https://www.beecrowd.com.br/judge/en/problems/view/1860) - [Cersei's Walk of Shame] *Paradigms*
 - [ ] [1861](https://www.beecrowd.com.br/judge/en/problems/view/1861) - [Hall of Murderers] *Data Structures and Libraries*
