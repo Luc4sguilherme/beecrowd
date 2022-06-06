@@ -1,4 +1,4 @@
-# Problems (47.16 %)
+# Problems (47.46 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -180,7 +180,7 @@
 - [ ] [2311](https://www.beecrowd.com.br/judge/en/problems/view/2311) - [Diving]
 - [ ] [2313](https://www.beecrowd.com.br/judge/en/problems/view/2313) - [Which Triangle]
 - [ ] [2334](https://www.beecrowd.com.br/judge/en/problems/view/2334) - [Little Ducks]
-- [ ] [2344](https://www.beecrowd.com.br/judge/en/problems/view/2344) - [Notas da Prova]
+- [x] [2344](https://www.beecrowd.com.br/judge/en/problems/view/2344) - [Notas da Prova](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2300-2399]/2344/code.js)
 - [ ] [2483](https://www.beecrowd.com.br/judge/en/problems/view/2483) - [Merry Christmaaas!]
 - [ ] [2486](https://www.beecrowd.com.br/judge/en/problems/view/2486) - [C Mais ou Menos?]
 - [ ] [2493](https://www.beecrowd.com.br/judge/en/problems/view/2493) - [Jogo do Operador]

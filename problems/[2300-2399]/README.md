@@ -1,4 +1,4 @@
-# Problems 2300 (0 %)
+# Problems 2300 (1 %)
 
 
 - [ ] [2300](https://www.beecrowd.com.br/judge/en/problems/view/2300) - [Transmissão de Energia] *Graph*
@@ -45,7 +45,7 @@
 - [ ] [2341](https://www.beecrowd.com.br/judge/en/problems/view/2341) - [Número de Envelopes] *Ad-Hoc*
 - [ ] [2342](https://www.beecrowd.com.br/judge/en/problems/view/2342) - [Overflow] *Ad-Hoc*
 - [ ] [2343](https://www.beecrowd.com.br/judge/en/problems/view/2343) - [Caçadores de Mitos] *Ad-Hoc*
-- [ ] [2344](https://www.beecrowd.com.br/judge/en/problems/view/2344) - [Notas da Prova] *Beginner*
+- [x] [2344](https://www.beecrowd.com.br/judge/en/problems/view/2344) - [Notas da Prova](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2300-2399]/2344/code.js) *Beginner*
 - [ ] [2345](https://www.beecrowd.com.br/judge/en/problems/view/2345) - [Assigning Teams] *Ad-Hoc*
 - [ ] [2346](https://www.beecrowd.com.br/judge/en/problems/view/2346) - [Back to the Future] *Ad-Hoc*
 - [ ] [2347](https://www.beecrowd.com.br/judge/en/problems/view/2347) - [Counting Self-Rotating Subsets] *Ad-Hoc*
