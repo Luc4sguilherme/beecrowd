@@ -1,4 +1,4 @@
-# Problems 2800 (1 %)
+# Problems 2800 (2 %)
 
 
 - [ ] [2800](https://www.beecrowd.com.br/judge/en/problems/view/2800) - [Playing with Queries] *Data Structures and Libraries*
@@ -68,7 +68,7 @@
 - [ ] [2864](https://www.beecrowd.com.br/judge/en/problems/view/2864) - [How Tall is It?] *Mathematics*
 - [ ] [2865](https://www.beecrowd.com.br/judge/en/problems/view/2865) - [Binary Palindrome] *Ad-Hoc*
 - [ ] [2866](https://www.beecrowd.com.br/judge/en/problems/view/2866) - [Cryptotext] *Strings*
-- [ ] [2867](https://www.beecrowd.com.br/judge/en/problems/view/2867) - [Digits] *Beginner*
+- [x] [2867](https://www.beecrowd.com.br/judge/en/problems/view/2867) - [Digits](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2800-2899]/2867/code.js) *Beginner*
 - [ ] [2868](https://www.beecrowd.com.br/judge/en/problems/view/2868) - [Wrrrong!] *Ad-Hoc*
 - [ ] [2869](https://www.beecrowd.com.br/judge/en/problems/view/2869) - [Talking about Divisor ...] *Mathematics*
 - [ ] [2870](https://www.beecrowd.com.br/judge/en/problems/view/2870) - [Map Game] *Graph*

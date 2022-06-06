@@ -1,4 +1,4 @@
-# Problems (46.57 %)
+# Problems (46.87 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -264,7 +264,7 @@
 - [ ] [2861](https://www.beecrowd.com.br/judge/en/problems/view/2861) - [The Output]
 - [ ] [2862](https://www.beecrowd.com.br/judge/en/problems/view/2862) - [Insect!]
 - [ ] [2863](https://www.beecrowd.com.br/judge/en/problems/view/2863) - [Umil Bolt]
-- [ ] [2867](https://www.beecrowd.com.br/judge/en/problems/view/2867) - [Digits]
+- [x] [2867](https://www.beecrowd.com.br/judge/en/problems/view/2867) - [Digits](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2800-2899]/2867/code.js)
 - [ ] [2879](https://www.beecrowd.com.br/judge/en/problems/view/2879) - [Desvendando Monty Hall]
 - [ ] [2896](https://www.beecrowd.com.br/judge/en/problems/view/2896) - [Enjoy the Offer]
 - [ ] [2930](https://www.beecrowd.com.br/judge/en/problems/view/2930) - [Final Thesis of Christmas Depression]
