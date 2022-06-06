@@ -1,4 +1,4 @@
-# Problems 2200 (0 %)
+# Problems 2200 (1.10 %)
 
 
 - [ ] [2200](https://www.beecrowd.com.br/judge/en/problems/view/2200) - [Mummy Madness] *Ad-Hoc*
@@ -34,7 +34,7 @@
 - [ ] [2231](https://www.beecrowd.com.br/judge/en/problems/view/2231) - [Lunar Temperature] *Ad-Hoc*
 - [ ] [2232](https://www.beecrowd.com.br/judge/en/problems/view/2232) - [Pascal's Triangle] *Mathematics*
 - [ ] [2233](https://www.beecrowd.com.br/judge/en/problems/view/2233) - [Colorful Labels] *Ad-Hoc*
-- [ ] [2234](https://www.beecrowd.com.br/judge/en/problems/view/2234) - [Hot Dogs] *Beginner*
+- [x] [2234](https://www.beecrowd.com.br/judge/en/problems/view/2234) - [Hot Dogs](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2200-2299]/2234/code.js) *Beginner*
 - [ ] [2235](https://www.beecrowd.com.br/judge/en/problems/view/2235) - [Walking in Time] *Beginner*
 - [ ] [2236](https://www.beecrowd.com.br/judge/en/problems/view/2236) - [Hot Potato] *Paradigms*
 - [ ] [2237](https://www.beecrowd.com.br/judge/en/problems/view/2237) - [Containers] *Ad-Hoc*

@@ -1,4 +1,4 @@
-# Problems (46.87 %)
+# Problems (47.16 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -174,7 +174,7 @@
 - [ ] [2176](https://www.beecrowd.com.br/judge/en/problems/view/2176) - [Parity]
 - [ ] [2203](https://www.beecrowd.com.br/judge/en/problems/view/2203) - [Crowstorm]
 - [ ] [2221](https://www.beecrowd.com.br/judge/en/problems/view/2221) - [Pomekons Battle]
-- [ ] [2234](https://www.beecrowd.com.br/judge/en/problems/view/2234) - [Hot Dogs]
+- [x] [2234](https://www.beecrowd.com.br/judge/en/problems/view/2234) - [Hot Dogs](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2200-2299]/2234/code.js)
 - [ ] [2235](https://www.beecrowd.com.br/judge/en/problems/view/2235) - [Walking in Time]
 - [ ] [2310](https://www.beecrowd.com.br/judge/en/problems/view/2310) - [Volleyball]
 - [ ] [2311](https://www.beecrowd.com.br/judge/en/problems/view/2311) - [Diving]
