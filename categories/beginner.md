@@ -1,4 +1,4 @@
-# Problems (48.06 %)
+# Problems (48.36 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -206,7 +206,7 @@
 - [ ] [2635](https://www.beecrowd.com.br/judge/en/problems/view/2635) - [Web Browser]
 - [ ] [2653](https://www.beecrowd.com.br/judge/en/problems/view/2653) - [Dijkstra]
 - [ ] [2663](https://www.beecrowd.com.br/judge/en/problems/view/2663) - [Fase]
-- [ ] [2670](https://www.beecrowd.com.br/judge/en/problems/view/2670) - [Máquina de Café]
+- [x] [2670](https://www.beecrowd.com.br/judge/en/problems/view/2670) - [Máquina de Café](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2600-2699]/2670/code.js)
 - [ ] [2685](https://www.beecrowd.com.br/judge/en/problems/view/2685) - [The Change]
 - [ ] [2686](https://www.beecrowd.com.br/judge/en/problems/view/2686) - [The Change Continues!!]
 - [ ] [2702](https://www.beecrowd.com.br/judge/en/problems/view/2702) - [Hard Choice]

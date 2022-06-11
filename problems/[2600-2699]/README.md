@@ -1,4 +1,4 @@
-# Problems 2600 (0 %)
+# Problems 2600 (1.06 %)
 
 
 - [ ] [2600](https://www.beecrowd.com.br/judge/en/problems/view/2600) - [Tustin and His New Die] *Ad-Hoc*
@@ -66,7 +66,7 @@
 - [ ] [2667](https://www.beecrowd.com.br/judge/en/problems/view/2667) - [Jogo de Boca] *Mathematics*
 - [ ] [2668](https://www.beecrowd.com.br/judge/en/problems/view/2668) - [K-ésimo] *Mathematics*
 - [ ] [2669](https://www.beecrowd.com.br/judge/en/problems/view/2669) - [Laboratório de Biotecnologia] *Strings*
-- [ ] [2670](https://www.beecrowd.com.br/judge/en/problems/view/2670) - [Máquina de Café] *Beginner*
+- [x] [2670](https://www.beecrowd.com.br/judge/en/problems/view/2670) - [Máquina de Café](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2600-2699]/2670/code.js) *Beginner*
 - [ ] [2671](https://www.beecrowd.com.br/judge/en/problems/view/2671) - [Decoding the Text] *Data Structures and Libraries*
 - [ ] [2672](https://www.beecrowd.com.br/judge/en/problems/view/2672) - [Network Mask] *Ad-Hoc*
 - [ ] [2673](https://www.beecrowd.com.br/judge/en/problems/view/2673) - [Serial and Parallel Resistors] *Ad-Hoc*
