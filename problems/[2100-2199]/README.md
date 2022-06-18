@@ -1,4 +1,4 @@
-# Problems 2100 (11.22 %)
+# Problems 2100 (12.24 %)
 
 
 - [ ] [2100](https://www.beecrowd.com.br/judge/en/problems/view/2100) - [Xing Tzen Zu’s Movie Theater] *Mathematics*
@@ -41,7 +41,7 @@
 - [ ] [2137](https://www.beecrowd.com.br/judge/en/problems/view/2137) - [The Library of Mr. Severino] *Strings*
 - [ ] [2138](https://www.beecrowd.com.br/judge/en/problems/view/2138) - [Most Frequent Digit] *Ad-Hoc*
 - [x] [2139](https://www.beecrowd.com.br/judge/en/problems/view/2139) - [Pedrinho's Christmas](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2139/code.js) *Beginner*
-- [ ] [2140](https://www.beecrowd.com.br/judge/en/problems/view/2140) - [Two Bills] *Beginner*
+- [x] [2140](https://www.beecrowd.com.br/judge/en/problems/view/2140) - [Two Bills](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2140/code.js) *Beginner*
 - [ ] [2141](https://www.beecrowd.com.br/judge/en/problems/view/2141) - [P4 Simplified] *Ad-Hoc*
 - [ ] [2142](https://www.beecrowd.com.br/judge/en/problems/view/2142) - [Stop the Pigeon!] *Ad-Hoc*
 - [ ] [2143](https://www.beecrowd.com.br/judge/en/problems/view/2143) - [The Return of Radar] *Beginner*

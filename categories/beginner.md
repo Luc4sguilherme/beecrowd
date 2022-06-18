@@ -1,4 +1,4 @@
-# Problems (48.36 %)
+# Problems (48.66 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -155,7 +155,7 @@
 - [x] [2061](https://www.beecrowd.com.br/judge/en/problems/view/2061) - [Closing Tabs](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2000-2099]/2061/code.js)
 - [x] [2126](https://www.beecrowd.com.br/judge/en/problems/view/2126) - [Searching Subsequences](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2126/code.js)
 - [x] [2139](https://www.beecrowd.com.br/judge/en/problems/view/2139) - [Pedrinho's Christmas](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2139/code.js)
-- [ ] [2140](https://www.beecrowd.com.br/judge/en/problems/view/2140) - [Two Bills]
+- [x] [2140](https://www.beecrowd.com.br/judge/en/problems/view/2140) - [Two Bills](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2140/code.js)
 - [ ] [2143](https://www.beecrowd.com.br/judge/en/problems/view/2143) - [The Return of Radar]
 - [x] [2146](https://www.beecrowd.com.br/judge/en/problems/view/2146) - [Password](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2146/code.js)
 - [x] [2147](https://www.beecrowd.com.br/judge/en/problems/view/2147) - [Galopeira](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2100-2199]/2147/code.js)
