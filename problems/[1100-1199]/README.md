@@ -1,4 +1,4 @@
-# Problems 1100 (42 %)
+# Problems 1100 (43 %)
 
 
 - [ ] [1100](https://www.beecrowd.com.br/judge/en/problems/view/1100) - [Knight Moves] *Graph*
@@ -32,7 +32,7 @@
 - [ ] [1128](https://www.beecrowd.com.br/judge/en/problems/view/1128) - [Come and Go] *Graph*
 - [ ] [1129](https://www.beecrowd.com.br/judge/en/problems/view/1129) - [Optical Reader] *Ad-Hoc*
 - [ ] [1130](https://www.beecrowd.com.br/judge/en/problems/view/1130) - [Tic-tac-toe] *Ad-Hoc*
-- [ ] [1131](https://www.beecrowd.com.br/judge/en/problems/view/1131) - [Grenais] *Beginner*
+- [x] [1131](https://www.beecrowd.com.br/judge/en/problems/view/1131) - [Grenais](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1131/code.js) *Beginner*
 - [x] [1132](https://www.beecrowd.com.br/judge/en/problems/view/1132) - [Multiples of 13](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1132/code.js) *Beginner*
 - [x] [1133](https://www.beecrowd.com.br/judge/en/problems/view/1133) - [Rest of a Division](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1133/code.js) *Beginner*
 - [x] [1134](https://www.beecrowd.com.br/judge/en/problems/view/1134) - [Type of Fuel](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1134/code.js) *Beginner*
