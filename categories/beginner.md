@@ -1,4 +1,4 @@
-# Problems (49.85 %)
+# Problems (50.15 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -177,7 +177,7 @@
 - [x] [2234](https://www.beecrowd.com.br/judge/en/problems/view/2234) - [Hot Dogs](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2200-2299]/2234/code.js)
 - [ ] [2235](https://www.beecrowd.com.br/judge/en/problems/view/2235) - [Walking in Time]
 - [x] [2310](https://www.beecrowd.com.br/judge/en/problems/view/2310) - [Volleyball](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2300-2399]/2310/code.js)
-- [ ] [2311](https://www.beecrowd.com.br/judge/en/problems/view/2311) - [Diving]
+- [x] [2311](https://www.beecrowd.com.br/judge/en/problems/view/2311) - [Diving](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2300-2399]/2311/code.js)
 - [ ] [2313](https://www.beecrowd.com.br/judge/en/problems/view/2313) - [Which Triangle]
 - [ ] [2334](https://www.beecrowd.com.br/judge/en/problems/view/2334) - [Little Ducks]
 - [x] [2344](https://www.beecrowd.com.br/judge/en/problems/view/2344) - [Notas da Prova](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2300-2399]/2344/code.js)
