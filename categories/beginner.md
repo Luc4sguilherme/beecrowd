@@ -1,4 +1,4 @@
-# Problems (48.96 %)
+# Problems (49.25 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -68,7 +68,7 @@
 - [x] [1115](https://www.beecrowd.com.br/judge/en/problems/view/1115) - [Quadrant](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1115/code.js)
 - [x] [1116](https://www.beecrowd.com.br/judge/en/problems/view/1116) - [Dividing X by Y](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1116/code.js)
 - [x] [1117](https://www.beecrowd.com.br/judge/en/problems/view/1117) - [Score Validation](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1117/code.js)
-- [ ] [1118](https://www.beecrowd.com.br/judge/en/problems/view/1118) - [Several Scores with Validation]
+- [x] [1118](https://www.beecrowd.com.br/judge/en/problems/view/1118) - [Several Scores with Validation](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1118/code.js)
 - [ ] [1131](https://www.beecrowd.com.br/judge/en/problems/view/1131) - [Grenais]
 - [x] [1132](https://www.beecrowd.com.br/judge/en/problems/view/1132) - [Multiples of 13](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1132/code.js)
 - [x] [1133](https://www.beecrowd.com.br/judge/en/problems/view/1133) - [Rest of a Division](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1100-1199]/1133/code.js)
