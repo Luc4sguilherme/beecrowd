@@ -1,4 +1,4 @@
-# Problems 1700 (1 %)
+# Problems 1700 (2 %)
 
 
 - [ ] [1700](https://www.beecrowd.com.br/judge/en/problems/view/1700) - [Antennas] *Paradigms*
@@ -90,7 +90,7 @@
 - [ ] [1786](https://www.beecrowd.com.br/judge/en/problems/view/1786) - [SSN 2] *Ad-Hoc*
 - [ ] [1787](https://www.beecrowd.com.br/judge/en/problems/view/1787) - [URI] *Ad-Hoc*
 - [ ] [1788](https://www.beecrowd.com.br/judge/en/problems/view/1788) - [Playing with Numbers] *Paradigms*
-- [ ] [1789](https://www.beecrowd.com.br/judge/en/problems/view/1789) - [The Race of Slugs] *Beginner*
+- [x] [1789](https://www.beecrowd.com.br/judge/en/problems/view/1789) - [The Race of Slugs](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1700-1799]/1789/code.js) *Beginner*
 - [ ] [1790](https://www.beecrowd.com.br/judge/en/problems/view/1790) - [Detecting Bridges] *Graph*
 - [ ] [1791](https://www.beecrowd.com.br/judge/en/problems/view/1791) - [Discovering an Matrix] *Ad-Hoc*
 - [ ] [1792](https://www.beecrowd.com.br/judge/en/problems/view/1792) - [Programmed Attack] *Graph*
