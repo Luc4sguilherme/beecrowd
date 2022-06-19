@@ -1,4 +1,4 @@
-# Problems 2200 (1.10 %)
+# Problems 2200 (2.20 %)
 
 
 - [ ] [2200](https://www.beecrowd.com.br/judge/en/problems/view/2200) - [Mummy Madness] *Ad-Hoc*
@@ -21,7 +21,7 @@
 - [ ] [2218](https://www.beecrowd.com.br/judge/en/problems/view/2218) - [The Fearful Evil-Son] *Mathematics*
 - [ ] [2219](https://www.beecrowd.com.br/judge/en/problems/view/2219) - [Passing By The PokeStops] *Ad-Hoc*
 - [ ] [2220](https://www.beecrowd.com.br/judge/en/problems/view/2220) - [Helping Gust-Avô] *Paradigms*
-- [ ] [2221](https://www.beecrowd.com.br/judge/en/problems/view/2221) - [Pomekons Battle] *Beginner*
+- [x] [2221](https://www.beecrowd.com.br/judge/en/problems/view/2221) - [Pomekons Battle](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2200-2299]/2221/code.js) *Beginner*
 - [ ] [2222](https://www.beecrowd.com.br/judge/en/problems/view/2222) - [Playing with Sets] *Mathematics*
 - [ ] [2223](https://www.beecrowd.com.br/judge/en/problems/view/2223) - [Pomekon Catalog] *Data Structures and Libraries*
 - [ ] [2224](https://www.beecrowd.com.br/judge/en/problems/view/2224) - [Pomekon Tournament] *Paradigms*
