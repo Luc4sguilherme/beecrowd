@@ -1,4 +1,4 @@
-# Problems 2300 (1 %)
+# Problems 2300 (2 %)
 
 
 - [ ] [2300](https://www.beecrowd.com.br/judge/en/problems/view/2300) - [Transmissão de Energia] *Graph*
@@ -11,7 +11,7 @@
 - [ ] [2307](https://www.beecrowd.com.br/judge/en/problems/view/2307) - [Jogo de Cartas] *Ad-Hoc*
 - [ ] [2308](https://www.beecrowd.com.br/judge/en/problems/view/2308) - [Museu] *Ad-Hoc*
 - [ ] [2309](https://www.beecrowd.com.br/judge/en/problems/view/2309) - [Truco] *Ad-Hoc*
-- [ ] [2310](https://www.beecrowd.com.br/judge/en/problems/view/2310) - [Volleyball] *Beginner*
+- [x] [2310](https://www.beecrowd.com.br/judge/en/problems/view/2310) - [Volleyball](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2300-2399]/2310/code.js) *Beginner*
 - [ ] [2311](https://www.beecrowd.com.br/judge/en/problems/view/2311) - [Diving] *Beginner*
 - [ ] [2312](https://www.beecrowd.com.br/judge/en/problems/view/2312) - [Medal Table] *Ad-Hoc*
 - [ ] [2313](https://www.beecrowd.com.br/judge/en/problems/view/2313) - [Which Triangle] *Beginner*
