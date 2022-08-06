@@ -1,6 +1,4 @@
 import fs from "fs";
-import axios from "axios";
-import { load } from "cheerio";
 import { resolve, dirname } from "path";
 import { fileURLToPath } from "url";
 import _ from "lodash";
@@ -49,65 +47,55 @@ function createProblemDocFile(contents, number, filename = "README.md") {
 }
 
 function parseProblems(problems) {
+  const pattern =
+    /- \[( |x)\] \[(?<number>\d{1,})\]\(https:.*\) - \[(?<name>.*)\](\(.*?\))? (\*(?<category>.*)\*)/i;
+
   const parsedProblems = [];
 
-  const $ = load(problems);
-  const problemsList = $("tbody tr");
+  problems.split("\n").forEach((problem) => {
+    const regex = new RegExp(pattern);
+    const match = regex.exec(problem);
 
-  problemsList.map(function () {
-    const $row = $(this);
-    const number = $row.find("td.id a").text();
-    const name = $row.find("td.large a:eq(0)").text();
-    const category = $row.find("td.large a:eq(1)").text();
+    if (match) {
+      const {
+        groups: { name, number, category },
+      } = match;
 
-    parsedProblems.push({
-      number,
-      name,
-      category,
-    });
+      parsedProblems.push({
+        number,
+        name,
+        category,
+      });
+    }
   });
 
   return parsedProblems;
 }
 
 async function getProblems(page) {
-  const problems = await axios.get(
-    `https://www.beecrowd.com.br/judge/${config.language}/problems/all?page=${page}&limit=100`
+  const path = resolve(
+    dirname(fileURLToPath(import.meta.url)),
+    "../",
+    "problems"
   );
 
-  return parseProblems(problems.data);
-}
+  const problemsDir = await fs.promises.readdir(path);
+  const problems = await fs.promises.readFile(
+    `${path}/${problemsDir[page]}/README.md`
+  );
 
-function parseCategories(categories) {
-  const parsedCategories = [];
-
-  const $ = load(categories);
-  const categoriesList = $("div#category-list ul li").filter(function () {
-    return !$(this)
-      .attr("class")
-      .search(/category-\d+/);
-  });
-
-  categoriesList.map(function () {
-    const $row = $(this);
-    const title = $row.find("div a").text();
-    const description = $row.find("div p").text().replace(/\n/g, "").trim();
-
-    parsedCategories.push({
-      title,
-      description,
-    });
-  });
-
-  return parsedCategories;
+  return parseProblems(problems.toString());
 }
 
 async function getCategories() {
-  const categories = await axios.get(
-    `https://www.beecrowd.com.br/judge/${config.language}/categories`
+  const path = resolve(
+    dirname(fileURLToPath(import.meta.url)),
+    "config",
+    "categories.json"
   );
+  const categories = await fs.promises.readFile(path);
 
-  return parseCategories(categories.data);
+  return JSON.parse(categories);
 }
 
 function createChunkOfProblems(problems) {
@@ -130,7 +118,7 @@ function createChunkOfProblems(problems) {
 async function getAllProblems() {
   const problems = [];
 
-  for (let page = 1; page <= 23; page++) {
+  for (let page = 0; page <= 23; page++) {
     const problem = await getProblems(page);
 
     problems.push(...problem);

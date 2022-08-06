@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Beginner",
+    "description": "Basic problems for anyone who has just started to program..."
+  },
+  {
+    "title": "Ad-Hoc",
+    "description": "Simulation Problems, Dates, Games and general Ad-Hoc..."
+  },
+  {
+    "title": "Strings",
+    "description": "Palindromes, Frequency, Ad-Hoc, LCS, String Manipulation..."
+  },
+  {
+    "title": "Data Structures and Libraries",
+    "description": "Queue, Stack, Sort, Map, Set..."
+  },
+  {
+    "title": "Mathematics",
+    "description": "Number Theory, Prime Numbers, Combinatorics, BigInteger..."
+  },
+  {
+    "title": "Paradigms",
+    "description": "Dynamic Programming, Binary Search, Greedy, Backtracking ..."
+  },
+  {
+    "title": "Graph",
+    "description": "Flood Fill, MST, SSSP, DAG, Maximum Flow, Tree..."
+  },
+  {
+    "title": "Computational Geometry",
+    "description": "Points and Lines, Polygon..."
+  },
+  {
+    "title": "SQL",
+    "description": "Query Languages: Select, Insert, Update, Create"
+  }
+]
