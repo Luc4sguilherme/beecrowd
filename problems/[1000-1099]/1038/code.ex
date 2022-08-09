@@ -23,13 +23,13 @@ defmodule Util do
     value |> String.trim() |> String.to_integer()
   end
 
-  def parse_mantisse(value, mantisse) do
-    :erlang.float_to_binary(value, decimals: mantisse)
+  def parse_mantissa(value, mantissa) do
+    :erlang.float_to_binary(value, decimals: mantissa)
   end
 end
 
 [code, quantity] = IO.gets("") |> String.split(" ") |> Enum.map(fn x -> Util.parse_string_as_integer(x) end)
 
-total = Program.get_total(code, quantity) |> Util.parse_mantisse(2)
+total = Program.get_total(code, quantity) |> Util.parse_mantissa(2)
 
 IO.puts("Total: R$ #{total}")

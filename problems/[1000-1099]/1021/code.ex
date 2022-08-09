@@ -39,7 +39,7 @@ defmodule Money do
 
     Map.merge(
       do_get_amount_of_coins(remaining_amount, smaller_coins, %{
-        Util.parse_mantisse(coin / 100, 2) => coin_amount
+        Util.parse_mantissa(coin / 100, 2) => coin_amount
       }),
       accumulator
     )
@@ -47,8 +47,8 @@ defmodule Money do
 end
 
 defmodule Util do
-  def parse_mantisse(value, mantisse) do
-    :erlang.float_to_binary(value, decimals: mantisse)
+  def parse_mantissa(value, mantissa) do
+    :erlang.float_to_binary(value, decimals: mantissa)
   end
 
   def parse_string_as_float(value) do

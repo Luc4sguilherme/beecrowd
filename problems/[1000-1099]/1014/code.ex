@@ -13,14 +13,14 @@ defmodule Util do
     value |> String.trim() |> String.to_integer()
   end
 
-  def parse_mantisse(value, mantisse) do
-    :erlang.float_to_binary(value, decimals: mantisse)
+  def parse_mantissa(value, mantissa) do
+    :erlang.float_to_binary(value, decimals: mantissa)
   end
 end
 
 total_distance = IO.gets("") |> Util.parse_string_as_integer()
 spent_fuel_total = IO.gets("") |> Util.parse_string_as_float()
 
-average_consumption = Car.calculate_average_consumption(total_distance, spent_fuel_total) |> Util.parse_mantisse(3)
+average_consumption = Car.calculate_average_consumption(total_distance, spent_fuel_total) |> Util.parse_mantissa(3)
 
 IO.puts("#{average_consumption} km/l")

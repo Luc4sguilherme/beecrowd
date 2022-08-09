@@ -4,8 +4,8 @@ calculate_sphere_volume = fn radius ->
   4 / 3 * pi * :math.pow(radius, 3)
 end
 
-parse_mantisse = fn number, mantisse ->
-  :erlang.float_to_binary(number, decimals: mantisse)
+parse_mantissa = fn number, mantissa ->
+  :erlang.float_to_binary(number, decimals: mantissa)
 end
 
 parse_string_as_float = fn value ->
@@ -14,6 +14,6 @@ end
 
 radius = IO.gets("") |> parse_string_as_float.()
 
-sphere_volume = calculate_sphere_volume.(radius) |> parse_mantisse.(3)
+sphere_volume = calculate_sphere_volume.(radius) |> parse_mantissa.(3)
 
 IO.puts("VOLUME = #{sphere_volume}")

@@ -26,14 +26,14 @@ defmodule Util do
     value < 0
   end
 
-  def parse_mantisse(value, mantisse) do
-    :erlang.float_to_binary(value, decimals: mantisse)
+  def parse_mantissa(value, mantissa) do
+    :erlang.float_to_binary(value, decimals: mantissa)
   end
 end
 
 try do
   [a, b, c] = IO.gets("") |> String.split(" ") |> Enum.map(fn x -> Util.parse_string_as_float(x) end)
-  [r1, r2] = Bhaskara.calculateRoots(a, b, c) |> Enum.map(fn x -> Util.parse_mantisse(x, 5) end)
+  [r1, r2] = Bhaskara.calculateRoots(a, b, c) |> Enum.map(fn x -> Util.parse_mantissa(x, 5) end)
 
   IO.puts("R1 = #{r1}")
   IO.puts("R2 = #{r2}")

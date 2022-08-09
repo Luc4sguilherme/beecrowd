@@ -12,13 +12,13 @@ sum = fn list_of_products ->
   |> Enum.reduce(&(&1 + &2))
 end
 
-parse_mantisse = fn number, mantisse -> :erlang.float_to_binary(number, decimals: mantisse) end
+parse_mantissa = fn number, mantissa -> :erlang.float_to_binary(number, decimals: mantissa) end
 
 product1 = IO.gets("") |> String.split(" ")
 product2 = IO.gets("") |> String.split(" ")
 
 products = [parse_array_as_float.(product1) | [parse_array_as_float.(product2)]]
 
-value_to_pay = sum.(products) |> parse_mantisse.(2)
+value_to_pay = sum.(products) |> parse_mantissa.(2)
 
 IO.puts("VALOR A PAGAR: R$ #{value_to_pay}")

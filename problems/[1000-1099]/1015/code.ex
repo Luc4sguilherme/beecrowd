@@ -9,8 +9,8 @@ defmodule Point do
 end
 
 defmodule Util do
-  def parse_mantisse(value, mantisse) do
-    :erlang.float_to_binary(value, decimals: mantisse)
+  def parse_mantissa(value, mantissa) do
+    :erlang.float_to_binary(value, decimals: mantissa)
   end
 
   def parse_string_as_float(value) do
@@ -30,6 +30,6 @@ point2 =
   |> Enum.map(fn x -> Util.parse_string_as_float(x) end)
   |> Point.make()
 
-distance = Point.calculate_distance(point1, point2) |> Util.parse_mantisse(4)
+distance = Point.calculate_distance(point1, point2) |> Util.parse_mantissa(4)
 
 IO.puts("#{distance}")

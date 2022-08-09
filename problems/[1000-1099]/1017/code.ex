@@ -5,8 +5,8 @@ defmodule Car do
 end
 
 defmodule Util do
-  def parse_mantisse(value, mantisse) do
-    :erlang.float_to_binary(value, decimals: mantisse)
+  def parse_mantissa(value, mantissa) do
+    :erlang.float_to_binary(value, decimals: mantissa)
   end
 
   def parse_string_as_integer(value) do
@@ -21,6 +21,6 @@ car_fuel_consumption = 12
 
 liters_of_fuel =
   Car.calculate_spent_fuel(spent_time, average_speed, car_fuel_consumption)
-  |> Util.parse_mantisse(3)
+  |> Util.parse_mantissa(3)
 
 IO.puts("#{liters_of_fuel}")
