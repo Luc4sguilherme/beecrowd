@@ -4,10 +4,10 @@ defmodule Money do
   def get_amount_of_banknotes(amount),
     do: do_get_amount_of_banknotes(amount, @banknotes, %{})
 
-  defp do_get_amount_of_banknotes(_, banknotes, accumlator) when length(banknotes) == 0,
-    do: accumlator
+  defp do_get_amount_of_banknotes(_, banknotes, accumulator) when length(banknotes) == 0,
+    do: accumulator
 
-  defp do_get_amount_of_banknotes(amount, [banknote | smaller_banknotes], accumlator) do
+  defp do_get_amount_of_banknotes(amount, [banknote | smaller_banknotes], accumulator) do
     banknote_amount = :math.floor(amount / banknote) |> trunc()
     remaining_amount = rem(amount, banknote)
 
@@ -15,7 +15,7 @@ defmodule Money do
       do_get_amount_of_banknotes(remaining_amount, smaller_banknotes, %{
         banknote => banknote_amount
       }),
-      accumlator
+      accumulator
     )
   end
 end
