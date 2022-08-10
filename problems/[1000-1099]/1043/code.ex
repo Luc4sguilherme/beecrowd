@@ -1,4 +1,4 @@
-defmodule Triangule do
+defmodule Triangle do
   def calculate_perimeter(a, b, c) do
     a + b + c
   end
@@ -30,11 +30,11 @@ end
   |> String.split(" ")
   |> Enum.map(fn x -> Util.parse_string_as_float(x) end)
 
-is_triangle = Triangule.is_triangle(a, b, c)
+is_triangle = Triangle.is_triangle(a, b, c)
 
 if(is_triangle) do
-  triangule_perimeter = Triangule.calculate_perimeter(a, b, c) |> Util.parse_mantissa(1)
-  IO.puts("Perimetro = #{triangule_perimeter}")
+  triangle_perimeter = Triangle.calculate_perimeter(a, b, c) |> Util.parse_mantissa(1)
+  IO.puts("Perimetro = #{triangle_perimeter}")
 else
   trapezium_area = Trapezium.calculate_area(a, b, c) |> Util.parse_mantissa(1)
   IO.puts("Area = #{trapezium_area}")

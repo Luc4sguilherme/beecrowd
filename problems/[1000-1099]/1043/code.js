@@ -1,7 +1,7 @@
 var input = require("fs").readFileSync("/dev/stdin", "utf8");
 var lines = input.split(" ");
 
-function calculatePerimeterOfTriangule(a, b, c) {
+function calculatePerimeterOfTriangle(a, b, c) {
     return a + b + c;
 }
 
@@ -21,7 +21,7 @@ function main() {
     var [a, b, c] = lines.map((line) => Number(line));
 
     if (isTriangle(a, b, c)) {
-        var perimeter = calculatePerimeterOfTriangule(a, b, c);
+        var perimeter = calculatePerimeterOfTriangle(a, b, c);
         process.stdout.write(`Perimetro = ${perimeter.toFixed(1)}\n`);
     } else {
         var area = calculateAreaOfTrapezium(a, b, c);
