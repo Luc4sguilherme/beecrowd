@@ -11,14 +11,14 @@ defmodule PhoneDialing do
   ]
 
   def get_destination(code) do
-    Enum.find(@destinations, %{:destination => "DDD nao cadastrado"}, fn destination ->
-      destination.code == code
+    Enum.find_value(@destinations, "DDD nao cadastrado", fn item ->
+      if item.code == code, do: item.destination
     end)
   end
 end
 
 code = IO.gets("") |> String.trim() |> String.to_integer()
 
-%{:destination => destination} = PhoneDialing.get_destination(code)
+destination = PhoneDialing.get_destination(code)
 
 IO.puts("#{destination}")
