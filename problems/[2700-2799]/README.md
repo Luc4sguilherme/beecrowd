@@ -1,4 +1,4 @@
-# Problems 2700 (4.08 %)
+# Problems 2700 (5.10 %)
 
 
 - [ ] [2700](https://www.beecrowd.com.br/judge/en/problems/view/2700) - [Fundraising] *Data Structures and Libraries*
@@ -73,7 +73,7 @@
 - [ ] [2771](https://www.beecrowd.com.br/judge/en/problems/view/2771) - [Average] *Ad-Hoc*
 - [ ] [2772](https://www.beecrowd.com.br/judge/en/problems/view/2772) - [Plantation] *Ad-Hoc*
 - [ ] [2773](https://www.beecrowd.com.br/judge/en/problems/view/2773) - [Shortest Path] *Computational Geometry*
-- [ ] [2774](https://www.beecrowd.com.br/judge/en/problems/view/2774) - [Sensor Accuracy] *Beginner*
+- [x] [2774](https://www.beecrowd.com.br/judge/en/problems/view/2774) - [Sensor Accuracy](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2700-2799]/2774/code.js) *Beginner*
 - [ ] [2775](https://www.beecrowd.com.br/judge/en/problems/view/2775) - [Preparing Production] *Beginner*
 - [ ] [2776](https://www.beecrowd.com.br/judge/en/problems/view/2776) - [Promotions] *Ad-Hoc*
 - [ ] [2777](https://www.beecrowd.com.br/judge/en/problems/view/2777) - [Dabriel's Subsets] *Mathematics*

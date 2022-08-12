@@ -1,4 +1,4 @@
-# Problems (50.45 %)
+# Problems (50.75 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -240,7 +240,7 @@
 - [ ] [2766](https://www.beecrowd.com.br/judge/en/problems/view/2766) - [Input and Output Reading and Skipping Names]
 - [ ] [2769](https://www.beecrowd.com.br/judge/en/problems/view/2769) - [Assembly Line]
 - [ ] [2770](https://www.beecrowd.com.br/judge/en/problems/view/2770) - [Board Size]
-- [ ] [2774](https://www.beecrowd.com.br/judge/en/problems/view/2774) - [Sensor Accuracy]
+- [x] [2774](https://www.beecrowd.com.br/judge/en/problems/view/2774) - [Sensor Accuracy](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2700-2799]/2774/code.js)
 - [ ] [2775](https://www.beecrowd.com.br/judge/en/problems/view/2775) - [Preparing Production]
 - [ ] [2779](https://www.beecrowd.com.br/judge/en/problems/view/2779) - [Album of the Cup]
 - [ ] [2780](https://www.beecrowd.com.br/judge/en/problems/view/2780) - [Robot Basketball]
