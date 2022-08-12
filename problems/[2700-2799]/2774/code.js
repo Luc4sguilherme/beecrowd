@@ -7,16 +7,16 @@ function calculateMean(values) {
     return mean;
 }
 
-function calculateSensorAccuracy(measures) {
-    var mean = calculateMean(measures);
-    var number_of_measures = measures.length;
+function calculateSensorAccuracy(measurements) {
+    var mean = calculateMean(measurements);
+    var number_of_measurements = measurements.length;
     var summation = 0;
 
-    for (var i = 0; i < number_of_measures; i++) {
-        summation += Math.pow(measures[i] - mean, 2);
+    for (var i = 0; i < number_of_measurements; i++) {
+        summation += Math.pow(measurements[i] - mean, 2);
     }
 
-    var sample_variance = summation / (number_of_measures - 1);
+    var sample_variance = summation / (number_of_measurements - 1);
     var accuracy = Math.sqrt(sample_variance);
 
     return accuracy;
@@ -24,11 +24,11 @@ function calculateSensorAccuracy(measures) {
 
 for (var i = 0; i < input.length; i += 2) {
     var _interval = input[i].split(" ");
-    var measures = input[i + 1]
+    var measurements = input[i + 1]
         .split(" ")
-        .map((measure) => Number(measure.trim()));
+        .map((measurement) => Number(measurement.trim()));
 
-    var sensorAccuracy = calculateSensorAccuracy(measures);
+    var sensorAccuracy = calculateSensorAccuracy(measurements);
 
     process.stdout.write(`${sensorAccuracy.toFixed(5)}\n`);
 }

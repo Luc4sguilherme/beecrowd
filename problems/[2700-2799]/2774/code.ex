@@ -1,14 +1,14 @@
 defmodule Sensor do
-  def calculate_accuracy(measures) do
-    mean = Enum.sum(measures) / Enum.count(measures)
-    number_of_measures = Enum.count(measures)
+  def calculate_accuracy(measurements) do
+    mean = Enum.sum(measurements) / Enum.count(measurements)
+    number_of_measurements = Enum.count(measurements)
 
     summation =
-      Enum.reduce(measures, 0, fn measure, accumulator ->
-        accumulator + :math.pow(measure - mean, 2)
+      Enum.reduce(measurements, 0, fn measurement, accumulator ->
+        accumulator + :math.pow(measurement - mean, 2)
       end)
 
-    sample_variance = summation / (number_of_measures - 1)
+    sample_variance = summation / (number_of_measurements - 1)
     accuracy = :math.sqrt(sample_variance)
 
     accuracy
@@ -25,20 +25,20 @@ defmodule Util do
   end
 end
 
-measures =
+measurements =
   IO.read(:stdio, :all)
   |> String.trim()
   |> String.split("\n")
   |> Enum.map(fn value -> String.split(value, " ") end)
   |> Enum.chunk_every(2)
-  |> Enum.map(fn [_, measures] ->
-    Enum.map(measures, fn measure ->
-      Util.parse_string_as_float(measure)
+  |> Enum.map(fn [_, measurements] ->
+    Enum.map(measurements, fn measurement ->
+      Util.parse_string_as_float(measurement)
     end)
   end)
 
-measures
-|> Enum.each(fn measure ->
-  sensor_accuracy = Sensor.calculate_accuracy(measure) |> Util.parse_mantissa(5)
+measurements
+|> Enum.each(fn measurement ->
+  sensor_accuracy = Sensor.calculate_accuracy(measurement) |> Util.parse_mantissa(5)
   IO.puts("#{sensor_accuracy}")
 end)
