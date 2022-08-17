@@ -1,4 +1,4 @@
-# Problems (50.75 %)
+# Problems (51.04 %)
 
 
 - [x] [1000](https://www.beecrowd.com.br/judge/en/problems/view/1000) - [Hello World!](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[1000-1099]/1000/code.js)
@@ -182,7 +182,7 @@
 - [ ] [2334](https://www.beecrowd.com.br/judge/en/problems/view/2334) - [Little Ducks]
 - [x] [2344](https://www.beecrowd.com.br/judge/en/problems/view/2344) - [Notas da Prova](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2300-2399]/2344/code.js)
 - [ ] [2483](https://www.beecrowd.com.br/judge/en/problems/view/2483) - [Merry Christmaaas!]
-- [ ] [2486](https://www.beecrowd.com.br/judge/en/problems/view/2486) - [C Mais ou Menos?]
+- [x] [2486](https://www.beecrowd.com.br/judge/en/problems/view/2486) - [C Mais ou Menos?](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2400-2499]/2486/code.js)
 - [ ] [2493](https://www.beecrowd.com.br/judge/en/problems/view/2493) - [Jogo do Operador]
 - [ ] [2502](https://www.beecrowd.com.br/judge/en/problems/view/2502) - [Deciphering the Encrypted Card]
 - [ ] [2510](https://www.beecrowd.com.br/judge/en/problems/view/2510) - [Batmain]

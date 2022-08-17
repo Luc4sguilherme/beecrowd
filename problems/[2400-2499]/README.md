@@ -1,4 +1,4 @@
-# Problems 2400 (0 %)
+# Problems 2400 (1 %)
 
 
 - [ ] [2400](https://www.beecrowd.com.br/judge/en/problems/view/2400) - [Balé] *Ad-Hoc*
@@ -87,7 +87,7 @@
 - [ ] [2483](https://www.beecrowd.com.br/judge/en/problems/view/2483) - [Merry Christmaaas!] *Beginner*
 - [ ] [2484](https://www.beecrowd.com.br/judge/en/problems/view/2484) - [Abracadabra] *Strings*
 - [ ] [2485](https://www.beecrowd.com.br/judge/en/problems/view/2485) - [Bicho da Goiaba] *Graph*
-- [ ] [2486](https://www.beecrowd.com.br/judge/en/problems/view/2486) - [C Mais ou Menos?] *Beginner*
+- [x] [2486](https://www.beecrowd.com.br/judge/en/problems/view/2486) - [C Mais ou Menos?](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2400-2499]/2486/code.js) *Beginner*
 - [ ] [2487](https://www.beecrowd.com.br/judge/en/problems/view/2487) - [Do Lado Escuro do Código] *Ad-Hoc*
 - [ ] [2488](https://www.beecrowd.com.br/judge/en/problems/view/2488) - [É Na Batida do Cavalo!] *Data Structures and Libraries*
 - [ ] [2489](https://www.beecrowd.com.br/judge/en/problems/view/2489) - [Flecha no Coelho] *Mathematics*
