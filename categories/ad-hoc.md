@@ -1,4 +1,4 @@
-# Problems (0.13 %)
+# Problems (0.27 %)
 
 
 - [ ] [1026](https://www.beecrowd.com.br/judge/en/problems/view/1026) - [To Carry or not to Carry]
@@ -469,7 +469,7 @@
 - [ ] [2450](https://www.beecrowd.com.br/judge/en/problems/view/2450) - [Matrix Ladder]
 - [ ] [2451](https://www.beecrowd.com.br/judge/en/problems/view/2451) - [PacMan]
 - [ ] [2452](https://www.beecrowd.com.br/judge/en/problems/view/2452) - [Semente]
-- [ ] [2453](https://www.beecrowd.com.br/judge/en/problems/view/2453) - [Língua do P]
+- [x] [2453](https://www.beecrowd.com.br/judge/en/problems/view/2453) - [Língua do P](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2400-2499]/2453/code.js)
 - [ ] [2454](https://www.beecrowd.com.br/judge/en/problems/view/2454) - [Flíper]
 - [ ] [2455](https://www.beecrowd.com.br/judge/en/problems/view/2455) - [Gangorra]
 - [ ] [2456](https://www.beecrowd.com.br/judge/en/problems/view/2456) - [Cards]

@@ -1,4 +1,4 @@
-# Problems 2400 (1 %)
+# Problems 2400 (2 %)
 
 
 - [ ] [2400](https://www.beecrowd.com.br/judge/en/problems/view/2400) - [Balé] *Ad-Hoc*
@@ -54,7 +54,7 @@
 - [ ] [2450](https://www.beecrowd.com.br/judge/en/problems/view/2450) - [Matrix Ladder] *Ad-Hoc*
 - [ ] [2451](https://www.beecrowd.com.br/judge/en/problems/view/2451) - [PacMan] *Ad-Hoc*
 - [ ] [2452](https://www.beecrowd.com.br/judge/en/problems/view/2452) - [Semente] *Ad-Hoc*
-- [ ] [2453](https://www.beecrowd.com.br/judge/en/problems/view/2453) - [Língua do P] *Ad-Hoc*
+- [x] [2453](https://www.beecrowd.com.br/judge/en/problems/view/2453) - [Língua do P](https://github.com/Luc4sguilherme/beecrowd/blob/master/problems/[2400-2499]/2453/code.js) *Ad-Hoc*
 - [ ] [2454](https://www.beecrowd.com.br/judge/en/problems/view/2454) - [Flíper] *Ad-Hoc*
 - [ ] [2455](https://www.beecrowd.com.br/judge/en/problems/view/2455) - [Gangorra] *Ad-Hoc*
 - [ ] [2456](https://www.beecrowd.com.br/judge/en/problems/view/2456) - [Cards] *Ad-Hoc*
